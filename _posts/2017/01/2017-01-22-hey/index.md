@@ -1,0 +1,39 @@
+---
+title: "Hey."
+date: 2017-01-22
+categories: 
+  - "personal"
+tags: 
+  - "creating"
+  - "depression"
+  - "mental-health"
+coverImage: "hey_banner.png"
+---
+
+So I've been doing a lot of thinking lately about what I want to do with things.
+
+I know that seems a bit vague, but I've been on a break since August and starting to get the itch to create again, and create regularly. I've been holding off on doing this mostly because I was wondering if I was ready — I think I was holding off for some huge breakthrough to happen through therapy or something else.
+
+This isn't exactly a terrible thing to hope for, as I've been putting in a lot of work to improve myself and my mentality when it comes to creating. I've been becoming more conscious of my negative moods and what exactly I can do when I notice I'm in one.
+
+<!--more-->
+
+What sucks the most is that while I _know_ that I'm in a negative place, and what to do to fix it (well, somewhat) it feels like that flies out the window when it's time to apply it. I've been talking more and more about it, and I can come to the conclusion that the hardest step of fixing these bad habits is making that decision in the moment. You need to be able to reject what was comfortable — but not **good** — for you in order to make a conscious effort.
+
+So here I am.
+
+I literally have a dozen reasons why I shouldn't start writing again, but my main one is that I have no idea how consistent I can be. I hate thinking about starting new projects because I feel like I'm disappointing myself when I find that I can't fulfill how they are in my head. I learned this through ambitious things like BetterDota or The Ongoing History of RPGs, or Sessions, or... a bunch of other stuff.
+
+But the thing is, if I don't keep trying, nothing changes. Also, a good thing that came out of therapy this week was re-framing how I make things.
+
+My major bad habit is that I tend to put expectation into any piece of content that I make. Despite this being a bad idea, I can't help thinking "maybe this is the one that blows up" or "this could lead to something big." When it (inevitably) fails to meet this expectation, negativity spirals out of control and I lose momentum.
+
+Instead, my therapist suggested that I start thinking about my writing and work like how I approach the gym: as a _process_, rather than something that just ends when I meet some arbitrary goal. This made a lot of sense, mostly because that's exactly what it is. I'm not sure I _have_ an end goal for this, so all I can really do is keep going and keep getting better in the meantime.
+
+I also came across this comment from Gabe Newell during his AMA on Reddit this past week:Comment from discussion Hi. I'm Gabe Newell. AMA..
+
+This kind of puts a lot in perspective, mostly because all I was doing was stopping once I got to the "measurement" phase without doing anything afterward. Instead of looking at my projects based off of their success I should be embracing their potential as teaching tools. I already knew this, but like I said, it's hard to just flip a switch and change your thinking sometimes, especially when you're fueled by anxiety that's making you wonder "what if."
+
+If I want to improve, all I can really do is keep pushing. If something doesn't work out how I'd like, I need to be able to dust myself off and try again the next time. It's like the gym: if I fail to complete all my lifts, I need to be able to go home, not get discouraged, and go back to the next session wanting to keep at it.
+
+Because that's how you grow, and that's how it has to happen sometimes.
