@@ -20,3 +20,16 @@ plugins:
 # Minimal Mistakes
 
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author: "Matt Demers"
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
