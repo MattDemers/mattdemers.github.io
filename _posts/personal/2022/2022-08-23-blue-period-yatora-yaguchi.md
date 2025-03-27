@@ -35,7 +35,7 @@ Yatora's deliquintism isn't a big focus on the story. He's not a partier, nor is
 
 Usually this would be another metaphorical strike, mostly because again, there's nothing inherently difficult here; saying "ah yes he's also a study nerd" keeps the consequences of his actions from catching up with him.
 
-![](images/blue_period_superficiality.png)
+![](/assets/images/blue_period_superficiality.png)
 
 Where _Blue Period_ succeeds is making it so that Yatora's journey isn't so much about his desire to be successful, rich, or famous, but his desire for personal **fufillment**. He feels empty while proceeding towards the life he's built up to this point, and yearns for a change. His goals take a turn, and he decides to try to both learn art and get accepted to a prestigious Tokyo art university; this is the destination of the story, but thankfully doesn't matter too much.
 
@@ -45,7 +45,7 @@ It would be easy to look at _Blue Period_ as some kind of repudiation of Japan's
 
 <figure>
 
-![](images/blue_period_composition.png)
+![](/assets/images/blue_period_composition.png)
 
 <figcaption>
 
@@ -65,7 +65,7 @@ But, still, we pick up the pen, the keyboard, the typewriter, the instrument, or
 
 Maybe that's me projecting my own main character syndrome a bit, but if these kinds of stories don't put you in that mindset, I don't think they're doing their job properly.
 
-![](images/blue_period_Ryuji_Ayukawa-1024x728.png)
+![](/assets/images/blue_period_Ryuji_Ayukawa-1024x728.png)
 
 I've only spoken a little about Yatora's journey, but I think that the secondary protagnonist, Ryuji Ayukawa, also offers good story beats around identity, creativity, sexuality, and positive LGBT representation. I don't feel qualified to give it a thorough examination, but I think it's handled better than most manga. Her story is a bit more personal (and personal conflict-heavy) than Yatora's, but it fills in something much-needed.
 
@@ -75,6 +75,6 @@ With _Space Brothers_, a linear storyline kind of falls off, because the main ch
 
 With _Blue Period_, the journey isn't about the art, or the goal of the university, the art exhibit, or the career. It's about looking at how art (and trying to be creative) can be intensely challenging, and how that changes _you_ in the process.
 
-![](images/blue_period_art_inaccessibility-874x1024.png)
+![](/assets/images/blue_period_art_inaccessibility-874x1024.png)
 
 I think that regardless of whether you're artistic or not, you can find something to identify with, there.

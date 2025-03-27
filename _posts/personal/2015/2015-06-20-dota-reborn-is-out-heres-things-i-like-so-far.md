@@ -15,7 +15,7 @@ However, I thought I'd write a bit about what I _did_ like, which was quite a lo
 
 ## The Interface
 
-![](images/a3PtZPo.jpg)  
+![](/assets/images/a3PtZPo.jpg)  
 The interface for Reborn is smooth as hell, and that's something that really makes me grin. With some games you just feel _good_ going through the menus, and this is one of those times.
 
 There's less of a loading time going from tab to tab. Things load quickly, and assets rarely "snap in" unless there's some kind of model to load. For screens like the hero select or the armory, you have an easy-to-navigate set of buttons that click, snap and shift with awesome effects.
@@ -24,7 +24,7 @@ Things like the "ready to play" button moving from "accept" to a list of icons t
 
 ## The Friend Feed
 
-![](images/UfqjBnY.jpg)  
+![](/assets/images/UfqjBnY.jpg)  
 These kind of features tend to be a little cyclical: if no one uses them, they fall by the wayside. However, I've made a habit of checking and commenting on friends' stuff from time to time, just to give a bit of light-hearted ribbing or just see if it works.
 
 Knowing that my friends are playing and progressing gives me an idea of where I stack up against them, and that's always a motivator to get better. I've been playing more Dota over the last two weeks than I have in months, and having incentives like streaming, the Compendium and friends to play/compete with are really helping me get more out of the game.
@@ -33,7 +33,7 @@ It also helps to see who's queuing up for custom games, and I've already found m
 
 ## The Game Itself
 
-![](images/zsBkBCB.jpg)  
+![](/assets/images/zsBkBCB.jpg)  
 Reborn made a bunch of changes to the map, both aesthetically and functionally, and from the few games I've played on it I really enjoy it. It's not something so huge that I'm sitting there saying "Damn, **never again** am I going back to Source 1," but at the same time things feel snappier: I played a Viper game where killing creeps seemed simpler. I played a Keeper of the Light game where I was a bit let scatterbrained than normal. I had more awareness. I was more clutch.
 
 Completely subjective, obviously, but that's the whole point of this article - for all I know, playing on Reborn with the mentality of trying something new out could've given me a huge placebo effect.

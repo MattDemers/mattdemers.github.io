@@ -22,7 +22,7 @@ Twitch has proven that the marathon model is successful through a few early exam
 
 ## Start9
 
-![](images/tpp-1.png)
+![](/assets/images/tpp-1.png)
 
 Tons of people have written thinkpieces on Twitch Plays Pokemon, and one of the most interesting thing to come out of the event is the creation of a culture around it.
 
@@ -34,7 +34,7 @@ By then, social networks, the gaming press and just person-to-person talking wou
 
 ## Going Fast
 
-![](images/gdq.png)
+![](/assets/images/gdq.png)
 
 I would have written this post sooner, but I've spent the last week addicted to Awesome Games Done Quick.
 
@@ -52,7 +52,7 @@ My philosophy when it comes to Twitch success is pretty simple: either you're en
 
 ## KappaRoss
 
-![](images/KappaRoss.png)
+![](/assets/images/KappaRoss.png)
 
 Source: Twitch user Sohlol | **Link**
 

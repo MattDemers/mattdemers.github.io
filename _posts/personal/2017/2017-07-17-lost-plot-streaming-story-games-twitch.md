@@ -40,7 +40,7 @@ Both probably require 5 minutes or more of explanation to someone who’s never 
 
 <figure>
 
-![](images/1*-KYgApmDc8lWMRjDrYIPXA.gif)
+![](/assets/images/1*-KYgApmDc8lWMRjDrYIPXA.gif)
 
 <figcaption>
 
@@ -75,7 +75,7 @@ I found this last one especially a problem when I was trying to play _Persona 5.
 
 <figure>
 
-![](images/1*yvoiXb_AAYWibqosMzaUPQ.gif)
+![](/assets/images/1*yvoiXb_AAYWibqosMzaUPQ.gif)
 
 <figcaption>
 

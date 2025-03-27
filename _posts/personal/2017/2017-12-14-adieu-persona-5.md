@@ -26,7 +26,7 @@ For the uninitiated, the player character and their party in the game are given 
 
 At some point, our party becomes a bit cocky. Things have been going _too_ well at this point, and some members feel a bit invincible. They've been given a power to decide how society can change, and their choices about their targets start to shift from necessity to vengeance or spite.
 
-![](images/20171007184920-1024x576-1.jpg)
+![](/assets/images/20171007184920-1024x576-1.jpg)
 
 They decide — with some hesitation and outside pressure — that they'll be taking on someone much bigger and more dangerous than usual. At the end of the section, when that target would normally have a "change of heart", they end up _dead_ instead.
 
@@ -34,7 +34,7 @@ This is a turning point in the game, because leading up to this the Phantom Thie
 
 What the public sees as murder causes support to _plummet,_ as social media messages you see in loading screens turn from encouraging to attacking. The mob turns bloodthirsty, first to see similar results with other people they view as fair targets, and then towards _you._
 
-![](images/20171007235037-1024x576.jpg)
+![](/assets/images/20171007235037-1024x576.jpg)
 
 Your party members are shaken, and they lose the confidence they once had: were their actions ever right? Were people going to find and hurt them? Were they in over their heads?
 
@@ -42,7 +42,7 @@ These kind of messages felt familiar: I'd seen them before from _real_ people wh
 
 The game capturing a fairly recent issue — how people wield power online that they may not have had before — mirrored something I've found myself scared of. Am I one wrong tweet away from losing everything I've built for myself? Would people who knew the "real me" give me the benefit of the doubt if that mistake were to happen? Does this anxiety keep me from having the courage to stand up for my principles in general?
 
-![](images/20171210003954.png)
+![](/assets/images/20171210003954.png)
 
 Where this kind of wheels around to is the Confidants.
 
@@ -62,7 +62,7 @@ But what about what you take away from the game separately? Instead of dwelling 
 
 The thing is, with TV, anime, manga or comics I'm always hesitant to give myself entirely to the inspiration they give me. In some ways, it feels almost naive; those stories and their universes are in full control of their creators, and if a character works to succeed, and the creator has that as part of their plan, they will.
 
-![](images/20171127011240.png)
+![](/assets/images/20171127011240.png)
 
 Real life is not like that, and to say that I come away from reading a manga or playing a game with a new outlook on life seems shortsighted. It seems overly idealistic — seeing a protagonist triumph after all their hard work is a planned event, and not always something you can replicate if you were to take the same steps. While that 1:1 result isn't always the point, there's a sense of catharsis that we get from when characters we care about triumph.
 
@@ -97,7 +97,7 @@ Games like this don't _fix_ you; they just kind of cause small connections to fo
 
 Having the patience the even approach those steps is a skill on its own, but the fight for yourself is most likely worth it.
 
-![](images/20171209210344.png)
+![](/assets/images/20171209210344.png)
 
 > _It was fun while it lasted,_  
 > _goodbye._

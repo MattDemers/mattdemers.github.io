@@ -23,7 +23,7 @@ As many old-school players can attest, guilds and raids just felt much **closer*
 
 Hell, YouTube had just launched.
 
-![](images/dalaran1-1.png)
+![](/assets/images/dalaran1-1.png)
 
 So, 11 years later, I found myself with an itch when the most recent expansion, _Legion_, released at the end of August. I felt the same pull when _Warlords of Draenor_ released in 2014, and made the same mistake: I longed for the social interaction and focus that guild-based raiding offered, and saw a lot of my friends purchasing (or planning to purchase) the game on social media.
 

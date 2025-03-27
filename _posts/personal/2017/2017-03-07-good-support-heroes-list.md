@@ -37,7 +37,7 @@ So, without further ado:
 
 **Witch Doctor**
 
-![](images/doctor_banner.png)
+![](/assets/images/doctor_banner.png)
 
 WD is my most-played hero for a reason: semi-dependable stun (depending on how it bounces), a heal that promotes sustained pushing (and is hella buffed after talents) and early game killing power with Death Ward and Maledict. I used to always de-prioritize Maledict because I wanted more survivability for my carries, but after seeing other Witch Doctors do a lot of damage with it, I'm starting to recognize when/why you would skill it more.
 
@@ -45,7 +45,7 @@ Weaknesses include being pretty squishy late-game, which puts more emphasis on p
 
 **Ogre Magi**
 
-![](images/ogre_banner_2.png)
+![](/assets/images/ogre_banner_2.png)
 
 Ogre works at my level because you get to "do Ogre things:" run up to offlaners, throw down Ignite on them, and hit them until they leave. However, he becomes a more enticing pick because I've started to realize just how silly Bloodlust is when you have multiple auto-attacking carries (as some pub games do) — **60** bonus attack speed at level 4, with a potential to go up to **100** if you get the level 25 talent.
 
@@ -53,7 +53,7 @@ Multicast is nice, but obviously unpredictable; long cooldowns mean casting my s
 
 **Vengeful Spirit**
 
-![](images/venge_banner.png)
+![](/assets/images/venge_banner.png)
 
 If you die, you give a negative damage debuff to who killed you. Works for me: free deaths, right?
 
@@ -63,7 +63,7 @@ Venge is kind of the "oh, no one is picking? This can be safe enough."
 
 **Rubick**
 
-![](images/rubick_banner.png)
+![](/assets/images/rubick_banner.png)
 
 A bit more risky due to his nature: you need to be able to survive to use the spells you steal, and Blink Daggering in may mean you die pretty quick. However, picking Rubick early in a draft may discourage the enemy from picking big teamfight spells, which is a cool psychological tool I didn't think of before; limiting choices (these skills are usually pretty low-execution) may mean forcing people onto uncomfortable picks.
 
@@ -71,7 +71,7 @@ Rubick is probably someone I'm going to break out when there's a solid initiatio
 
 **Treant Protector**
 
-![](images/treant_banner.png)
+![](/assets/images/treant_banner.png)
 
 I really like Tree because he can cover a lot of deficiencies in your team. Getting Aghanim's Scepter late means free vision (including Roshan), Overgrowth can be a great engage/disengage tool that disables Blink effects (including Storm Spirit/Ember Spirit escapes), and Leech Seed is a great "HEY HIT THIS GUY" indicator that sometimes you need. Living Armor is great to reduce downtime for carries, and healing buildings can be frustrating.
 
@@ -79,7 +79,7 @@ He lacks in some areas: mostly you need to get creative and ballsy when the othe
 
 **Disruptor**
 
-![](images/disruptor_banner.png)
+![](/assets/images/disruptor_banner.png)
 
 I feel like Disruptor is the go-to "Hey, you need CC? Hey, you need to make sure people don't escape? Let's go." hero. I generally consider this guy when I'm facing Storm/Ember Spirit, Slark or anyone else that is slippery and gets wrecked by a good Static Storm. He's also a good gem carrier due to Kinetic Field giving vision uphill, and being ranged to hit things.
 

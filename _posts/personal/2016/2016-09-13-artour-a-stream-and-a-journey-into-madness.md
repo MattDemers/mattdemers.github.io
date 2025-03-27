@@ -42,7 +42,7 @@ That last bit might be ironic… but it also might not be? It goes into some wei
 
 You’re along for a ride with a guy who wants nothing more to just play a game, enjoy it, and most likely get some good practice in. Sometimes that happens. Other times you get to see him voice the same frustrations at you do to the _morons_ who are on your team.
 
-![](images/fFpfHrc.gif)
+![](/assets/images/fFpfHrc.gif)
 
 That shit’s cathartic.
 

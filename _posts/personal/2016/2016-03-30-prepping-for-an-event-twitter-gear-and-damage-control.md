@@ -33,7 +33,7 @@ From there, verify it (they'll send you a text message). Depending on what count
 
 From the Mobile settings page, you can also set up SMS notifications on your phone, too; this means you'll get a text when people follow you, direct message you, retweet your stuff or reply. You obviously don't want all of this set up if you have a huge following, but things like DMs can really be a lifesaver, even if you have data; you're going to want those notifications if they're important.
 
-![](images/chrome_2016-03-30_17-42-23.png)
+![](/assets/images/chrome_2016-03-30_17-42-23.png)
 
 Also, if you want to tweet photos to your account, attaching them like you would any MMS will carry over if you're under the right carrier. For the US, it works on AT&T, Verizon, C Spire, US Cellular and MetroPCS. In Canada, Bell, Telus and Rogers offer this service.
 

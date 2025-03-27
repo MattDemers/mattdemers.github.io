@@ -59,7 +59,7 @@ If you make things without establishing why you're _better_ than other products 
 
 ## The wheel of community
 
-![](images/cycle_engagement.png)
+![](/assets/images/cycle_engagement.png)
 
 Building a successful relationship with your community relies on three steps:
 

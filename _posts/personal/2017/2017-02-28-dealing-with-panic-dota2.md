@@ -64,4 +64,4 @@ So I guess from here I just need to make a list of those things, remind myself t
 
 Stuff to work on. Will keep you guys in the loop. I'll leave you with this great post I found about the "Bulletproof Argument for Trying Harder Things:" Tonci Zonjic has a great archive of similar issues called "Not/But" which is full of great ways to reframe your thinking.
 
-![](images/argument_for_trying_new_things_tozo.png)
+![](/assets/images/argument_for_trying_new_things_tozo.png)

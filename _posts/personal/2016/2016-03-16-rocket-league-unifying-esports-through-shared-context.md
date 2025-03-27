@@ -37,7 +37,7 @@ One is good, but both is great. _Smash Bros Melee_ has both.
 
 ## Rocket League definitely has both
 
-![](images/20160316202919_1.jpg)
+![](/assets/images/20160316202919_1.jpg)
 
 If I’ve ever played Rocket League (which I have), I can look at a professional or high level game and understand **instantly** why those people are better than me. Their movement is better. They manage boost for specific situations and aerials. They predict the game’s physics in a way that makes their cars and shots more precise.
 
@@ -53,7 +53,7 @@ In _Rocket League_, your way-too-good friend (hopefully) isn’t going to yell 
 
 ## Premiere league status
 
-![](images/20160316202801_1.jpg)
+![](/assets/images/20160316202801_1.jpg)
 
 All this works in _Rocket League_‘s favor in addition to it being a non-offensive, aesthetically mainstream title that no one is going to be embarrassed to show to their parents, spouse, friends or classmates. It can be explained in three words (“rocket car soccer”) that instantly sets the premise. Its rules and mechanics that carry over from traditional sports, and it punctuates all this with bright, friendly colors and explosions.
 
@@ -71,7 +71,7 @@ I’d say that’s a win.
 
 <figure>
 
-![](images/20160316202900_1.jpg)
+![](/assets/images/20160316202900_1.jpg)
 
 <figcaption>
 

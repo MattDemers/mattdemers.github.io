@@ -37,7 +37,7 @@ I've spent some time thinking about how Riot Games has applied a company-wide sy
 
 Part of the on-boarding at Riot involved "de-newbification," which familiarizes the new employee with the company, but also with dealing with the general public. Rioters are encouraged to be involved with the public through the company's forums, the /r/LeagueofLegends subreddit, and Twitter.
 
-![](images/Riot-Community-Management.png)
+![](/assets/images/Riot-Community-Management.png)
 
 In the process, many Rioters can become prominent in their roles, as it's likely that they will allow for the community to ask them questions and interact. As a _League of Legends_ fan, you can actually go up to the designer of your favourite champion and ask him/her things (depending on how easy they are to find, and how willing they are to talk).
 
@@ -87,7 +87,7 @@ There's something important to stress, though: while individual creators may hav
 
 ### **Business as usual**
 
-![](images/Valve-Community-Management.png)
+![](/assets/images/Valve-Community-Management.png)
 
 Valve are masters at making money off of other people's content, partially because they've built great places for people to sell them: Steam, _Team Fortress 2_, _Counter-Strike: Global Offensive_ and _Dota 2_. All three games have ways for community artists to make in-game items, get them implemented, and make a cut of the sales. Additions to the shop are curated by both Valve, and to a degree, the community: the Workshop is available for people to vote on what they'd like to see.
 

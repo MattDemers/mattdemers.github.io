@@ -26,7 +26,7 @@ You can sign up for IFTTT on their site. A previous version of this guide used Z
 
 In Discord, go to the channel you want to post your messages to and click the gear icon beside its name in the menu. Go to the "Webhooks" menu at the bottom, and click "Create Webhook."
 
-![](images/Discord_2017-02-10_19-38-44-1.jpg)
+![](/assets/images/Discord_2017-02-10_19-38-44-1.jpg)
 
 From there, you can give your hook a name (this is what the name of the announcements will show up as in the chat) and choose where it will post. The URL at the bottom is important because you're going to be using it in Step 3 and 4 below. Keep that on hand.
 
@@ -34,11 +34,11 @@ From there, you can give your hook a name (this is what the name of the announce
 
 Going to "My Applets" at the top of IFTTT when logged in and clicking "New Applet" will bring you to a screen that asks you "If this, then that." You can click on the "this" to choose a trigger and "that" to choose an action.
 
-![](images/chrome_2017-03-29_12-38-55.jpg)
+![](/assets/images/chrome_2017-03-29_12-38-55.jpg)
 
 For this example, I want a message to be posted when I post new YouTube videos. In the search field, I search for YouTube and choose it; I then choose the trigger "New public video uploaded by you." Other triggers may ask you for deeper options, like setting custom parameters.
 
-![](images/chrome_2017-03-29_12-42-15.jpg)
+![](/assets/images/chrome_2017-03-29_12-42-15.jpg)
 
 Next, we choose an action by clicking on the "That" in "If This, Then That." Once there, type in "webhook" into the search to bring up "Webhooks." From there, choose "Make a Web Request" as an action.
 
@@ -56,7 +56,7 @@ The web request part of the recipe is a bit complicated, but I'm going to go thr
 
 You want to place your ingredients into a template: `{ "content":"YOUR STUFF GOES HERE" }`
 
-![](images/firefox_2017-10-04_16-10-38.jpg)
+![](/assets/images/firefox_2017-10-04_16-10-38.jpg)
 
 Essentially what is in the quotes will be a generated message, and whatever you use in the "Add ingredient" menu will be pulled from the tweet, video, or post itself. This allows you to play with the message you want to send to Discord, since it recognizes both Discord emotes (`:heart:`, etc) and text-anchored links (following the format of `[textgoeshere](urlgoeshere)`).
 
@@ -66,7 +66,7 @@ So a sample for Twitter could be:
 
 This will say "Check out my new tweet at:" and then paste the URL of the Tweet, which will then auto-generate from IFTTT.
 
-![](images/Discord_2017-10-04_16-15-46.jpg)
+![](/assets/images/Discord_2017-10-04_16-15-46.jpg)
 
 What is imported and what your post looks like depends on the ingredients you pull into it, and your creativity. **Each option in the "Add ingredient" menu will be different depending on the service (Twitch, YouTube, Twitter, etc).** Some ingredients may not work, depending on whether Discord supports them (for instance, the TweetEmbedCode will not work, because Discord can't parse it).
 

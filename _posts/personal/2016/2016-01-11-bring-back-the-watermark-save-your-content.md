@@ -19,7 +19,7 @@ However, I think the negatives of their inclusions are outweighed by the fact th
 
 You look at the Likes/Shares/Views/Retweets/Reblogs, and that post has hundreds, if not thousands. The original author will never get the benefit of them. The re-poster doesn't give a shit about where it came from or crediting it properly. The **viewers** don't care about where it came from; they get their chuckle, they move on.
 
-They'll throw out a caption saying that they "don't know who made this, but it's ![](images/1f525.png?v5)![](images/1f525.png?v5)![](images/1f525.png?v5)." That's a shitty deal. ![](images/1f602.png?v5)'s might be a nice gesture, but it sure as hell doesn't put money in your pocket, or followers in your tally.
+They'll throw out a caption saying that they "don't know who made this, but it's ![](/assets/images/1f525.png?v5)![](/assets/images/1f525.png?v5)![](/assets/images/1f525.png?v5)." That's a shitty deal. ![](/assets/images/1f602.png?v5)'s might be a nice gesture, but it sure as hell doesn't put money in your pocket, or followers in your tally.
 
 So I think it's time we did something about it.
 

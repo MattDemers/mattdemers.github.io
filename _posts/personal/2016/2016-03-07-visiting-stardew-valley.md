@@ -19,7 +19,7 @@ How great would it be if you felt like a developer played **all** of the genre g
 
 For fans of _Harvest Moon_/_Song of Seasons_/_Rune Factory_, that fantasy has pretty much come true with _Stardew Valley_.
 
-![](images/StardewModdingAPI_2016-03-07_02-13-05-1024x576.png)
+![](/assets/images/StardewModdingAPI_2016-03-07_02-13-05-1024x576.png)
 
 As a farming life simulator, _Stardew Valley_ doesn't exactly mess with a formula: you're given a run-down farm and challenged to make it something awesome. However, the freedom that you're given to do so is where the game shines: there are literally dozens of ways to specialize and make money, and each one of them feels fleshed out in a way that rewards your investment.
 
@@ -33,7 +33,7 @@ Want to slay monsters? You can craft different weapons, status effect rings, and
 
 Want to just settle down, flirt a little with someone of the same or opposite sex? You've got ten guys and ladies (five and five) to choose from, each with different story paths, conversation options and gifts they like.
 
-![](images/StardewModdingAPI_2016-03-06_02-17-42-1024x576.png)
+![](/assets/images/StardewModdingAPI_2016-03-06_02-17-42-1024x576.png)
 
 If you're a fan of _Harvest Moon_, this should feel like a no-brainer, but what makes _Stardew_ feel special is that it feels like the developer made a list of all the things that annoyed him and fixed them.
 
@@ -51,7 +51,7 @@ This, of course, is all on top of the normal kind of farming game a fan can expe
 
 <figure>
 
-![](images/StardewModdingAPI_2016-03-06_03-27-00-1024x576.png)
+![](/assets/images/StardewModdingAPI_2016-03-06_03-27-00-1024x576.png)
 
 <figcaption>
 
@@ -69,7 +69,7 @@ Of course, the problem with this kind of strategy is that if you have a wide oce
 
 There's also the issue of the sprites looking like _RPG Maker 2000_ generated characters, which is probably my least favourite thing; I can deal with cuteish designs a-la _Animal Crossing_, but when the simple look of having glasses on my face means I'm resigning to look at a terrible mashup of pixels, I'm a little less than impressed.
 
-![](images/StardewModdingAPI_2016-03-07_02-10-30-1024x576.png)
+![](/assets/images/StardewModdingAPI_2016-03-07_02-10-30-1024x576.png)
 
 However, the good thing about this kind of indie game is that the modding community has already started, and many things (like the character portraits that some people dislike) are already being replaced with subjectively better versions. You want fishing to be easier? There's a mod for that. Harder? Sure, it's your funeral.
 
@@ -79,7 +79,7 @@ Essentially, it's another problem with the genre fixed: eventually these types o
 
 That's the whole point of these games: we're attracted to them because we're allowed to play them however we want, on our own terms. We're allowed to make mistakes, focus on being money-hungry bee barons, or spread our wings as social butterflies and woo the person of our dreams.
 
-![](images/StardewModdingAPI_2016-03-07_02-13-28-1024x576.png)
+![](/assets/images/StardewModdingAPI_2016-03-07_02-13-28-1024x576.png)
 
 It's all about what we value in these virtual lives — seeing how our decisions affect the future without the risk of our own **real** money or time is what keeps us playing "just one more day."
 

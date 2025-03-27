@@ -81,7 +81,7 @@ I think this might be the equivalent of a “eat less, fatty” poster when on a
 
 As I’ll tell anyone — I’m working on this.
 
-![](images/2022-Reflection-Mid-Image-1024x512.png)
+![](/assets/images/2022-Reflection-Mid-Image-1024x512.png)
 
 ## On honesty:
 

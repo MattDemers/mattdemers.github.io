@@ -75,7 +75,7 @@ Visually, through the HomeAssistant UI, it looks like this:
 
 **Then do**: Call Service > Switch: Turn On > Target: My Smart Socket
 
-![](images/image-1024x767.png)
+![](/assets/images/image-1024x767.png)
 
 My only note here is that there is a "20 second duration" on the initial trigger because the automation would constantly fire without it. It's basically saying "If the sensor has detected a vibration for 20 straight seconds, fire the automation."
 
@@ -151,7 +151,7 @@ push:
     volume: 1
 ```
 
-![](images/image-1-1024x623.png)
+![](/assets/images/image-1-1024x623.png)
 
 The extra `data` in the notification is to handle a Critical Notification in iOS, which will send a notification that bypasses Vibration Mode/Silent Mode on my phone. Since I keep my phone on these modes almost always, I wanted something that would notify me and make it hard to ignore.
 

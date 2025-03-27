@@ -29,7 +29,7 @@ Goalie and volleyball work hand in hand, and that's something I still notice tod
 
 So, in both cases, I feel valuable. And that's what that gangly, bullied, low-self-esteem kid needed to survive; someone thinking he was good at something.
 
-![](images/2-f2e2bdbbd903436697faf0a0b1eb01f135c739c48b86face844a6316200b8158.jpg)
+![](/assets/images/2-f2e2bdbbd903436697faf0a0b1eb01f135c739c48b86face844a6316200b8158.jpg)
 
 _Haikyuu!!_ got me back into volleyball after more than a decade away from it. It got me excited about the game — enough to make the decision easier as to what I could pursue to meet new friends, get out of the house, and step away from the PC as my main source of entertainment.
 
@@ -71,7 +71,7 @@ I think this was a detriment to the story. I don't think it _ruins_ the entire s
 
 Unfortunately, taking both of them away from Karasuno and putting them on opposite teams as professional players after a timeskip was the only way this thread from the beginning of the series could be resolved. I'm saying that it didn't need that resolution if it was going to come at the expense of the rest of the team's development, which it did.
 
-![](images/image-1.png)
+![](/assets/images/image-1.png)
 
 This is all speaking from personal biases, mostly because I have a curse in which I like side characters more than main ones, and the fan-favorite side characters are usually ones I dislike, as well.
 
@@ -81,7 +81,7 @@ On the flip side, I think that Furudate dodged some easy traps for an ending lik
 - Furudate didn't feel the need to shoehorn in a romance with either of the two main leads. Hinata was allowed to mature without the obvious pairing of Yachi (even though she kind of disappeared after being a somewhat-important character for the middle third of the story)
 - Not every character (even the enemy team aces) ended up playing pro volleyball after high school. This is a realistic take on things, because volleyball is not the sole life meaning to everyone who plays it — it was interesting to see where certain people ended up in careers, and it heralded a bit of development in certain characters.
 
-![](images/haikyuu_features.png)
+![](/assets/images/haikyuu_features.png)
 
 In my last blog post, I mentioned an issue where I felt uncomfortable taking inspiration from a work of fiction, because the creator ultimately has the choice over whether the protagonist succeeds or not. In short, I felt awkward using a story as basis to pursue my dreams, because in real life, not everyone gets that happy ending.
 
@@ -103,7 +103,7 @@ Sadly, the people who suffered most were the characters that we'd had the most t
 
 <figure>
 
-![](images/image.png)
+![](/assets/images/image.png)
 
 <figcaption>
 

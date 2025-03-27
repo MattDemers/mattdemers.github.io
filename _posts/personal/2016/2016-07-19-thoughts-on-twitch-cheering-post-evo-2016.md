@@ -19,13 +19,13 @@ By my very loose count, Twitch Cheering added at least $1500 USD to the competit
 
 **Note**: I got these amounts by looking at the widget that Twitch had set up for tracking the amounts, and noted how much the maximum was before the switch to the next match happened. This is why I define it as "loose" math, because there was Cheering happening before and after the widget was updated. I have no way of tracking how much I am missing.
 
-![](images/chrome_2017-01-21_23-13-571.jpg)
+![](/assets/images/chrome_2017-01-21_23-13-571.jpg)
 
 Important to note that this was without Evo taking the 30% cut that was originally announced; they opted to waive the money to the players/commentators. That 30% would've put the total down to somewhere near $1000 USD (again, very loose math). It is important to note that not all tournaments will act the same, especially since a main selling point of the system is to support tournament organizers.
 
 These were the individual amounts per match of Top 8:
 
-![](images/chrome_2017-01-21_23-14-04.jpg)
+![](/assets/images/chrome_2017-01-21_23-14-04.jpg)
 
 Some notes:
 

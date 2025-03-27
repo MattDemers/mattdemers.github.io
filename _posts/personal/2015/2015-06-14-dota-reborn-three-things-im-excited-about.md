@@ -19,7 +19,7 @@ Here's three things I like about what the first part of Reborn brings to the tab
 
 ## 1\. Improved Viewing Experience
 
-![](images/LjnUbGW.png)
+![](/assets/images/LjnUbGW.png)
 
 Let's look at this image. Real time graphs. Minimap. Chat. Ad space for tournaments. Side UI elements that (hopefully) can be hidden. Third-party streams. Hopefully real-time item build/timing information. I'm pretty biased because all this stuff really makes my job easier, but it also makes it easier to step inside the mind of the pro as they're playing.
 
@@ -27,7 +27,7 @@ Knowing when/how pros get their timings make emulating them easier; obviously I'
 
 ## 2\. Hero Tinkering
 
-![](images/ZGpzIPV.png)
+![](/assets/images/ZGpzIPV.png)
 
 I'm going to confess that sometimes I play Dota 2 like a dress-up game. I like to see cool combinations of cosmetics, and if I want to test a hero I rarely play, it can be a pain to load up a custom game, make sure cheats are enabled, only to disconnect and recreate because I want to try something else.
 
@@ -37,7 +37,7 @@ Sometimes you just need to be nudged in the right direction, and hopefully with 
 
 ## 3\. Playstyle Analytics
 
-![](images/hLUMRHY.png)
+![](/assets/images/hLUMRHY.png)
 
 This is the big one for me. I'm not exactly a hardcore data geek, but I love looking at numbers and seeing my performance quantified — even if I suck, tell me where I'm sucking and where I can get better. Even if I don't end up trying to fix things, at least I know where my strengths lie.
 

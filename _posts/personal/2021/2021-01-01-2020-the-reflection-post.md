@@ -43,7 +43,7 @@ I don't mean for that to sound too drastic; like I said, I don't think I'm "that
 
 That possibility gives me hope. Hope for a happier tomorrow is kind of the fuel I've been burning through these days.
 
-![](images/2-f2e2bdbbd903436697faf0a0b1eb01f135c739c48b86face844a6316200b8158.jpg)
+![](/assets/images/2-f2e2bdbbd903436697faf0a0b1eb01f135c739c48b86face844a6316200b8158.jpg)
 
 Currently I'm going through a bit of a weird patch. Since the end of my last job, I've been told by a lot of people that I deserve "reset time" or "a break", and I can definitely _feel_ the burnout that needs to be addressed.
 

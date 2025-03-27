@@ -38,7 +38,7 @@ In this case, I'm admitting to myself that I don't find those parts of the game 
 
 <figure>
 
-![](images/yakuza_6_baseball.png)
+![](/assets/images/yakuza_6_baseball.png)
 
 <figcaption>
 
@@ -58,7 +58,7 @@ You can easily find a guide for these battles, because as long as you're some ki
 
 <figure>
 
-![](images/sotc_banner_colossus_3.png)
+![](/assets/images/sotc_banner_colossus_3.png)
 
 <figcaption>
 
@@ -78,7 +78,7 @@ In an effort to "get it over with" (despite _really liking it_) or "get to the g
 
 <figure>
 
-![](images/ryusuke_persona_5_banner.png)
+![](/assets/images/ryusuke_persona_5_banner.png)
 
 <figcaption>
 

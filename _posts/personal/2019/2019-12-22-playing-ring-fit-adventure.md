@@ -115,7 +115,7 @@ This is probably my only complaint with depth in the game; for some people, this
 
 - <figure>
     
-    ![](images/2019121320260800-638E7E1EEC4CD8A239243633C0345A07-1024x576.jpg)
+    ![](/assets/images/2019121320260800-638E7E1EEC4CD8A239243633C0345A07-1024x576.jpg)
     
     <figcaption>
     
@@ -127,7 +127,7 @@ This is probably my only complaint with depth in the game; for some people, this
     
 - <figure>
     
-    ![](images/2019121320261100-638E7E1EEC4CD8A239243633C0345A07-1024x576.jpg)
+    ![](/assets/images/2019121320261100-638E7E1EEC4CD8A239243633C0345A07-1024x576.jpg)
     
     <figcaption>
     

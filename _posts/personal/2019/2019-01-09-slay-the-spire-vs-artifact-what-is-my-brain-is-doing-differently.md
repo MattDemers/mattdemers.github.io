@@ -19,7 +19,7 @@ When I have to explain to people that I'm not into card games like _Magic: The G
 
 This explains why "netdecking" (or finding a deck someone else made, and playing that) is less satisfying to me in the long run. I have no investment in this thing that someone else has spent that time on, and I'm only really playing it because I'd like to win.
 
-![](images/20181121200331_1.jpg)
+![](/assets/images/20181121200331_1.jpg)
 
 With _Slay the Spire_, I'm finding that there's more chances to be able to restart runs (and therefore resetting the workshopping) and there's the chance for the randomness of drops to give me that nice dopamine hit which feels amazing. The same kind of feelings can be found in _Artifact_, but for some reason, I'm not feeling it taking; it's falling by the wayside in the same way _Dragon Ball FighterZ_ did.
 
@@ -31,7 +31,7 @@ _Slay the Spire_ is weird in that it contains many of the same things that aren'
 
 <figure>
 
-![](images/20180724015505_1.jpg)
+![](/assets/images/20180724015505_1.jpg)
 
 <figcaption>
 
@@ -49,7 +49,7 @@ It felt similar to when I started to "get" _Street Fighter V_, and especially a 
 
 <figure>
 
-![](images/20170125035446_1.jpg)
+![](/assets/images/20170125035446_1.jpg)
 
 <figcaption>
 

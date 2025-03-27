@@ -21,13 +21,13 @@ You're me at 17; you're a middle-class white dude that's been bullied for a lot 
 
 You're working at a Wal-Mart electronic section, in what's supposedly your "dream job" for retail. In sorting DVDs, you come across the second volume of a set that has a long-haired anime dude posing with a guitar (one with _bullet holes_ in it), and you think "hey, what's this?"
 
-![](images/Vol_02_-_R1_001.jpg)
+![](/assets/images/Vol_02_-_R1_001.jpg)
 
 That was my introduction to _BECK_. I still have those DVDs. I still have the guitar picks that came with them with the _BECK_ logos on them, as if they were real merch. I still think they're very precious to me.
 
 _BECK_ is the story about Yukio Tanaka, 14-year-old _boring_ anime protagonist. He hasn't had a particularly hard life, but he's still dissatisfied about where he's heading, what he's planning to do (nothing), and who he's spending his time with. His idea of a good time is reading manga and listening to a J-pop idol. Something's missing.
 
-![](images/beck_chiba-1.png)
+![](/assets/images/beck_chiba-1.png)
 
 He meets, by chance, Ryusuke Minami, a stereotypical "mysterious hoodlum" who just happens to be a guitarist of immense talent. Through a couple encounters, Yukio (or "Koyuki", as a nickname) gets pulled into Ryusuke's (or "Ray's") world.
 
@@ -37,7 +37,7 @@ Drama happens. Hijinks ensue. Ray pulls together three more band members: mature
 
 <figure>
 
-![](images/beck_taira_saku.png)
+![](/assets/images/beck_taira_saku.png)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ But something has always comforted me about _BECK_ when I re-read it. It represe
 
 The support, affection, creativity and drive that they all share just felt like a kinship I never had access to — despite the conflicts between them that any band would have, they still manage to come together when it really matters, and their growth as people refreshes my hope.
 
-![](images/beck_cd_label-1.png)
+![](/assets/images/beck_cd_label-1.png)
 
 As I spend more time in esports, gaming, and wherever I call home at the time, it's easy to get jaded about the potential of your own creativity and vision. It's easy to think that because what you like or value is _different_, it's not saleable, or it won't support you; this is the kind of thing that keeps you from _trying_ in the first place.
 
@@ -79,7 +79,7 @@ I realize that _BECK_, (and other manga like it, like sports manga or _Space Bro
 
 I've fought with myself about whether I should let this kind of series inspire me because of this. I stop myself, thinking "well, why would I take inspiration from a situation that is 100% crafted, and therefore unrealistic? Why would I hope that I could achieve my dreams, when the creator of the manga gets to choose whether the protagonists succeed or fail?"
 
-![](images/beck_taste_of_stardom.png)
+![](/assets/images/beck_taste_of_stardom.png)
 
 It's a weird line of thinking, because something like this isn't a guide. It isn't something that you're expected to _follow the actual line of events_. It also makes a lot of sense to me that in a way, _BECK_ is inspiring because it has made a large impact on a lot of people despite being a very niche project.
 
@@ -89,13 +89,13 @@ When it came to licensing the manga in English, _BECK_ never got to tell its who
 
 For a while, I just re-read the series with what I felt was the only "complete" pack of chapters, since there wasn't an "all-in-one" torrent available. It felt cobbled together, but there's still a lot of character in those scanlations, especially since translators loved to note (and were sometimes perplexed by) the more obscure wrestling and music references.
 
-![](images/beck_new_to_the_scene.png)
+![](/assets/images/beck_new_to_the_scene.png)
 
 But still, despite this — despite people who saw the anime not getting the full story, and people reading the manga having to hunt for it — it's still loved, and viewed as one of those series where "if you know, you know." They know the GIFs. They know the songs. They might have made their own bootleg _BECK_ merchandise. It might remind them of a simpler time in their life.
 
 Or it might be special to them, like it is to me, because every re-read gives you a renewed sense of optimism and hope. That hope — the one that makes you think you can make it on **your** terms — is a valuable thing, and I will forever be grateful for it.
 
-![](images/beck_last_chance-2.png)
+![](/assets/images/beck_last_chance-2.png)
 
 _You can find BECK on comiXology, or if you have Amazon Prime, you can read it for free on Kindle (or buy it)._
 

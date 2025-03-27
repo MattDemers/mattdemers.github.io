@@ -56,7 +56,7 @@ The thing is, through the rough patches and recovering, I feel better about sayi
 
 I just realized that sometimes that's how it is: it doesn't mean you can't get to a goal in another way. Which, again, seems simple, but when you're fighting doubt and the anxiety that comes with "what if's," it's hard to let that gain enough real estate in your brain to become something you believe on a daily basis.
 
-![](images/bts_california_2016.png)
+![](/assets/images/bts_california_2016.png)
 
 This year, I got to do a lot of cool stuff. I got to go to California a couple times to do social media for Beyond the Summit. I got to cover two Dota majors for Dotabuff. I got to take a tea course at a community college and learn more about a passion. I got to go to Pound 2016, meet some friends in person, and get bylines for ESPN.
 

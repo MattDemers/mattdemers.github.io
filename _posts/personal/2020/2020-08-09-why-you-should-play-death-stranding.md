@@ -24,7 +24,7 @@ In short, Kojima had something to prove with _Death Stranding_, especially after
 
 <figure>
 
-![](images/DeathStranding_GDT_Intro.png)
+![](/assets/images/DeathStranding_GDT_Intro.png)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ _Death Stranding_ is what happens when someone takes that "types of conflict" le
 
 <figure>
 
-![](images/DeathStranding_Truck_Stuck.png)
+![](/assets/images/DeathStranding_Truck_Stuck.png)
 
 <figcaption>
 
@@ -88,7 +88,7 @@ Just like in _Dark Souls_, messages or structures earn ratings, or "Likes", whic
 
 <figure>
 
-![](images/DeathStranding_Ladder_banner-1.png)
+![](/assets/images/DeathStranding_Ladder_banner-1.png)
 
 <figcaption>
 
@@ -106,7 +106,7 @@ That fun is... specific. And again, I can understand why people don't enjoy it. 
 
 If cargo is collected and then left on the ground for a long enough period of time (at a far enough distance away from the player), it gets sent to another players' world as "lost cargo." Again, this contributes to a feeling of community without even needing to see someone else: the game incentivizes you to complete that player's delivery, because you're all in it together.
 
-![](images/20200809183745_1.jpg)
+![](/assets/images/20200809183745_1.jpg)
 
 I suppose that's the best case I can make for someone's enjoyment of _Death Stranding_: it's a unique way of forming connections with other players, and the in-game world itself. It is unlike anything I've ever played before, and that in itself is commendable; while I'm not usually in the "it's hard to process, so it must be art" camp, I think that the games-as-art debate could really use games like _Death Stranding_, if only to encourage people to step out of their comfort zones.
 
@@ -118,7 +118,7 @@ The cities and citizens you're serving are similarly inaccessible, living in lar
 
 Whether it's planned, or whether it's just a lack of budget precluding the inclusion of a more robust world, I find it a bit contradictory to my usual tastes. Usually I _like_ the world I'm inhabiting to feel lived-in, and the more NPCs, settlements, and signs of life the better.
 
-![](images/DeathStranding_Bath_banner.png)
+![](/assets/images/DeathStranding_Bath_banner.png)
 
 With _Death Stranding_, the solitude and the feeling of me-against-the-world actually does a lot to calm and relax me. I feel very much at peace trucking through the wilderness, or figuring out just how I'm going to get over a cliff without dying. Seeing my actions impact people (not just through the plot, but through the online interactions) means that I feel like I'm contributing, and that my actions truly have weight.
 

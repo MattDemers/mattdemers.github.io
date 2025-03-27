@@ -40,7 +40,7 @@ What I would _not_ recommend, however, is posting every time someone follows yo
 
 For secondary social media platforms, though (say, Facebook), the automated message makes sure you get some coverage where you might normally forget. The same is true with Twitch videos: tweeting a generic message when you say, make a new video highlight, means you're less likely to forget.
 
-![](images/IFTTT_banner.png)
+![](/assets/images/IFTTT_banner.png)
 
 The custom part of this dialog is pretty important, as it allows you to add **ingredients**, which are variables that change every time you perform the action. In this case, the video title and URL are going to be unique every time, so they need to be slotted in appropriately. An example of this would be for a Facebook page, where you could craft something a little more unique:
 
@@ -50,6 +50,6 @@ From here, the possibilities are kind of up to you: do you use Twitter to send o
 
 The lovely part of IFTTT is that it doesn't limit your actions to what is logical: you just choose from their list of supported apps, and go from there. IFTTT also has custom recipes that other people have posted, which can give you inspiration as to how to use the tool further.
 
-![](images/chrome_2017-02-22_21-55-49.jpg)
+![](/assets/images/chrome_2017-02-22_21-55-49.jpg)
 
 Best of luck, and let me know in the comments how you end up using it! You can also view my guide on automating Discord for more ideas.

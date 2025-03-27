@@ -23,7 +23,7 @@ If you try to dictate the pace and fail, you are likely going to lose, or be at 
 
 However, while facing highly practiced players, you're less likely to run into people who make mistakes. If they are playing Akuma, Cammy, Vega or Meepo (my personal "problem opponents"), they likely have already gone through the terrible process of learning and making mistakes with worse players than you.
 
-![](images/slark_banner.png)
+![](/assets/images/slark_banner.png)
 
 With that in mind, if they win their match against you, it isn't because they didn't deserve it, or are playing something "cheap;" you just didn't get to see the struggle that got them to that level in the first place. Continually failing against them means you didn't take it upon yourself to realize _why_ you are losing to these characters, or what you could've done to fix it.
 

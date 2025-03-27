@@ -20,7 +20,7 @@ I've made a lot of effort to fix my sleep, wean myself off of caffeine, and gene
 
 If you asked someone who knew me well, they'd tell you that I'm very self-critical, to the point of negativity and self-sabotage; this year I've become more comfortable with being kinder to myself, or at least standing up for what I need to be happy.
 
-![](images/IMG_20200611_154226-1024x768.jpg)
+![](/assets/images/IMG_20200611_154226-1024x768.jpg)
 
 I've come to terms with the love and connection that I've been lacking in my life, how it's okay to realize disappointment, and how to forgive people who may have failed me, both growing up and in adulthood. I've realized that despite my parents not being abusive or neglectful, I still took it upon myself to self-parent myself in an effort to "not be a burden," and this kind of behavior has shaped how I handle relationships and my needs.
 
@@ -32,7 +32,7 @@ I've started a podcast with someone who I respect very highly. I've lost a bit o
 
 That almost feels like I'm writing a resume, but at the same time, that kind of development probably feels the most important to me. I feel like progress that I make towards being a better _human_ is what I focus on most; I think the difference is that I'm shifting the standard of what a good person **is** from other peoples' definitions to my own.
 
-![](images/IMG_20200504_202407-1024x768.jpg)
+![](/assets/images/IMG_20200504_202407-1024x768.jpg)
 
 I've still struggled a lot, especially with eating, and my weight; I've put on maybe 20-30lbs in the past two years, and really have come to terms with a really unhealthy relationship with food. Binge eating and stress/comfort eating is something I've done all my life, but as I get older, the consequences are coming harder and are less forgiving.
 
@@ -42,7 +42,7 @@ All of those could easily be their own multi-month project, and I feel like I'm 
 
 But it's something to work on, and keeping in mind all those things has helped me forgive myself for not being perfect all the time. It's also helped to quiet that recursive "am I just _acting_ like a perfectionist outwardly to mask being really lazy, and liking to do nothing?" thinking, that just makes you think you're tricking other people and yourself.
 
-![](images/DSC04876-1024x683.jpg)
+![](/assets/images/DSC04876-1024x683.jpg)
 
 There are people reading this that have probably followed my work for a long time, and when I try to put myself in your shoes, the dumb part of my brain thinks "damn, they must be frustrated." So many starts and stops of projects; so many proclamations of changes that haven't taken, or aren't as obvious.
 

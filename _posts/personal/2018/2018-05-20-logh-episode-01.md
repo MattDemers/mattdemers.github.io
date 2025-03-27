@@ -37,7 +37,7 @@ The Battle of Astarte (**January 796 UC**) makes for an interesting setting for 
 
 Yang and Reinhard form our two protagonists, and seeing them on the opposite sides of the conflict are interesting from the get-go. Reinhard is seemingly _very_ familiar with Yang, and elevating him to a mythical status through brooding lines build him up for the viewer. Because **we** primarily see Yang as a weary, aloof soldier underneath many layers of military command, we're waiting alongside Reinhard for the legend to appear.
 
-![](images/LOGH_S01E01_Kaiser.png)
+![](/assets/images/LOGH_S01E01_Kaiser.png)
 
 We also get a brief view of the home away from the war, meeting Reinhard's sister, Annerose von Grünewald. We also meet Kaiser Friedrich IV, and that gives us a clear look at the structure of the Empire; there are rich living in relative opulence while the conflict rages. The Kaiser and Annerose are in the episode a comparatively small amount, but this exchange sets up a lot of the future.
 
@@ -55,27 +55,27 @@ This section is mainly going to deal with moments I found interesting, separate 
 
 I really liked this section with two gunners (?) who explain some of the world that they're living in: you're usually not going to live through a successful enemy attack, bionic limbs (or at least braces) are possible, and there are ways of commuting the amount of sleep needed to function in war.
 
-![](images/LOGH_S01E01_Beds.png)
+![](/assets/images/LOGH_S01E01_Beds.png)
 
 This exchange is nice as a whole, because they seem to be aware of their rank and what it means in the greater scheme of things. The Empire are **not** the _Star Wars_ Empire, and these soldiers aren't Stormtroopers.
 
 They realize the horrors of what's going on around them, and just like the FPA pilot during this episode, they realize it might be somewhat of a benefit to die immediately and (relatively) painlessly. Even sleep is being taken away from them, and the respite that dreams might give.
 
-![](images/LOGH_S01E01_Dreams.png)
+![](/assets/images/LOGH_S01E01_Dreams.png)
 
 #### Lapp's downfall
 
 "The truth is very unpleasant!" is a nice bookend to Lapp's life, as his commanding officer's pride is what leads them to their doom. We want to scream at the incompetence we see on-screen, as the next sequences are pretty much "too bad, man."
 
-![](images/LOGH_S01E01_Truth.png)
+![](/assets/images/LOGH_S01E01_Truth.png)
 
 Lapp's death illustrates the vulnerability of the characters, but it also serves to set up plot points down the road; we learn much about him without him being alive to take part in that development. His "Yang, don't end up like this" illustrates stakes for the viewer: Yang is a protagonist, but he is vulnerable to not only his mistakes, but the mistakes of others out of his control. This introduces a huge degree of tension to all the battles in the series.
 
-![](images/LOGH_S01E01_Lapp_death.png)
+![](/assets/images/LOGH_S01E01_Lapp_death.png)
 
 Lapp ends up having an immense influence on Yang's life despite us never seeing them interact in this episode. We meet Jessica (albeit briefly), which will come into play later. We are reminded that love exists in this universe. Ironically, though, Lapp's lamenting that he is going to fade into nothingness is wrong. His death and who he is as a person influences many more events to come.
 
-![](images/LOGH_S01E01_Jessica_intro.png)
+![](/assets/images/LOGH_S01E01_Jessica_intro.png)
 
 #### Ships and graphical fidelity
 

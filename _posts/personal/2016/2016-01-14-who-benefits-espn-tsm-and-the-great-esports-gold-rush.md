@@ -42,7 +42,7 @@ Ask any new NBA, NFL or football fan: if they're new to the game, they're at lea
 
 While many will look at their local sports teams, there's only so much heartbreak they can take (ask Torontonians); fans, especially new ones, want to **feel like they are part of something special**, and there's no more special feeling in sports than seeing the team that you're cheering for win the big one. That feeling turns to loyalty. That loyalty turns to money.
 
-![](images/wobble_banner.png)
+![](/assets/images/wobble_banner.png)
 
 This leaves us with ESPN having substantially more leverage than arguably any other eSports publication before it, because they take the present arrangement of teams usually having larger followings than the people who cover them and flip it back to what large media is used to. Historically, musicians, artists or organizers would _want_ their stories in the news, because the exposure was always worth it.
 

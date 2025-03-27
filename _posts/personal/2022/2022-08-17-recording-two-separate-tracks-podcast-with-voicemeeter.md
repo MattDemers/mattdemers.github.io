@@ -44,7 +44,7 @@ You're going to need to configure Voicemeeter to hear both your audio, and the a
 
 When you load Voicemeeter, make sure "Hardware Input #1" is set to your microphone.
 
-![](images/image.png)
+![](/assets/images/image.png)
 
 Keep in mind the "**B1**" track being live, as it will come into play later. This is the track where Voicemeeter will "hear" my input audio.
 
@@ -52,11 +52,11 @@ Keep in mind the "**B1**" track being live, as it will come into play later. Thi
 
 In Windows (or MacOS), you'll need to make sure your default audio device is Voicemeeter's first virtual input. For me, it's labelled "Voicemeeter Input."
 
-![](images/image-1.png)
+![](/assets/images/image-1.png)
 
 This means that anything that's played through my desktop (like music, sounds from my browser, etc) that use my **default** device (ie, you haven't changed it to something else), Voicemeeter will "hear" it.
 
-![](images/image-2.png)
+![](/assets/images/image-2.png)
 
 Again, note the "**B1**" track highlighted here. Ignore "A1" and "A2," as that's just my personal setup.
 
@@ -66,7 +66,7 @@ After making sure both your mic and your desktop sound are sent to "B1", you're 
 
 On the right side of the Voicemeeter window is a number of levels and knobs that represent your "outputs." These can be to your speakers, or other things (for instance, I have a cable from my PC that goes to sound-sentitive lights).
 
-![](images/voicemeeter8x64_Z0XQ0ACMhy.png)
+![](/assets/images/voicemeeter8x64_Z0XQ0ACMhy.png)
 
 You'll notice above that these tracks are "A1-A5" and "B1-B3".
 
@@ -78,11 +78,11 @@ Composite mode means that your audio and your guest's audio will be read by Voic
 
 Go to "**Menu**" in the top-right corner of the window, and then to "**System Settings / Options**".
 
-![](images/filezilla_ECYzjj2BbX.png)
+![](/assets/images/filezilla_ECYzjj2BbX.png)
 
 From there, you can change the "**PATCH COMPOSITE**" dialog.
 
-![](images/voicemeeter8x64_9zH5EOPrwr.png)
+![](/assets/images/voicemeeter8x64_9zH5EOPrwr.png)
 
 The important thing is the first two dialogs, as these are the different tracks that will be routed into the **B1** composite.
 
@@ -98,11 +98,11 @@ In the next step, we'll make sure that the audio we want recording is being rece
 
 Finally, you're going to need to set up Voicemeeter to record the audio properly.
 
-![](images/image-4.png)
+![](/assets/images/image-4.png)
 
 Above, you'll see Voicemeeter's recording interface. As you can see, the "B1" button is highlighted, and if you **right click** on the tape, you'll open the menu to do some further customizations.
 
-![](images/voicemeeter8x64_8Az4aseq49-2-1024x354.png)
+![](/assets/images/voicemeeter8x64_8Az4aseq49-2-1024x354.png)
 
 Click "**Virtual BUS B1**" to select it.
 
@@ -120,13 +120,13 @@ Voicemeeter Potato has _three_ "Virtual Inputs", as I mentioned in Step 2. Subje
 
 From there, you have a couple ways of making sure everything is working properly.
 
-![](images/voicemeeter8x64_t0A5r0VCi3.png)
+![](/assets/images/voicemeeter8x64_t0A5r0VCi3.png)
 
 When your mic is active, and your desktop sound is active at the same time, you should see two **separate** white bars; one is your mic audio, and the other is your desktop audio. You could play some music (which would be picked up by your desktop audio) and speak into your mic to see if both bars move.
 
 <figure>
 
-![](images/voicemeeter8x64_F2DHPqoOMZ.png)
+![](/assets/images/voicemeeter8x64_F2DHPqoOMZ.png)
 
 <figcaption>
 
@@ -138,7 +138,7 @@ You should also see it on the tape.
 
 When you hit the circle "Record" button underneath the tape, and then hit "Stop" when you're done recording, you should end up with three files where you told Voicemeeter to store the recordings: your mic, "Track1" and "Track2".
 
-![](images/image-6.png)
+![](/assets/images/image-6.png)
 
 If set up correctly, each should work properly. When you listen to the "Track 1" or "Track 2" audio files, it should **only** have your audio, or your subject's audio.
 

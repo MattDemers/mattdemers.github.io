@@ -22,17 +22,17 @@ ZoomIt is a freeware program created by Mark Russinovich. You can download it he
 
 After installing it, you should see a window like this.
 
-![](images/tITUldD.png)
+![](/assets/images/tITUldD.png)
 
 What you're looking for is under the **Draw** tab. I have the hotkey set to Ctrl + 3.
 
-![](images/d5HCkfE.png)
+![](/assets/images/d5HCkfE.png)
 
 From here, any time you hit Ctrl + 3, the game or window will freeze, and your cursor will turn into a drawing cursor. You can change the colour of the marker by pressing the "O", "Y", "R", "B", "G" or "P" keys on your keyboard to change to orange, yellow, red, blue, green or pink, respectively.
 
 You can then draw on whatever you want to show off. You can hold down shift while drawing to draw a straight line, and hit ESC to erase what you've drawn. Hold down CTRL and scroll up or down on your mousewheel to increase or decrease the width of the brush. Press T and type in order to get text.
 
-![](images/qZ22rrH.jpg)
+![](/assets/images/qZ22rrH.jpg)
 
 ZoomIt essentially lives in your taskbar minimized, like similar screenshotting programs like Puush. I usually close it when it's not needed, as the hotkeys tend to conflict with others.
 

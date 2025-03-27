@@ -43,7 +43,7 @@ However, Xenoblade Chronicles X surprised me because I expected some kind of tra
 
 The character of Lin looks like someone I would dislike a lot in a video game. As a 26-year-old dude who isn't a _complete_ weeb, you'd have to forgive my first negative impression:
 
-![](images/ePAyMzg.jpg)
+![](/assets/images/ePAyMzg.jpg)
 
 However, despite her being a huge ball of sometimes-annoying pep, her lines have been delivered in such a way that she seems to have way more personality than a typical demure little-sister stereotype. When I figured this out I was _so_ happy to be wrong about my impression, because it means I wouldn't be spending the game wishing she wasn't there.
 

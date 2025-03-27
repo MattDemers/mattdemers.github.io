@@ -25,7 +25,7 @@ After finding that stability and paying off my student loans, things felt a bit.
 
 Through continuing therapy, I've been able to come up with an informal list of what's important to me right now. I've placed a greater emphasis on developing deep friendships, because I've found that I made the mistake of ignoring them in favor of making sure I was financially stable. A lot of what I'm doing right now is trying to refocus; it's harder as you grow older to meet new people who want to spend energy on you, and it's been weird trying to figure it out.
 
-![](images/bai_hao_yin_zhen.png)
+![](/assets/images/bai_hao_yin_zhen.png)
 
 Also, this year was realizing how much my junk food diets hurt me. This isn't _just_ literal junk food — a lot of things, from my friendships to relationships to the things I watch or consume, were just merely "satisfying," but not healthy.
 
@@ -39,7 +39,7 @@ But that change is happening, and I'm happy that it is, and I'm happy it's on my
 
 It's a weird existential moment, but I'm more comfortable pondering "what really matters to me?" without getting lost overthinking what I'm _not_, and where I've failed to change in the past.
 
-![](images/merry_banner.png)
+![](/assets/images/merry_banner.png)
 
 I talked to a friend yesterday who said that you can't announce the changes you want to make in your life, since their encouragement will make you feel good and kill your willpower. While that's probably true, writing about what I'm doing is therapeutic for me, and I'd like to keep sharing what I've been up to with you.
 

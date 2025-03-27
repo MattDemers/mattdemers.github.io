@@ -62,7 +62,7 @@ After our heroes' escape and the defense of Yang's house from the PKC, Yang rema
 
 The episode ends with the political game in full motion. Knowing that Jessica is in danger, Yang gives Trunicht what he wants: the hero to be able to distract the public with. We also get a very chilling line that's loaded with a lot of foreshadowing; we don't know if this is Trunicht threatening something, or describing what he'll want in return for Yang's favor.
 
-![](images/LOGH_S01E03_Expectations_Of_you.png)
+![](/assets/images/LOGH_S01E03_Expectations_Of_you.png)
 
 The PKC member joining Trunicht from a side door after Yang leaves is almost comical, but it's to solidify the direct connection; I can almost picture the goon going "... is he gone?"
 
@@ -70,7 +70,7 @@ This episode is 100% Free Planets Alliance, and I feel that it sets up the next 
 
 I read this scene in a weird way, because I wasn't sure if the admirals actually believed in Yang to take the fortress. It could have just as easily been an early "send Yang to die by giving him a task we know he can't complete," move, but the tone and delivery didn't convey this at all. Again, it felt weird. I'm sure we'll get something a little more direct later.
 
-![](images/LOGH_S01E03_No_Need_To_force_him.png)
+![](/assets/images/LOGH_S01E03_No_Need_To_force_him.png)
 
 Yang's exit with Jessica is probably my favorite part of the episode, because it silently explains that she needs to flee for her own safety, and also has the cute moment with the woman's son. Yang, perhaps thinking back to Julian, explains that there will likely be peace in the years to come; part of me thinks he's wishing aloud for something he's unsure will come to pass.
 

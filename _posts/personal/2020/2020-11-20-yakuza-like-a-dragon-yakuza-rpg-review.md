@@ -208,7 +208,7 @@ I realize that there is a barrier to entry giving every RPG a copy of _Final Fan
 
 <figure>
 
-![](images/20201120165340_1.jpg)
+![](/assets/images/20201120165340_1.jpg)
 
 <figcaption>
 

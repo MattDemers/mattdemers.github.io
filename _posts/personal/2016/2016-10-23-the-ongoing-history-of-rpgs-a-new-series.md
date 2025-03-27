@@ -20,7 +20,7 @@ The last two months have been spent de-tangling that ball, and also growing up a
 
 I've started the planning and execution of a new project, called _The Ongoing History of RPGs_.
 
-![](images/DQ-Banner.png)
+![](/assets/images/DQ-Banner.png)
 
 The goal with this series isn't to "make it big", or grow an audience, or do anything **other** than just talk about stuff I enjoy. That other stuff might come later, but for now all I want to be able to do is test to see if I've grown as a creator.
 

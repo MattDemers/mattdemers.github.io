@@ -141,7 +141,7 @@ Can I even say that I think Ainu culture is interesting without needing to write
 
 <figure>
 
-![](images/Peepo_Choo_v2-p206-7.png)
+![](/assets/images/Peepo_Choo_v2-p206-7.png)
 
 <figcaption>
 

@@ -24,7 +24,7 @@ To be honest, I'm really happy they were — I _needed_ a game to just dive into
 
 <figure>
 
-![](images/AmaRecTV_3stdTB6DnI-1024x576.png)
+![](/assets/images/AmaRecTV_3stdTB6DnI-1024x576.png)
 
 <figcaption>
 
@@ -46,7 +46,7 @@ I can kind of understand their approach in this hypothetical, mostly because Nin
 
 I don't know if the idea of "doing things the hard way" is a value the happens to fit with the _Animal Crossing_ aesthetic better, but it's starting to feel like it's "just a Nintendo thing." If Nintendo treated their online the same way Activision-Blizzard, Valve Software or Riot Games does, I'm not sure it would **feel** the same. And that "feel of Nintendo" is crucial to maintaining their magic in the same way Disney/Pixar/Marvel films _feel_ different from their Dreamworks/DC competitors.
 
-![](images/2020040622112523-1024x576.png)
+![](/assets/images/2020040622112523-1024x576.png)
 
 For instance, in _Pokemon Sword/Shield_, you could raid dungeons with up to three other people. You would join a lobby when initiating a dungeon, and then the public (or friends) would have three minutes to join before the raid initiated.
 
@@ -56,7 +56,7 @@ Because Nintendo is Nintendo, they decided that you should list these rooms as "
 
 You'd also need to _initiate_ the online connection separately, go through loading, and then get spammed by not only _your_ auto-updates, but your friends'. There's a filter, but no way to permanently craft the online experience you want: that would be too complicated, and give you too much control to avoid things that Nintendo wants you to see.
 
-![](images/2020040622111432-1024x576.png)
+![](/assets/images/2020040622111432-1024x576.png)
 
 Instead of getting a nice server list, you're hunting for stickers where you have no control over the region, ping, or even if the raid is still active. Since the room is only alive for a couple minutes after initiation, the raids listed could **already be finished**, full, or yield some error you can't troubleshoot. In most cases, you cannot refresh the list fast enough in order to pull up new raids; you just have to hope that the system allows you to time something perfectly and the stars align to let you join.
 
@@ -77,7 +77,7 @@ I guess I just wanted to note that, because it affects how I approach other game
 
 But back to _Animal Crossing._
 
-![](images/2020032821414496-1024x576.png)
+![](/assets/images/2020032821414496-1024x576.png)
 
 When I started writing this post I wanted to just communicate that it's been nice to have a lot of people enthusiastic about the same thing, all at the same time. It reminds me of the early days of _World of Warcraft_ in a way, because _everyone_ I knew was playing it, and there was something new to update your friends on every day. However, I'm also keeping in mind that there's strong "flavor of the month" vibes here; despite the promise of monthly content, there could (and probably will) be a huge drop-off in "#AnimalCrossing Twitter" in even a month's time.
 

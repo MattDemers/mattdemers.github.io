@@ -22,7 +22,7 @@ So I deleted the other blog post that I wrote for my yearly birthday thing, and 
 
 It was just going to be by me, for me. Like it used to be. And I think I'm doing that so far.
 
-![](images/blue_giant_image1-1024x512.png)
+![](/assets/images/blue_giant_image1-1024x512.png)
 
 Somewhere along the way, I started trying to force myself to do some things in a way that would lead to an ideal conclusion. That conclusion wouldn't be something that worked for me, no matter how hard I tried, but I didn't (or don't) want to face that disappointment of not being "enough" for "where I'm supposed to head."
 

@@ -20,7 +20,7 @@ I planned this trip mostly because I knew that the longer I put it off, the less
 
 I know that sounds like a whole lot of FOMO talk, but I think it was emblematic of the whole trip; Japan taught me a lot about taking opportunities as they presented themselves to you, without feeling obligated to.
 
-![](images/DSC02411.png)
+![](/assets/images/DSC02411.png)
 
 You've probably heard or read those inspirational Instagram posts that urge you to "say yes" to more things, and take more chances. I feel like there's something important about balancing that impulsiveness with actually knowing what your limits are, and that's something I was forced to confront, too.
 
@@ -28,13 +28,13 @@ In planning this trip, I wanted to do a couple things for sure, and booked enoug
 
 Both are things that didn't happen, and now that I'm thinking about them, were kind of dumb to overthink.
 
-![](images/DSC03190.png)
+![](/assets/images/DSC03190.png)
 
 I've admired Japan culturally from afar, and most of the things I wanted to do reflected that admiration. I didn't want a "tourist" experience, which I'm not sure is something _anyone_ really wants anymore - we're all chasing something that feels genuine, and that feeling of being pandered to in a controlled environment doesn't exactly ring to that.
 
 Besides the things I definitely wanted to do, the happiest times I spent in Japan were when I took the chance to just pick a direction and wander. The idea of choosing a landmark to see or an attraction to visit meant that there was so many more interesting things _around_ those locations, and that kind of stuff could eat up a whole day.
 
-![](images/DSC01795.png)
+![](/assets/images/DSC01795.png)
 
 However, there was still a bit of loneliness that crept in, mostly because I made the decision that this trip would be a solitary one. I struggle to travel with others because I feel hesitant to share the things that I want to do (that other people may find weird or dislike), and I also find myself deferring what I want in order to satisfy others. With a trip around the world, I didn't feel like that was something I wanted to take a chance with.
 
@@ -44,7 +44,7 @@ One of the things that people consistently told me when I reconnected with peopl
 
 After more thinking, it kind of clicked a bit: I kind of realized that it takes initiative and a sense of... bravery? (probably not the best word) to be able to just say "I am going to do this today, and I'm going to figure out how I do it as I go along." Taking a step back, yeah, I could see how people might see traveling alone to a country that doesn't have English as a primary language intimidating - even more so when the primary things that are going to keep you afloat are stressful to maintain in that foreign environment. Google Maps and Translate were _essential_ to keeping my head on straight, and being able to navigate the train system to get to certain places could leave people baffled.
 
-![](images/DSC03835.png)
+![](/assets/images/DSC03835.png)
 
 I'm not stating this to say "hey, I'm awesome"; it's more that I am not the type of person to give myself _any_ credit when it comes to growth, or things that might build my confidence. I've been trying to work on this to the point where I can build some kind of positive self-image that I've been lacking.
 
@@ -54,7 +54,7 @@ This also made me reflect on that reflection (because anxiety tends to spiral); 
 
 This mental storm didn't exactly keep me from seeing and doing the things I wanted to; it just made me more self-conscious in the moment, and sometimes I felt like almost apologizing for my presence or intention.
 
-![](images/DSC03546-1024x512.png)
+![](/assets/images/DSC03546-1024x512.png)
 
 It took me some time (and maybe some annoyance building up), but I realized that this was incredibly unhealthy, because in most of the situations **I wasn't being a problem**. Instead, I was basically punishing myself for having needs that were perfectly valid. Fighting for those needs and being okay with having them are more difficult that just deferring them and punishing yourself for having them in the first place; it takes courage to be able to face them and fight for yourself.
 

@@ -13,7 +13,7 @@ It’s 2025, and my biggest goal for the next year is to not think as much.
 
 There’s a couple asterisks at the end of that sentence, but for the most part I’m not lying; since turning 35, a lot of the work I’ve been trying to do on myself has involved awareness, but also knowing when it’s valuable to just turn it all off.
 
-![](images/kite_banner-1024x512.png)
+![](/assets/images/kite_banner-1024x512.png)
 
 For most of my life, I’ve pretty much assumed that as long as my brain was working, it was in service of something good: if I thought long and hard enough, I’d eventually “crack” my personal issues, change to address them, and generally be happier. While there’s some good news is that I’m getting a deeper understanding of these issues, the bad news is that I have to suppress a lot of my instincts in order to address them.
 
@@ -21,7 +21,7 @@ I’ve always been a big fan of therapy, and have written pretty openly about my
 
 Since then, I’ve really embraced it as a **tool** — not a replacement — for the therapeutic process, and I’ve mostly “reached the same conclusions” with it as I have with my human therapist.
 
-![](images/graffiti_banner-1024x512.png)
+![](/assets/images/graffiti_banner-1024x512.png)
 
 Where I’m going with this is that at my core, I need to work on issues of self-validation, self-compassion and holding multiple thoughts as true at the same time. This means less framing things as a binary “it can only be this, or it can only be that” framework, and it means less trying to make thoughts, actions, and emotions into **systems**.
 
@@ -39,7 +39,7 @@ There’s me, “Manager Matt”, in the middle, kind of trying to wrangle them.
 
 My work in my next year (and probably the rest of my life) is realizing that both of these facets are damaged in their own way, and doing the best I can to validate their concerns and feelings without harsh judgment. This is the basis of simple self-compassion, but I’m also trying to resist the urge to endlessly dissect them deeply at every opportunity.
 
-![](images/flower_banner-1024x512.png)
+![](/assets/images/flower_banner-1024x512.png)
 
 They need space to be able to heal, and turning those emotions into _work_ that I’m actively doing to change. I’ve desired that work, but probably in a way that I couldn’t actually _do_.
 

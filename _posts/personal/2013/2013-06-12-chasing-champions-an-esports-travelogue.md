@@ -19,7 +19,7 @@ For many eSports fans, Korea is the holy grail of professional gaming. Although 
 
 The venue, Hanyang University’s gymnasium, was built to house volleyball during Seoul’s hosting of the summer Olympics in 1988. Two days after my arrival, the gym was converted to allow 8,000 eSports fans watch two powerhouse teams – NaJin Sword and Azubu Frost – compete for an ₩ 80,000,000 (~$73,556 USD) grand prize. This was a culmination of a season beginning in November, with Champions Spring and Summer to follow in 2013; like many other conventional sports, teams experience a regular season of group play before seeding into a playoff for the grand prize.
 
-![](images/8858066705_daa6ced3f0_k-1024x678.jpg)
+![](/assets/images/8858066705_daa6ced3f0_k-1024x678.jpg)
 
 Up until recently, _League of Legends_ eSports has followed a different format in America, largely due to the lack of infrastructure in place to support the same level of play. Points earned at tournaments held at conventions like Major League Gaming or Penny Arcade eXpo, determined a leaderboard, with the line between a professional, financially stable athlete and an amateur clearly drawn. While this has changed recently with the introduction of Riot Games’ League Championship series – offering salaries to players and weekly, organized league play to spectate – Korea has been doing it much longer, and constructed enough of a business in the process to sustain eSports as both a viable hobby and a career path to hopefuls who want to compete.
 
@@ -31,7 +31,7 @@ Despite my technological disconnect, I noticed that Seoul is an extremely modern
 
 This emphasis on mobility reflects a general acceptance of technology as a facet of everyday life. While my grandmother can barely use a prepaid flip-phone back home, there were numerous elderly playing games on touchscreens – and as I was informed later, often with each other. This worked to my advantage, as after I found some friendly Wi-Fi (ironically at one of the only Canadian restaurants in Seoul), I contacted my host for the weekend.
 
-![](images/8858084609_f36e1b47e4_o-1024x678.jpg)
+![](/assets/images/8858084609_f36e1b47e4_o-1024x678.jpg)
 
 Christopher “Montecristo” Mykles (that's him, on the left) has been working in eSports for nearly a decade, managing a _Warcraft III_ team and commentating on _League of Legends_. Currently, he works for OGN as an English-speaking commentator for their broadcasts, and along with William “Chobra” Cho, was my connections to the inner workings of the broadcast. I worked with both men in the past on a volunteer basis for a community news site; their involvement in the scene landed them jobs in Korea as OGN expanded their audience worldwide. Cho is an extremely valuable asset in eSports due to his ability to speak both English and Korean fluently; due to his status as Press Coordinator for the event and my inability to speak the language, I largely relied on him for translations.
 
@@ -39,7 +39,7 @@ However, with a day still to go between my arrival and the tournament, Mykles an
 
 Mykles and Cho’s apartment was located in Itaewon, one of the more international-friendly areas in Seoul. Between mandatory Korean barbeque, we picked up Caribbean chicken and odd takes on hamburgers, and fried, sugared pastries identical to the ones my Ukranian grandmother used to make for me. The mash up of cultures let me ease my way into my new surroundings while still having recognizable elements to latch on to, though hearing a cover band butcher a Nickelback song triggered a large amount of Canadian shame.
 
-![](images/8858096187_f80b34e662_o-1024x678.jpg)
+![](/assets/images/8858096187_f80b34e662_o-1024x678.jpg)
 
 On the day of the tournament, those training wheels slowly came off. Despite a fairly Western-style brunch after meeting up with Mykles’ broadcast partner, stepping outside the Hanyang subway station all three of us were aware of how conspicuously foreign we looked. It was clear that fans had been congregating across the university grounds long before we got there.; we attracted our share of looks while walking to the gymnasium, and while we were able to enter, there was a little bit of waiting to be done while getting verification that we could enter.
 
@@ -47,7 +47,7 @@ Business infrastructure is not the only type that’s important to the Korean mo
 
 The American system also works very differently in terms of frequency and spectacle; though Riot Games have their own studio in Los Angeles for _League_ broadcasts, it currently does not host an audience. Instead, “convention” events like MLG or PAX are larger, flashier, and attendance can come with a greater degree of planning. Especially when considering travel, food and accommodations, those not living in within common cities (Los Angeles, Dallas, Raleigh, Boston) have a considerable investment to make; a tournament will often play out in its entirety over the course of a weekend, pairing _League of Legends_ with other games to maximize the usage of a large venue. If there was any start to the spectacle of Champions Winter, it was that I was not used to seeing so much production value solely for one game.
 
-![](images/8858678142_9acd8a9a8e_o-1024x678.jpg)
+![](/assets/images/8858678142_9acd8a9a8e_o-1024x678.jpg)
 
 In Korea, the passion for this one game was enthralling, as the pockets of excited fans waiting reminded me of tailgating parties I had seen back in the West. While an afternoon of going downtown to grab a baseball or hockey game seemed commonplace for those of us living near large cities, the fact that this was for video games – a hobby still struggling to find acceptance in adult audiences – was a bit surreal. After all, there was no reason why it shouldn’t be treated similarly, but I simply could not imagine telling my parents, friends, or co-workers that I was going to be sitting at home and watching a gaming tournament for most of the weekend.
 
@@ -65,7 +65,7 @@ Eventually, I received a press badge that gave me access to the backstage of the
 
 Surrounded by both teams and support staff, it was in this room where introductions were made and the naturalization between “players on a pedestal” and “normal people” were completed. Though the mood was light and sociable, I could see the determination etched into the player’s faces. For Azubu Frost, Champions Winter was a chance to become multiple-time OGN champions, and NaJin Sword was poised to usurp the throne.
 
-![](images/8858075391_f111a52c9a_o-1024x678.jpg)
+![](/assets/images/8858075391_f111a52c9a_o-1024x678.jpg)
 
 Within the hour, the venue’s doors opened and people began flooding in. This process was exactly the same any other sporting event, with some of the crowd writing signs on their cellphones in hopes of being caught by the numerous boom cameras sweeping the gym. Some fans reveled in the attention of seeing themselves on-screen, while others (usually ladies) hid their faces; I found out this was partly a holdover from earlier days of eSports, where students skipping school to watch matches didn’t want to be identified.
 
@@ -77,7 +77,7 @@ In that moment, it felt like instead of being just one person in a random spot i
 
 It’s a pity that both teams sat in sound-proof booths on-stage: I can imagine no greater reward for a successful play.
 
-![](images/8858076971_5886884d3b_o-1024x678.jpg)
+![](/assets/images/8858076971_5886884d3b_o-1024x678.jpg)
 
 NaJin Sword toppled Azubu Frost in that game, sweeping the match and seizing the prize money in a shower of confetti and champagne. MakNooN netted himself a check for match MVP, breaking down in tears as his team clutched the Champions Winter Cup. The closing ceremonies were emotional not only for the victors, but for the rest of the league teams in attendance; it was a nod to a successful season, not only for the players, but for OGN as well.
 

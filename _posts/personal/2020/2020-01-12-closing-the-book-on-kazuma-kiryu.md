@@ -25,7 +25,7 @@ These games have made me consider what exactly makes up my tastes, and why certa
 
 And that's all okay. Considering the track record for franchises these days, I think "not being utterly terrible and not disrespecting your older fans" is a good place to be.
 
-![](images/2020010918545696-1024x576.png)
+![](/assets/images/2020010918545696-1024x576.png)
 
 _Yakuza 6_ is a game about fatherhood, and any game review worth its salt will mention that. This isn't because of anything special; the game hits you over the head with it multiple times. We've been with Kazuma for decades of his in-game life, and the series celebrates its 15th anniversary this year — we know how things are going to go when it comes to involving people that Kiryu cares about.
 
@@ -33,13 +33,13 @@ However, I feel personally rewarded for that ride as much as any member of Kazum
 
 It references substories, characters and locations all coming together for one last proper hurrah; it celebrates its own history and progress, and recognizes that it's in a different place from where it started. As the final scenes and epilogue play out, you get a great sense of closure that many people fail to achieve, and you're happy to leave things as they are in favor of exploring new horizons.
 
-![](images/2020011002115177-1024x576.png)
+![](/assets/images/2020011002115177-1024x576.png)
 
 That **counts for a lot**. Personally I've come across a large amount of disappointment when it comes to narrative loyalty in the past little bit. It's been difficult for me to invest in series, especially when I know that there's a paradox involved — if you're liking something niche, there's a great potential for you to lose what you liked about it when it inevitably gets bigger.
 
 If _you_ found it, there's a good chance other people did, too. If the artist wants to keep making art, that means growing, and there's always that risk that "that thing you like" can grow to leave behind the things that made you like it in the first place.
 
-![](images/2020010918201781-1024x576.png)
+![](/assets/images/2020010918201781-1024x576.png)
 
 That possessive feeling — the desire to want things to stay the way you like it — seems almost selfish, and it was something that I had to confront as the _Yakuza_ series reached a new audience with the _Kiwami_ remakes and _0_. As one of the series' strong points is its ability to balance the melodrama of the main plot with the sillyness of the side stories, I felt that that balance had tilted a bit in a way that I didn't like; for all its stereotypes of crime fiction, _Yakuza_ isn't inherently a silly series, and that was what the Internet was picking up on.
 
@@ -55,4 +55,4 @@ Things are "over" over in the way that I'm done experiencing what the developers
 
 Kazuma's time is done: it's probably good that we finally let him rest for a bit.
 
-![](images/2020011002223730-1024x576.png)
+![](/assets/images/2020011002223730-1024x576.png)

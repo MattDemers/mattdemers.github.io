@@ -22,7 +22,7 @@ After thinking about it a bunch, I came up with two reasons why this kind of co
 
 ### You need to like each other
 
-![](images/wobbles-prog-banner.png)
+![](/assets/images/wobbles-prog-banner.png)
 
 The key to a successful operation that focuses on its people is to have good people. This isn't to say that their voices need to constantly be in sync tone-wise, but more to say that you need to be able to work together for a long period of time before it starts paying off.
 
@@ -40,7 +40,7 @@ The problem with this is that in order to earn more money, you need to be able t
 
 ### You can't stop
 
-![](images/gimr_BANNER.png)
+![](/assets/images/gimr_BANNER.png)
 
 Say you're starting out and you decide you're going to do a weekly podcast. That blows up, and suddenly it's twice a week, then further becomes daily. Suddenly there's a pressure to grow to a point where you and your staff will need to put together multiple high-quality pieces per day in order to satisfy the desires of your fanbase, all while making stuff that will help your audience grow.
 

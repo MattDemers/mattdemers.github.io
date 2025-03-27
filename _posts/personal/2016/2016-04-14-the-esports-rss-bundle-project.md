@@ -31,7 +31,7 @@ After downloading this file to your desktop, you can import the feeds into one o
 
 Largely considered the frontrunner for RSS readers after the closure of Google Reader, it has a ton of nice apps and good design.
 
-![](images/chrome_2016-04-14_16-58-12-1024x588.png)
+![](/assets/images/chrome_2016-04-14_16-58-12-1024x588.png)
 
 After creating an account, scroll to the bottom and click "Import OPML". From there, upload the file and wait for the feeds to import. From there, you can click the "X" icon on folders of games to delete their feeds if they don't interest you.
 
@@ -39,13 +39,13 @@ After creating an account, scroll to the bottom and click "Import OPML". From th
 
 InoReader is a newer product, and what I like about it is that you can subscribe to hosted OMPL files so that if the bundle updates, your feeds do as well. You can subscribe to the URL for the Feed Bundle and it will be updated regularly.
 
-![](images/chrome_2016-04-14_16-58-06-1024x588.png)
+![](/assets/images/chrome_2016-04-14_16-58-06-1024x588.png)
 
 **TheOldReader**
 
 TheOldReader is the closest thing to Google Reader's UI, and if you liked its no-frills design, this is the simplest. However, you can only put in 100 feeds before it prompts you to pay more, which really kind of limits its usefulness if you're trying to follow a lot of things.
 
-![](images/chrome_2016-04-14_16-58-07-1024x588.png)
+![](/assets/images/chrome_2016-04-14_16-58-07-1024x588.png)
 
 ### More about RSS/why you should care
 

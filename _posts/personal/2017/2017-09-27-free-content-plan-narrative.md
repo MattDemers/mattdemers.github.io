@@ -25,7 +25,7 @@ Figuring out what you need to do to illustrate this starts with another question
 
 The underdog story is one that's consistently been a well-received one. People like being able to root for someone who is clearly trying, and when you finally _do_ triumph, your audience feels rewarded for investing in the journey.
 
-![](images/pexels_running_negativespace.png)
+![](/assets/images/pexels_running_negativespace.png)
 
 When I was pitching this to a couple friends, I framed it in the example of someone who had never run before starting a running blog.
 

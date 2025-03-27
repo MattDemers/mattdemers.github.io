@@ -34,7 +34,7 @@ One of my favourite ways to contextualize esports for traditional sports audienc
 
 If the NBA were subject to a patch system that changed it as often as esports did, it is likely that the Warriors would not have been able to finish their initial 24-game streak of wins to begin the season: the way that they play would have likely been deemed "unbalanced," anomalous, or otherwise "out of line" with what the developers had intended. In gaming terminology, a "nerf" would be weakening an aspect, and a strengthening a "buff."
 
-![](images/steph_curry.png)
+![](/assets/images/steph_curry.png)
 
 The natural way to fix the problem of the Warriors would be to look at a core mechanic that the team was able to exploit — say, Stephen Curry's talent for three-pointers — and attempt to balance it. This might mean moving the three-point line back a foot, or even two, or expanding the three-point arc to end at the sidelines, instead of having a lane that goes to the baseline at the end of the court.
 

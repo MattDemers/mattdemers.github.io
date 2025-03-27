@@ -25,7 +25,7 @@ I have very little experience with fighting games, but reading Patrick Miller’
 
 <figure>
 
-![](images/ryu_banner.png)
+![](/assets/images/ryu_banner.png)
 
 <figcaption>
 

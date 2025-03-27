@@ -21,7 +21,7 @@ The nice thing is that by luck, I connected with a couple people that enabled me
 
 <figure>
 
-![](images/Mazinger-Z-03-0222-0223-1024x850.png)
+![](/assets/images/Mazinger-Z-03-0222-0223-1024x850.png)
 
 <figcaption>
 
@@ -45,7 +45,7 @@ Pretty much anything in my way of that "dealing with actual, tangible things" is
 
 I was always really scared of being in a place where if I had a non-esports/gaming job, I'd be too tired to pursue hobbies or interests afterward. The inflexibility wasn't something I liked to think about, because I've always struggled with setting my own structure; I didn't know if I was capable of _pushing_ myself towards those things that I thought I cared about.
 
-![](images/E3LJLCsVcAEK1GS-1024x555.jpg)
+![](/assets/images/E3LJLCsVcAEK1GS-1024x555.jpg)
 
 It'd be pretty shitty to think "okay, is this all there is?" at the end of that tunnel. I'd be stable, but I'd feel boring. I'd be safe, but I'd feel like the chance at something better passed me by. "If only I had been better, I wouldn't be where I am now" is/was a common thought pattern, and it isn't serving any positive purpose anymore.
 

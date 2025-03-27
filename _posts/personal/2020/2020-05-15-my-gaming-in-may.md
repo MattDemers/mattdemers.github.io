@@ -21,7 +21,7 @@ But hey, I've actually completed some things recently, so let's write about them
 
 ## Doom Eternal
 
-![](images/ss_9cdf861c8ac2d7fa7e1f2a88673032bc3a6c6114.1920x1080.jpg?t=1589476553)
+![](/assets/images/ss_9cdf861c8ac2d7fa7e1f2a88673032bc3a6c6114.1920x1080.jpg?t=1589476553)
 
 I've picked up and put down _Doom Eternal_ a couple times, and I almost feel a bit sheepish admitting that I preferred _Doom (2016)_ instead. I went into this on the podcast, but I feel like the direction that the game has taken pushes me into a playstyle I don't particularly care for.
 
@@ -49,7 +49,7 @@ Feeling like you're getting lucky once in a sequence is fine, but your _overall_
 
 ## Half-Life Series
 
-![](images/20200502130514_1-1024x576.jpg)
+![](/assets/images/20200502130514_1-1024x576.jpg)
 
 With _Half-Life: Alyx_ out and me not getting a VR headset any time soon, I fgiured it was time to revist the _Half-Life_ series for nostalgia's sake. I'd never played _Half-Life_ 1, and once I read about certain story spoilers for _Alyx_ I found myself really wanting to experience that world again.
 
@@ -67,7 +67,7 @@ I'm still going to grenade every vent I have to travel through, though.
 
 ## Streets of Rage 4
 
-![](images/Streets-of-Rage-4.jpg?q=50&fit=crop&w=960&h=500)
+![](/assets/images/Streets-of-Rage-4.jpg?q=50&fit=crop&w=960&h=500)
 
 I've always liked beat-em-ups in theory, mostly because they're better with friends. Two of mine pinged me on Discord the other day and asked me if I wanted to join them playing _Streets of Rage 4_, and I was actually pretty happy to try it out.
 

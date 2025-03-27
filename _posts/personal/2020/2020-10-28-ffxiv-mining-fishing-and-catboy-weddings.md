@@ -28,7 +28,7 @@ I'm always a big fan of the introspective question of "what's changed?" because 
 
 <figure>
 
-![](images/ffxiv_months_ago.png)
+![](/assets/images/ffxiv_months_ago.png)
 
 <figcaption>
 
@@ -50,8 +50,8 @@ In _FFXIV_, your character is a base, and once you get into the game world, you 
 
 <figure>
 
-- ![](images/level_80_1_ffxiv-1.png)
-- ![](images/level_80_2_ffxiv-1.png)
+- ![](/assets/images/level_80_1_ffxiv-1.png)
+- ![](/assets/images/level_80_2_ffxiv-1.png)
 
 <figcaption>
 
@@ -71,7 +71,7 @@ And well, through a bunch of hours (albeit, less hours than I thought), I did.
 
 <figure>
 
-![](images/ffxiv_mNe13Xy3fC.png)
+![](/assets/images/ffxiv_mNe13Xy3fC.png)
 
 <figcaption>
 
@@ -99,7 +99,7 @@ Instead, I was choosing to feel rewarded for my efforts when I chose to, and slo
 
 <figure>
 
-![](images/ffxiv_now.png)
+![](/assets/images/ffxiv_now.png)
 
 <figcaption>
 
@@ -134,7 +134,7 @@ Then I got invited to my first catboy wedding.
 
 <figure>
 
-![](images/ffxiv_10042020_195716_996-1024x576.png)
+![](/assets/images/ffxiv_10042020_195716_996-1024x576.png)
 
 <figcaption>
 
@@ -150,7 +150,7 @@ While attendance wasn't mandatory, I actually made the decision to skip out on d
 
 <figure>
 
-![](images/ffxiv_10042020_192122_322-1024x576.png)
+![](/assets/images/ffxiv_10042020_192122_322-1024x576.png)
 
 <figcaption>
 
@@ -190,7 +190,7 @@ So yes, I am 1-for-1 on successful catboy weddings, so far.
 
 <figure>
 
-![](images/wedding1.png)
+![](/assets/images/wedding1.png)
 
 <figcaption>
 

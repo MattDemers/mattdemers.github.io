@@ -23,7 +23,7 @@ I can’t say it’s really helped my sleep at all yet, but it’s at least been
 
 The first series I re-read is called _Delicious in Dungeon_ (or _Dungeon Meshi_, as I tend to not re-name my files into their English names). The premise is pretty simple: an adventuring party has a time limit to revive one of their dead party members, who is trapped on the sixth floor of a dungeon.
 
-![](images/dungeon_meshi_vol1_cover-1.png)
+![](/assets/images/dungeon_meshi_vol1_cover-1.png)
 
 Because they’re broke, they figure they can save some cash by hunting and cooking things they find in the dungeon.
 
@@ -31,13 +31,13 @@ In the process, the human (Laius), halfling (Chilchuck) and elf (Marcille) meet 
 
 It’s a nice little intersection of a couple different genres that I’ve been picking up lately, and it combines a lot of their strengths.
 
-![](images/Screen-Shot-2019-12-09-at-4.09.33-PM-1024x567.png)
+![](/assets/images/Screen-Shot-2019-12-09-at-4.09.33-PM-1024x567.png)
 
 First, it focuses a lot on the worldbuilding and explanation of the worlds’ mechanics, similar to an _isekai_. While that genre is usually centered around someone from one world being teleported to another (usually to save it), I find that isekais usually have a very strong desire to tell you about how things work in the new setting that the protagonist has found themselves in. I’ll be writing more about my dive into this genre in the future, but the genre has been getting more prominent, with manga and anime mainly being made from light novels that people have written.
 
 Second, _Dungeon Meshi_ is very much a classic dungeon crawler in a somewhat classic fantasy setting. If you’ve played a vanilla _Dungeons and Dragons_ roleplaying campaign, you’ll find similar things here: you’ve got humans, dwarves, elves, dragons, halflings, orcs, and all the different variations therein. You’re basically more comfortable with the world because you’ve likely experienced something like it before; while it doesn’t delve into straight-up video game mechanics (experience and leveling up) like most isekais do, it _does_ borrow heavily from the common RPG tropes.
 
-![](images/dungeon_meshi_basilisk_omelette-1024x881.png)
+![](/assets/images/dungeon_meshi_basilisk_omelette-1024x881.png)
 
 Lastly, I’d like to think that there's a very loose commonality with manga that are centered around food, cooking, and the art of preparing meals. I don’t know if there’s any kind of formal name for it, but I can understand why they’re successful: food, even if it’s fictional, is satisfying to see prepared, and you get little bits of the characters put into the preparation and their actions that result in the meal. The author also can either be creative in their dishes, or just look up recipes that exist in real life that they can then draw. This also makes for very easy story hooks, scene transitions, and downtime for the party, since you actually have to sit and rest for the cooking to occur.
 
@@ -65,7 +65,7 @@ Despite this, we get reminders why the party hasn’t been wiped out yet. Laius 
 
 <figure>
 
-![](images/dungeon_meshi_laius-1024x557.png)
+![](/assets/images/dungeon_meshi_laius-1024x557.png)
 
 <figcaption>
 
@@ -83,7 +83,7 @@ Well, I wanted to keep this blog post short, but I might as well go into every c
 
 <figure>
 
-![](images/dungeon_meshi_marcille-1024x456.png)
+![](/assets/images/dungeon_meshi_marcille-1024x456.png)
 
 <figcaption>
 
@@ -101,7 +101,7 @@ This interest in taboo subjects causes some problems for the party, but also hel
 
 <figure>
 
-![](images/dungeon_meshi_marcille_donotwant-1024x818.png)
+![](/assets/images/dungeon_meshi_marcille_donotwant-1024x818.png)
 
 <figcaption>
 
@@ -117,7 +117,7 @@ Marcille is vulnerable, unsure of herself, and in an environment that she doesn�
 
 <figure>
 
-![](images/dungeon_meshi_chilchuck-901x1024.png)
+![](/assets/images/dungeon_meshi_chilchuck-901x1024.png)
 
 <figcaption>
 
@@ -133,7 +133,7 @@ Despite his childlike appearance, Chilchuck is older than Laius, and has a wife 
 
 <figure>
 
-![](images/dungeon_meshi_senshi-2-1024x432.png)
+![](/assets/images/dungeon_meshi_senshi-2-1024x432.png)
 
 <figcaption>
 
@@ -149,7 +149,7 @@ Senshi is practical, and he’s a “use every part of the cow” kind of person
 
 I think part of how he functions is due to his character design: his big, simple eyes and luscious beard make him seem extremely _centered_ as a person, as if he’s not as affected by the weird stuff that the adventure throws at him. You’re very rarely wondering what’s going through Senshi’s head, as he’s very easy to read, and forthcoming about his feelings. You don’t sense any kind of secrets, and his inclusion in the party doesn’t complicate things; he’s only there in compliment to the story, and you come to view him as reliable as the party probably does.
 
-![](images/dungeon_meshi_traps.png)
+![](/assets/images/dungeon_meshi_traps.png)
 
 In some ways, if the reader is a member of the party (albeit an invisible one), you’re guided along by the strengths of each of these characters and you don’t feel particularly overwhelmed by any of their traits. Each one is someone that you’d love to share a meal with, and this comfort means that you want to see them succeed.
 
@@ -157,7 +157,7 @@ Like I said previously, none of them suffer from the burdens of being prodigies 
 
 ## Monster of the week
 
-![](images/dungeon_meshi_golems.png)
+![](/assets/images/dungeon_meshi_golems.png)
 
 I don’t watch a lot of long-running TV series because I find that the ones I gravitate to start off with a strong concept and then eventually include a narrative that overtakes it. An example is _Supernatural_; I was drawn in by the plot of modern-day monster/demon hunters, and how they deal with the challenges of doing so in secret. Seeing the format of “oh hey, this week they deal with ghosts with rock salt in a shotgun” and “this week they show us bits of how hunters operate” interested me because of a strong _setting_ and strong _concept_.
 
@@ -165,7 +165,7 @@ However, over time, the series became more about a narrative about god, angels, 
 
 This is partly why I like _Star Trek: The Next Generation_: there are both “conflict/issue of the week” stories, and two-part dramas involving characters and major events. My favorite episodes are ones where they just hang around the ship and they have to solve a problem, mostly because through the solving of the problem we get to see more of their world, and **how people exist** in that space.
 
-![](images/dungeon_meshi_retreat.png)
+![](/assets/images/dungeon_meshi_retreat.png)
 
 I think that’s why I like _Dungeon Meshi_ to the degree that I do — there’s enough of a mix where things are neither too complacent or boring. For every point that advances the plot, there’s enough downtime or character interaction to almost remind my why I'm invested, and strengthen the bond. The vision of the series doesn’t get lost by the desire to tell a deep, involved story, and it doesn’t become stale by just feeling like the same formula every time.
 

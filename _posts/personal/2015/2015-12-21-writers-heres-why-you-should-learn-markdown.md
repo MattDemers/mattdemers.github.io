@@ -33,7 +33,7 @@ Simple, right?
 
 This gets even better when you either work with a CMS (like Anchor, which this blog uses) that supports Markdown; since the syntax is easy to remember, you can craft a whole post in Notepad and then just copy-paste it over. On CMS’ like WordPress, there are tools (like Showdown & Highlight) that will quickly convert your Markdown to crisp, clean HTML, so you can post it to the source.
 
-![](images/pNSqOnR.png)
+![](/assets/images/pNSqOnR.png)
 
 The above paragraph, in Markdown.
 

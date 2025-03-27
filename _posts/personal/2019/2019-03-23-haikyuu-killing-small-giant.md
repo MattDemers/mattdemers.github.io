@@ -16,7 +16,7 @@ Haruichi Furudate writes good shōnen sports manga — I say this, because I've 
 
 The basic premise of the story is that our protagonist, Hinata Shōyō, is short, but wants to live up to the volleyball prowess of "The Small Giant." The Small Giant was a shorter ace player who helped bring Karasuno High School to national volleyball titles, and, to Hinata, he's an inspiration.
 
-![](images/image-1.png)
+![](/assets/images/image-1.png)
 
 The series hasn't focused too hard on this, mostly because there's a lot of mystique around him; a lot of the manga is devoted more to Hinata and the team's development, rather than the conflict of this extraneous character. However, the concept of living up to his legacy pops up from time to time, almost nudging us to remind that it's still there.
 
@@ -28,7 +28,7 @@ When we **do** meet The Small Giant, we meet Tenma Udai, instead. Tenma quit pla
 
 <figure>
 
-![](images/image.png)
+![](/assets/images/image.png)
 
 <figcaption>
 
@@ -44,11 +44,11 @@ Hinata, in meeting his idol, has a moment of confusion: this isn't how it was su
 
 Hinata steps onto the court, and the chapter closes the issue with the line, "I wonder why, I....
 
-![](images/image-2.png)
+![](/assets/images/image-2.png)
 
 The next opens up with Kageyama, the deuteragonist whose growth has largely paralleled Hinata's, taking a breath and saying:
 
-![](images/image-3.png)
+![](/assets/images/image-3.png)
 
 These couple chapters pulled me back into _Haikyuu!!_ **hard**, because I feel like the author took a couple important steps by closing this story thread. It felt ballsy, and made a concrete statement by doing so.
 
@@ -62,7 +62,7 @@ While we haven't seen how the arc plays out, this potentially allows for an inve
 
 However, my prediction is that won't matter too much in the grand scheme of things.
 
-![](images/image-4.png)
+![](/assets/images/image-4.png)
 
 _Haikyuu!!_ does an amazing job of examining the personal aspects of competition, and how one's relationship with their sport shapes them as people. Even the opponents aren't really villains — they have their own motivations, and in most cases you come to respect the steps they've took to get this far themselves. While _Haikyuu!!_ is a sports manga, the matches themselves are backdrops to the development of the characters, and that's something I can appreciate.
 

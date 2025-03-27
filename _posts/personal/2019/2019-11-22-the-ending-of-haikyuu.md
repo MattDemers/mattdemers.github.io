@@ -23,7 +23,7 @@ I can't exactly fault it for that; the story was originally about Hinata, but ex
 
 By making him older, and also moving him away from the rest of the cast (traveling to Brazil from Japan), Hinata is forcibly separated, and the setting means that he's in the spotlight. There have been moments where other characters (particularly fan-favorite ones) have been shown or interacted with, but their involvement seems to be temporary. Hinata's made it clear that he wants to learn beach volleyball after his high school career of indoor, and Brazil is the best place to do it.
 
-![](images/haikyuu_brazil_2.png)
+![](/assets/images/haikyuu_brazil_2.png)
 
 This is cool for a couple reasons: we've spent the manga's entire run with him as a high schooler, and fast-forwarding five years means that we instantly get to see the maturation of a character into a somewhat more grounded adult. He's doing yoga. He's delivering food for a job. He's reading Portugese _Dragon Ball_ to learn the local language. Basically, he's less of the hyper 14-year-old and a more zen 19-year-old.
 
@@ -79,7 +79,7 @@ He might return to Japan and reunite with his old teammates in a social sense of
 
 Since games in-manga can take **months** outside of it, suddenly the book loses a lot of its formula and stability. We are usually given time to get to know opponents, their motivations, backstory, and gameplan. This makes games more intense, because we gain attachment to people and come to understand them; that all takes time the series doesn't have, at this point.
 
-![](images/haikyuu_team_image.png)
+![](/assets/images/haikyuu_team_image.png)
 
 ## What Haikyuu!! didn't do
 

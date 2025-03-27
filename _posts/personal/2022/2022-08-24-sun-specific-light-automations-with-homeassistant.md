@@ -32,7 +32,7 @@ If you're more knowledgeable about HomeAssistant than me, please leave me a comm
 
 Before we create the automations, we need to create a scene for them to change to. You can go to `Configuration > Automations & Scenes` in HomeAssistant, and then the `Scenes` tab.
 
-![](images/brave_VkCDuRuG1k-1024x716.png)
+![](/assets/images/brave_VkCDuRuG1k-1024x716.png)
 
 As you can see, a new scene has fields for the name and the icon associated.
 
@@ -40,7 +40,7 @@ The "Devices" field lets you add your lights (as I have here).
 
 However, to save the scene, you must click on the icons to the right of the name (in this case, lightbulbs) and set up those bulbs how you'd like them to be in the scene.
 
-![](images/brave_1yPVZOskNP.png)
+![](/assets/images/brave_1yPVZOskNP.png)
 
 In this case, I would move my "Color Temperature" slider to a warmer colour if I'm going to be making a "Sunset" scene. Once that's finished for all the bulbs, save the scene. Also important to note is that my ceiling lights are a group of two.
 

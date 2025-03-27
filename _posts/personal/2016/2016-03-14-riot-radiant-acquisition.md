@@ -35,7 +35,7 @@ However, over time the reasoning for new characters (especially ones with more m
 
 I wrote about this change at the time, and posited that this change was to give Riot the room needed to create a new game with the _League of Legends_ intellectual property without being hamstrung to the gametype.
 
-![](images/lol_ionia.png)
+![](/assets/images/lol_ionia.png)
 
 We saw it with Blizzard and Hearthstone: take an IP people are nostalgic and attached to, throw it in a new game type, and see people instantly attach to it. You have an in-built audience that doesn't need to be prompted to like something; they enjoy the characters and setting already. Considering the _League of Legends_ IP (not necessarily the game itself) is one of Riot's strongest properties, this extension to other titles makes total sense.
 
@@ -49,7 +49,7 @@ While Riot are no stranger to event planning, having these minds in their compan
 
 However, it will be interesting to see how the FGC takes the emergence of a hypothetical title; a lot of the hardcore are decidedly anti-esports until there is a direct benefit to them. Riot will need to be able to balance the desire for prize money with the backlash that inevitably comes when they want to make their community a little more family-friendly to watch and participate in.
 
-![](images/evo_crowd.png)
+![](/assets/images/evo_crowd.png)
 
 Seth Killian is also part of Radiant, which brings a degree of legitimacy to the endeavor; as a Street Fighter commentator and Senior Manager for Capcom, Killian brings essential knowledge and a good base of credibility for Riot to learn from. I could see them putting him in a Nick Allen-like position (referencing the former Head of Esports for Riot, who previously worked at the IGN Pro League) and letting him be a thought leader within the company.
 
