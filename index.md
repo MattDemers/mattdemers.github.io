@@ -4,4 +4,5 @@
 
 layout: home
 author: "Matt Demers"
+author_profile: true
 ---
