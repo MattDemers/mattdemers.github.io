@@ -1,7 +1,6 @@
 # Jekyll Settings
 
-title: Test
-email: your-email@example.com
+title: Matt Demers dot com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -19,7 +18,7 @@ plugins:
 
 # Minimal Mistakes
 
-minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 defaults:
   - scope:
