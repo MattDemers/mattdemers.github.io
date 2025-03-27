@@ -6,7 +6,7 @@ tags:
 coverImage: "kite_banner.png"
 date: 2025-01-06
 layout: single
-author: Matt Demers
+author: "Matt Demers"
 ---
 
 It’s 2025, and my biggest goal for the next year is to not think as much.
