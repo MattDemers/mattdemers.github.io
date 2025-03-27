@@ -1,8 +1,5 @@
 ---
 title: "2024: The Reflection Post"
-date: 2025-01-06
-categories: 
-  - "personal"
 tags: 
   - "mental-health"
   - "year-end-blogs"
