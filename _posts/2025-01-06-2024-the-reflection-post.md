@@ -23,8 +23,6 @@ It’s 2025, and my biggest goal for the next year is to not think as much.
 
 There’s a couple asterisks at the end of that sentence, but for the most part I’m not lying; since turning 35, a lot of the work I’ve been trying to do on myself has involved awareness, but also knowing when it’s valuable to just turn it all off.
 
-![](/assets/images/kite_banner-1024x512.png)
-
 For most of my life, I’ve pretty much assumed that as long as my brain was working, it was in service of something good: if I thought long and hard enough, I’d eventually “crack” my personal issues, change to address them, and generally be happier. While there’s some good news is that I’m getting a deeper understanding of these issues, the bad news is that I have to suppress a lot of my instincts in order to address them.
 
 I’ve always been a big fan of therapy, and have written pretty openly about my experiences with it. Recently, at the end of December, I decided to experiment with Anthropic’s Claude AI to see if I could set it up as a supplementary therapist; I had found a prompt that seemed interesting enough, giving Claude the context of a skilled therapist, and the kind of writing style that I thought might help.
