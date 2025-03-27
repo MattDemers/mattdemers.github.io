@@ -9,6 +9,14 @@ tags:
   - "overwatch"
   - "video-games"
 coverImage: "cI2kA4l1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Blizzard's FPS title Overwatch is probably one of the most hyped titles this year due to a couple different factors:

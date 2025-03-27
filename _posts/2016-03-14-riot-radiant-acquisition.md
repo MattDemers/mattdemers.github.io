@@ -9,6 +9,14 @@ tags:
   - "riot-games"
   - "video-games"
 coverImage: "rising_thunder.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Last week, Radiant Entertainment announced that they would be acquired by Riot Games, the developer of _League of Legends_.

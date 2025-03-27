@@ -9,6 +9,14 @@ tags:
   - "fighting-games"
   - "street-fighter-v"
 coverImage: "making_goals_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 The last two weeks have been kind of a roller coaster from positive to negative. I've been grinding out games of both Dota and Street Fighter on stream, and with varying degrees of success.

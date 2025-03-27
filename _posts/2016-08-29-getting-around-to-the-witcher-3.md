@@ -8,6 +8,14 @@ tags:
   - "review"
   - "the-witcher"
 coverImage: "witcher3-FA.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 About a week and a half ago I finally splurged a little bit to buy a new GPU, a Nvidia GTX 1080; this is one of the most powerful cards on the market at the moment, and should last me a good couple years. I end up upgrading my PC in giant spurtsin about the same time frame, as the future-proofing tends to work out for the best.

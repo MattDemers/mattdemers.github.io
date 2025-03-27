@@ -8,6 +8,14 @@ tags:
   - "psyonix"
   - "rocket-league"
 coverImage: "rL_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 When I found out that Rocket League was going to be allowing cross-play between Xbox One, the Playstation 4 and PC, I initially just chalked it up to the game being relatively good at it already and adding one more platform to its portfolio.

@@ -11,6 +11,14 @@ tags:
   - "mental-health"
   - "space-brothers"
 coverImage: "blue_period_cover_banner_ch7.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I think my favourite manga genre is "hard work makes good", which is hard to describe. Usually it has a couple similar tropes/beats and qualities:

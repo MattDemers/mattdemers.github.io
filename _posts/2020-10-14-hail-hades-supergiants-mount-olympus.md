@@ -10,6 +10,14 @@ tags:
   - "supergiant-games"
   - "transistor"
 coverImage: "hades_cover_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 #### Notes and Spoiler Alerts

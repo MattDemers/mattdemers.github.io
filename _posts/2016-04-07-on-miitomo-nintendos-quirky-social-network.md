@@ -9,6 +9,14 @@ tags:
   - "nintendo"
   - "review"
 coverImage: "miitomo_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Over the last couple days I've started to get into Miitomo, which is Nintendo's first attempt at a mobile app. In wanting to get into that market, Nintendo both have to admit that their handheld line of consoles isn't getting them everything they want, and they also have to make something cool without driving people _away_ from the 3DS.

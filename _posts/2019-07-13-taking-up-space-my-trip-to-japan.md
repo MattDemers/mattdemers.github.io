@@ -10,6 +10,14 @@ tags:
   - "travel"
   - "wrestling"
 coverImage: "DSC02398-21.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I've been putting off writing something about my Japan trip, mostly because it's hard to know exactly where to start. This probably won't be the only thing I write about it, but I feel it's the most important thing for me to commit to a post.

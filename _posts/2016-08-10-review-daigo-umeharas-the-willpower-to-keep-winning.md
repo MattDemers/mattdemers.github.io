@@ -10,6 +10,14 @@ tags:
   - "review"
   - "video-games"
 coverImage: "Daigo_Umehara_Book_Review.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I've been trying to get a hold of Daigo Umehara's _The Willpower to Keep Winning_ (◄ affiliate link) for a couple of years now; no unofficial fan translations exist, but it was recently released in English for the first time to coincide with this year's Evolution Championship Series.

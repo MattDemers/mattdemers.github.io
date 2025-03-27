@@ -6,6 +6,14 @@ categories:
 tags: 
   - "mental-health"
 coverImage: "support_networks_banner_Pixabay.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I was struggling to find a blog topic for today but thanks to a friend (shoutouts to Ria!) I settled on talking about support networks. Ironically, Ria is a large part of my support network; she's someone I can trust to both listen and give advice.

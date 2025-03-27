@@ -8,6 +8,14 @@ tags:
   - "jrpgs"
   - "rpgs"
 coverImage: "DQ-Banner-1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 This is the first episode of _The Ongoing History of RPGs_, and I figured I'd start it off with a series I really enjoy, but ironically haven't played too much of. _Dragon Quest_, despite not being as big as _Final Fantasy_ in the West, is one of the most important titles in the RPG genre; it gave players an accessible way to enjoy a story while innovating mechanics that are still being used today.

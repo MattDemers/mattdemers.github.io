@@ -7,6 +7,14 @@ tags:
   - "esports"
   - "wrestling"
 coverImage: "esports_entrances_FI.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Over the past year I've gotten more comfortable with my fandom for pro wrestling because of a couple reasons; the most prominent is that it introduced a love of pageantry and storytelling that I didn't know that I had.

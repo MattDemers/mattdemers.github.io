@@ -8,6 +8,14 @@ tags:
   - "mental-health"
   - "street-fighter-v"
 coverImage: "presense_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I have a hard time being present.

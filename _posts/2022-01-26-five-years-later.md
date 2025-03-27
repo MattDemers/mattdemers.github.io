@@ -6,6 +6,14 @@ categories:
 tags: 
   - "mental-health"
 coverImage: "fiveyearslater_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I hate Bell's Let's Talk campaign, and I keep forgetting it's still a thing until it rears its ugly head. I'm not going to write about it any more here, mostly because I already did — five six years ago.

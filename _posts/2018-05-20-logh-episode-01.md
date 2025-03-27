@@ -9,6 +9,14 @@ tags:
   - "review"
   - "science-fiction"
 coverImage: "LOGH_S01E01_Title.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 After seeing endless screencaptures on Twitter, I decided to dive into _Legend of the Galactic Heroes_ out of curiosity for something people seemed to universally praise. I usually gravitate to classics for a reason: they're usually safe choices when it comes to spending my time.

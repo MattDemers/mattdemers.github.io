@@ -8,6 +8,14 @@ tags:
   - "dota-2"
   - "valve-software"
 coverImage: "valve_artifact_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Yesterday when I was watching The International's broadcast, something perked my ears up. Valve announced that they were revealing a new game, right then and there.

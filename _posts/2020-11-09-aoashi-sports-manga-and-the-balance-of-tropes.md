@@ -8,6 +8,14 @@ tags:
   - "manga"
   - "sports"
 coverImage: "aoashi_blog_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 #### Housekeeping and spoilers

@@ -8,6 +8,14 @@ tags:
   - "creating"
   - "mental-health"
 coverImage: "blue_giant_top_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I turned 34 this weekend. The morning after, I woke up with a hangover and wondered where my dream went.

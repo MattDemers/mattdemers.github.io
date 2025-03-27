@@ -7,6 +7,14 @@ tags:
   - "birthday"
   - "mental-health"
 coverImage: "roof-banner1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I wanted to some writing to expand on a tweet that I made yesterday that had some advice for people that might want it. My own qualifications aren't that impressive; all I can say is that I've survived to 30 working in the game industry, and that therapy and massive amounts of introspection have caused me to be the tiniest amount healthier.

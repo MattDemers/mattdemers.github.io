@@ -8,6 +8,14 @@ tags:
   - "streaming"
   - "yakuza"
 coverImage: "persona_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 The last few months of my stream have mainly moved away from anything competitive; I’ve been playing games that I’ve been meaning to cross off my list for one reason or another, and the idea (like many people will tell you) is to play while focusing on my enjoyment.

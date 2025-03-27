@@ -12,6 +12,14 @@ tags:
   - "manga"
   - "rpgs"
 coverImage: "ryza_banner1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 2020 has been off to a slow start for me, mostly because I'm waiting on some (good) job news, and also from personal choice. After taking November and December off after leaving EG, I'm kind of feeling the rumbles inside of me to get working and get creative again.

@@ -9,6 +9,14 @@ tags:
   - "japan"
   - "manga"
 coverImage: "Golden_Kamuy_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 #### Spoiler warning and housekeeping

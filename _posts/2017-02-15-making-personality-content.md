@@ -8,6 +8,14 @@ tags:
   - "creating"
   - "giantbomb"
 coverImage: "content_planner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Personality-based content seems almost too good to be true: the idea is that your users will love the **people** producing the content so much that _what_ you make is largely irrelevant. By building a rabid fanbase, you're allowed more freedom and less pressure, since people are coming for _you_.

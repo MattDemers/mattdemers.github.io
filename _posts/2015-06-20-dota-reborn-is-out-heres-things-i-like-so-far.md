@@ -7,6 +7,14 @@ tags:
   - "dota-2"
   - "esports"
   - "media-criticism"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I recently had the chance to play around with the Dota 2 Reborn beta after it launched earlier this week. Obviously, being a beta, there's a bunch of stuff that needs to be improved — things like connectivity issues during custom games, spectating and Hero MMR are all kind of struggling.

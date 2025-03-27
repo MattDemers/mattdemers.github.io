@@ -9,6 +9,14 @@ tags:
   - "esports"
   - "travel"
   - "work"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 The last time I did a blog like this I was heading to Los Angeles to do social media for the Manila Major Qualifier Hub; I found it only fitting that I'd do a second post for The International Qualifier Hub, since it was pretty much the same event with a little refining.

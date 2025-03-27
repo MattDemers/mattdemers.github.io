@@ -9,6 +9,14 @@ tags:
   - "money"
   - "patreon"
 coverImage: "patreon_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 A couple weeks ago I had a friend approach me and ask me if I had any thoughts about him creating a Patreon. He told me I should consider making a blog out of my answer to him, so here goes.

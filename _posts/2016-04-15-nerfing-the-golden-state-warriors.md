@@ -9,6 +9,14 @@ tags:
   - "nba"
   - "sports"
 coverImage: "GSW_Banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Apparently the 2015-16 Golden State Warriors have had a pretty good NBA regular season. To list some of their accolades:

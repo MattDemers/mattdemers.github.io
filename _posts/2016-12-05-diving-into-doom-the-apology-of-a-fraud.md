@@ -8,6 +8,14 @@ tags:
   - "pc-games"
   - "review"
 coverImage: "doom_banner-1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I feel like I need to write an apology to someone.

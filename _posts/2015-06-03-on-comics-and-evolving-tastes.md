@@ -7,6 +7,14 @@ tags:
   - "comic-books"
   - "media-criticism"
   - "tcaf"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Today I went to TCAF 2015. Usually, it’s a pretty big event during my calendar year; I really love comics, and seeing a lot of independent voices always felt really good.

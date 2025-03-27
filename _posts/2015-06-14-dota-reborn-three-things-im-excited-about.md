@@ -7,6 +7,14 @@ tags:
   - "dota-2"
   - "esports"
   - "twitch"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 A couple days ago Dota 2 fans were treated to the launch of Reborn, a web page devoted to the updating of… a lot of things.

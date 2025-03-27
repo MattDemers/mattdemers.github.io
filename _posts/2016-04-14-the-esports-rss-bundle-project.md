@@ -9,6 +9,14 @@ tags:
   - "product"
   - "rss"
 coverImage: "Esports-RSS-Bundle-Banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 A little while ago I had a discussion about how we consume content, and how aggregates like Reddit cause problems for discovery.

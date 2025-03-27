@@ -8,6 +8,14 @@ tags:
   - "journalism"
   - "mental-health"
 coverImage: "moving_day_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Today is moving day. I'm taking a little bit of a break from frantically packing in order to write this blog.

@@ -9,6 +9,14 @@ tags:
   - "markdown"
   - "writing"
 coverImage: "pexels-burst-374720.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 As a writer, I’ve become painfully aware that we don’t get many “toys.” Artists have stores devoted to different tools of their trade, while we have… keyboards — maybe some fancy notebooks.

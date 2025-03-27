@@ -7,6 +7,14 @@ tags:
   - "mental-health"
   - "year-end-blogs"
 coverImage: "spruce_patreon.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Hey there. I hope you're having a good last day of 2021.

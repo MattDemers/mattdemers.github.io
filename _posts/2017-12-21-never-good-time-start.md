@@ -7,6 +7,14 @@ tags:
   - "mental-health"
   - "physical-health"
 coverImage: "winter_banner.jpg"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 At the beginning of November, I moved to a new apartment. Unfortunately, a lot has gone wrong with that.

@@ -8,6 +8,14 @@ tags:
   - "mental-health"
   - "year-end-blogs"
 coverImage: "thebench_2016.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I like New Year's resolutions post mostly because I'm big on reflecting. A friend noted that I'm big on anniversaries; my birthday (July 1) and New Year's Day (January 1) fall exactly six months away from each other, so I find they're good times to look back, plan and learn.

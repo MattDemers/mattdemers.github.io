@@ -8,6 +8,14 @@ tags:
   - "legend-of-the-galactic-heroes"
   - "review"
   - "science-fiction"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I really liked how my last _Legend of the Galactic Heroes_ blog came out, so I feel I should do more of them. I don't have much experience with reviewing anime, but I hope my rambling has been entertaining so far.

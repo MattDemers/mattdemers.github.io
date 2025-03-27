@@ -10,6 +10,14 @@ tags:
   - "league-of-legends"
   - "tsm"
 coverImage: "pexels-photo-320617.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 _Disclosure: I worked at theScore eSports from Jan 2015 to Nov 2015. I worked with Rod Breslau and Tyler Erzberger during my time there, and edited their work. Darin Kwilinski edited my work while I worked at Azubu from April to June 2014. All three now work at ESPN._

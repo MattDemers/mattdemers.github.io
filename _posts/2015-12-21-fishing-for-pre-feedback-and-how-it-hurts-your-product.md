@@ -7,6 +7,14 @@ tags:
   - "creating"
   - "twitch"
 coverImage: "S9v2Gr2.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Today I'd like to start a series of posts where I examine some of my pet peeves when it comes to content creation. These posts will attempt to deconstruct bad habits and common mistakes I see made, as well as provide decent reasoning for thinking them a problem.

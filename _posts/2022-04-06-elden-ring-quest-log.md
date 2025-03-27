@@ -8,6 +8,14 @@ tags:
   - "video-games"
   - "xenoblade-chronicles"
 coverImage: "Elden_Ring_Cover_Banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 #### Small spoiler warning

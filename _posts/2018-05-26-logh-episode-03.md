@@ -8,6 +8,14 @@ tags:
   - "legend-of-the-galactic-heroes"
   - "review"
 coverImage: "LOGH_S01E03_Title_Card.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Hey hey, we're back again with more _Legend of the Galactic Heroes_, and we're continuing to spend a lot of time with Yang. If you were returning to the series hoping for more space battles, boy howdy are you going to be disappointed.

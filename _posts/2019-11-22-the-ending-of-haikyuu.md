@@ -7,6 +7,14 @@ tags:
   - "haikyuu"
   - "manga"
 coverImage: "vlcsnap-2019-11-22-19h43m21s6431.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 **This article contains heavy spoilers for people who aren't current to the Haikyuu!! manga. Specifically, it's written after reading Haikyuu!! 374**.

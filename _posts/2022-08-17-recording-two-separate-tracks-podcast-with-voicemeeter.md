@@ -8,6 +8,14 @@ tags:
   - "podcasts"
   - "voicemeeter"
 coverImage: "podcast_tutorial_voicemeeter_recording_tracks.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Podcasting has exploded in popularity as technology has made creating easier. However, this also introduces additional problems, as creators can’t always have a sweet in-home setup for recording multiple people.

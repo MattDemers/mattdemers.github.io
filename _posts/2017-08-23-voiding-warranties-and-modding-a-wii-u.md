@@ -8,6 +8,14 @@ tags:
   - "nintendo"
   - "tinkering"
   - "wiiu"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 This week, I decided to undertake a project and hack my Wii U. I didn't really _need_ to; there isn't really any reason beyond a few tweaks and piracy. To the latter point, I'm at the stage of my life where I can afford paying for my games.

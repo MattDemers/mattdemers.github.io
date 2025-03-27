@@ -8,6 +8,14 @@ tags:
   - "mental-health"
   - "physical-health"
   - "working"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Like many people my age, I got hooked on computers early on in my life. I remember playing games like Dangerous Dave, Monster Bash and Commander Keen, which led to Dota 2, League of Legends and others today.

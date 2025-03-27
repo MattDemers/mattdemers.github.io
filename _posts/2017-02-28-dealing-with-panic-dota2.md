@@ -8,6 +8,14 @@ tags:
   - "dota-2"
   - "streaming"
 coverImage: "ogre_panic_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Panic is a common problem in multiplayer games — you’re faced with an innumerable amount of choices with limited information and only have a small window of time to maximize results with an.

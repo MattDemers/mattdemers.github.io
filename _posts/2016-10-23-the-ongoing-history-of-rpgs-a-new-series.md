@@ -8,6 +8,14 @@ tags:
   - "jrpgs"
   - "rpgs"
 coverImage: "Social-Banner-WP-Banner2.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 So the last little bit has been relatively quiet from me after I felt I needed to take a bit of a break. Coming back wasn't exactly difficult: _not_ picking up any new projects before I'd actually made some changes was.

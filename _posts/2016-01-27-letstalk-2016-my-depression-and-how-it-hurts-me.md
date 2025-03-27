@@ -10,6 +10,14 @@ tags:
   - "depression"
   - "mental-health"
 coverImage: "pexels-photo-3064079.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 So today's Bell's annual #LetsTalk day, which is a promotion to get people talking about depression and mental health. Every time people tweet with the hashtag, Bell makes a donation to Canadian mental health programs.

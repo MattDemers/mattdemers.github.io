@@ -6,6 +6,14 @@ categories:
 tags: 
   - "wrestling"
 coverImage: "tanahashi_banner_wrestling.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Over the last year or so I've found pro wrestling to be a hobby that is increasingly fun to dive into. While it's still not the most socially-acceptable hobby, I feel like it's making headway back into the mainstream as fans of its boom period from 1997-2001 grow older, and alternatives to the WWE become more accessible.

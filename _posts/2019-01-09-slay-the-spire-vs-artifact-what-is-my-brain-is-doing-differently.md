@@ -9,6 +9,14 @@ tags:
   - "mental-health"
   - "slay-the-spire"
 coverImage: "sts_banner1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I've been playing a lot of _Slay the Spire_ lately. I've found that it's really scratched the itch for card games in a way that I never really appreciated before, and I've been spending a long time tinkering with how to approach different decks and challenges.

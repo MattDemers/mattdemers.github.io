@@ -8,6 +8,14 @@ tags:
   - "nintendo"
   - "pokemon"
 coverImage: "RECentral_4_gWuLndyUlW1.jpg"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I always find it fascinating when the release of something coincides with a general cultural need. With the COVID-19 quarantine still going on, it was pretty great to see _Animal Crossing: New Horizons_ come out right at a time when anxiety is high and people need something to do.

@@ -9,6 +9,14 @@ tags:
   - "street-fighter-v"
   - "twitch"
 coverImage: "akuma_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I've come to realize I have a little bit of a phobia when it comes to facing certain characters. This usually comes from when they've beat me pretty hard in the past, and that kind of carries over to future matches where I think the same thing is going to happen.

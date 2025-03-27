@@ -8,6 +8,14 @@ tags:
   - "mental-health"
   - "physical-health"
 coverImage: "DSC048941.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Last year I wrote something on my birthday for turning 30, and today I turn 31. Looking back at that post, I'm happy that I haven't made any huge changes, but I figured I should at least update how things have been going.

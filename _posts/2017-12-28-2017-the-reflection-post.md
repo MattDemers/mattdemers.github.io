@@ -7,6 +7,14 @@ tags:
   - "mental-health"
   - "year-end-blogs"
 coverImage: "2017_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I think every writer has a voice in their head that tells them to write a New Year's resolution/reflection blog. It allows them to be a bit reflective and nudge a little narcissism at the same time.

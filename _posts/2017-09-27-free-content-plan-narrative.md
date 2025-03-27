@@ -8,6 +8,14 @@ tags:
   - "creating"
   - "writing"
 coverImage: "narrative_pexels_aleskrivec.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 A couple years ago I had a project called BetterDota; basically, it was an idea I concocted to make my journey to get better at Dota 2 into a narrative more palatable to an audience.

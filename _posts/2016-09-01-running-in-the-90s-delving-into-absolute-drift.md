@@ -8,6 +8,14 @@ tags:
   - "pc-games"
   - "review"
 coverImage: "Absolute_Drift_Banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Sometimes you can’t help but commit a cardinal sin in gaming: you let your first impression be your only one.

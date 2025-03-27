@@ -9,6 +9,14 @@ tags:
   - "smash-bros"
   - "twitch"
 coverImage: "Cheering_At_EVO_Banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 With Evo finished, I wanted to get down a few thoughts about the implementation of Twitch Cheering, and how some questions I had about its future use in competitive events.

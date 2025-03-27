@@ -8,6 +8,14 @@ tags:
   - "streaming"
   - "twitch"
 coverImage: "konmari_title_banner_Gratisography.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Over the last week I've been reading Marie Kondo's _The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing_ \[affiliate link\], and slowly digesting her "KonMari" method. It's been pretty eye-opening in terms of changing some habits and jolting me into new ways of thinking.

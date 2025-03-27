@@ -9,6 +9,14 @@ tags:
   - "rpgs"
   - "xenoblade"
 coverImage: "xbc2_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 One of the first posts that I published when I launched this blog was my impressions of _Xenoblade Chronicles X_, a WiiU title from Monolith Soft. Despite really liking it at the time, I grew more frustrated with it the more I tried to play: the game's internal systems just didn't work for me, and it demanded a time commitment comparable to an MMORPG to "get to the good parts."

@@ -9,6 +9,14 @@ tags:
   - "soccer"
   - "sports"
 coverImage: "giantkilling_banner31.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I’ve been trying to make more of a habit of reading before I go to bed, both to get myself away from the PC itself and the social media that I find myself scrolling through. There’s something particularly insidious about the habit of diving deep into reddit, Twitter or Wikis when you’re not fully engaged; it’s really easy to just float in a sea of things that aren’t really going to entertain _or_ help you grow.

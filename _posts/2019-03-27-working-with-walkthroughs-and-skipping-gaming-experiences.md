@@ -10,6 +10,14 @@ tags:
   - "sekiro-shadows-die-twice"
   - "yakuza"
 coverImage: "sekiro_banner_concept_art1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I've been making a concerted effort to cross games off my backlog lately before I buy any more. I've also been looking at that backlog and thinking "am I _really_ going to go back to this game that I'm not enthused about to finish it?" and realizing that the answer is probably no.

@@ -9,6 +9,14 @@ tags:
   - "manga"
   - "volleyball"
 coverImage: "haikyuu_banner_connect1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 #### Spoiler alert

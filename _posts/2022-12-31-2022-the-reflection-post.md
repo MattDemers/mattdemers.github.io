@@ -7,6 +7,14 @@ tags:
   - "mental-health"
   - "year-end-blogs"
 coverImage: "2022-Reflection-Banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I haven’t published anything in two months.

@@ -7,6 +7,14 @@ tags:
   - "mental-health"
   - "year-end-blogs"
 coverImage: "wordpress-zaku.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 "\[L\]eave the thought that you are 'behind' in 2023."\[link\]

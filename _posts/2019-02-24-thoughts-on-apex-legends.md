@@ -8,6 +8,14 @@ tags:
   - "pc-games"
   - "review"
 coverImage: "apex_banner1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Battle Royale games make me feel old.

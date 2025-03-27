@@ -7,6 +7,14 @@ tags:
   - "dota-2"
   - "streaming"
 coverImage: "Dota-2-chart.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Despite not making it “a project” for the last little while, I’ve still been playing Ranked Dota 2. My mindset is starting to shift in that I haven’t been entirely tilted by my performance or MMR (matchmaking rank) number, because by playing with my friends I’ve been able to see a marked improvement in how I play the game.

@@ -9,6 +9,14 @@ tags:
   - "review"
   - "video-games"
 coverImage: "z8lyu6K.jpg"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 One of the most beloved video games of all time is _Cave Story_, a labor of love by one Daisuke "Pixel" Amaya. Developed over the course of years, it was initially released for free, and eventually ported to consoles like the Nintendo 3DS and WiiU later.

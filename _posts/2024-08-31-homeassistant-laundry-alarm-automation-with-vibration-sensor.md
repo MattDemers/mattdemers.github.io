@@ -8,6 +8,14 @@ tags:
   - "homeassistant"
   - "tutorial"
 coverImage: "pexels-sinileunen-5661241-crop-laundry.jpg"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Hey all. I wanted to write a couple more basic HomeAssistant tutorials, mostly because they're a low-commitment way of making the community better; even if it helps one person, it's better than nothing.

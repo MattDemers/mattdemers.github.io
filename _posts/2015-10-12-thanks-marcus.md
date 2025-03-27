@@ -7,6 +7,14 @@ tags:
   - "esports"
   - "league-of-legends"
 coverImage: "dyrus_Banner_unsplash.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Some of you know that eSports is something I came into by accident; it was never supposed to be a career, but more a hobby.

@@ -6,6 +6,14 @@ categories:
 tags: 
   - "esports"
   - "league-of-legends"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Up until this week, I was noting a very worrying trend for LCS matches; I was getting bored. Games lacked a certain _competition_ that usually glues me to the screen; while players can do some wonderful plays in one-sided stomps, I’m a lot more engaged when I’m on the edge of my seat, knowing that the balance of power can shift at any time.

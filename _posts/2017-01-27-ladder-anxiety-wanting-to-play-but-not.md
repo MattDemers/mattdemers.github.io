@@ -8,6 +8,14 @@ tags:
   - "street-fighter-v"
   - "twitch"
 coverImage: "ladder_anxiety_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Like a lot of people starting out with competitive gaming, I’m having some problems with ladder anxiety.

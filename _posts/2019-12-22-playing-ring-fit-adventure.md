@@ -9,6 +9,14 @@ tags:
   - "physical-health"
   - "ring-fit-adventure"
 coverImage: "2019120619143000-638E7E1EEC4CD8A239243633C0345A071.jpg"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I’m ashamed to admit that I’ve fallen prey to my share of fitness gimmicks and failed gym habits. I’m always a sucker for trying again, however, and something about _Ring Fit Adventure_ for the Nintendo Switch caught my eye.

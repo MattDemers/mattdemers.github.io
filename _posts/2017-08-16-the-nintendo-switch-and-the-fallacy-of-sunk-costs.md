@@ -8,6 +8,14 @@ tags:
   - "nintendo"
   - "nintendo-switch"
 coverImage: "switch_banner_1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I was worried when I bought my Switch.

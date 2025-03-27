@@ -10,6 +10,14 @@ tags:
   - "money"
   - "privacy"
 coverImage: "brave_banner1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 When I made the decision to go into journalism as a career, it was motivated by me enjoying writing, and wanting to seek a way to make a living from it. By the time that I entered journalism school, people still hadn't figured out a good way of getting decent money from the things they published, and I thought "okay, they'll definitely have it figured out in at least four years, when I graduate."

@@ -8,6 +8,14 @@ tags:
   - "money"
   - "ynab"
 coverImage: "ynab_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I'm going to go a bit boring for this week's blog and talk a little bit about budgeting, and why it's important as a streamer, vlogger or content creator. **As a precaution**: this post doesn't constitute legal financial advice, and I'm not responsible for anything you do as a person. Read, educate yourself on personal finance, and generally don't do anything stupid.

@@ -7,6 +7,14 @@ tags:
   - "review"
   - "yakuza"
 coverImage: "yazkua6_kiryu1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 #### Spoiler alert

@@ -9,6 +9,14 @@ tags:
   - "stardew-valley"
   - "video-games"
 coverImage: "SDV_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 How often do you play a number of games in the same genre, and wish that there was a way to combine the best features of them into one title?

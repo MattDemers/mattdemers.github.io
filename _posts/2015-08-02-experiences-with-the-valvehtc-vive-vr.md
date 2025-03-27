@@ -9,6 +9,14 @@ tags:
   - "valve-software"
   - "vr"
 coverImage: "HTC_vive_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 This past week at The International I managed to get some time with the Valve/HTC virtual reality project, the Vive. I've never tried VR before, but tales of friends who have Oculus Rift developer kits and the general progress that the industry has made really got me interested.

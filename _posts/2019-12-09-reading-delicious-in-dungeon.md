@@ -7,6 +7,14 @@ tags:
   - "delicious-in-dungeon"
   - "manga"
 coverImage: "dungeon_meshi_banner1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I’ve been trying to sleep better lately, and part of that is improving my sleep hygiene. This mainly means changing a longtime habit I have, which is being on my PC until I get tired enough to sleep. I’ve described to my therapist before that being on the PC is basically my “default state of being”, which sounds a bit pathetic now that I type it out.

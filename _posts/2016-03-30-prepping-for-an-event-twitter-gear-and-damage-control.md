@@ -7,6 +7,14 @@ tags:
   - "event-planning"
   - "journalism"
 coverImage: "pexels-matheus-bertelli-2608517.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 In the past I've written posts for gaming/esports/nerd professionals who might be travelling to places like conventions, tournaments or expos. I think preparation for these events is a large part of being successful at them, and sometimes you can get blindsided by things you don't expect.

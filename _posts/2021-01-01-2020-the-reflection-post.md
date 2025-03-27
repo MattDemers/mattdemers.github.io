@@ -7,6 +7,14 @@ tags:
   - "mental-health"
   - "year-end-blogs"
 coverImage: "2020-banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Starting this piece feels a bit weird because I’m sure that many of you are going to read plenty of “wow, 2020 sucked” takes.

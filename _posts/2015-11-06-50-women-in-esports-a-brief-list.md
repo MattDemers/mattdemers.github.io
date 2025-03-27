@@ -6,6 +6,14 @@ categories:
 tags: 
   - "esports"
 coverImage: "pexels-soumil-kumar-735911.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Sparked by a debate that happened yesterday about female representation and role models in esports/gaming, I decided to compile a list of women in the industry that I enjoy following on Twitter. I've included a little blurb about what they do and a follow button beneath all of them. I encourage you to follow them if you're interested in expanding your horizons to the different voices within our industry.

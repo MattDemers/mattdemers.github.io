@@ -8,6 +8,14 @@ tags:
   - "manga"
   - "storytelling"
 coverImage: "haikyuu_the_small_giant_banner1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Haruichi Furudate writes good shōnen sports manga — I say this, because I've been really enjoying _Haikyu!!_ lately, and I felt like I should explain why. To note, **this post is going to spoil the last six or so chapters of the manga**, which is currently on Chapter 338 and onward.

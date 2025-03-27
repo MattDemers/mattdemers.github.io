@@ -7,6 +7,14 @@ tags:
   - "dragon-quest"
   - "rpgs"
 coverImage: "dq1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I’ve been craving getting into a new project lately since my break. Mostly, I’ve wanted to come up with something that I would ideally enjoy doing even if no one were to watch it — ideally, I would be okay just doing it for the sake of it.

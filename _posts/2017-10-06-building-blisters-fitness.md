@@ -7,6 +7,14 @@ tags:
   - "mental-health"
   - "physical-health"
 coverImage: "callouses.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 After years of failing at fitness, I decided in August that I was going to get a personal trainer. I had a couple months to kill of just doing _nothing_ while looking for an apartment and working, so I figured I'd jump on the investment and actually try to make the time worth it.

@@ -9,6 +9,14 @@ tags:
   - "riot-games"
   - "valve-software"
 coverImage: "Valve_Riot.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Riot Games' _League of Legends_ and Valve Software's _Dota 2_ are two of the foremost titles in the Multiplayer Online Battle Arena (MOBA) market, and are fundamentally different in audience and scope.

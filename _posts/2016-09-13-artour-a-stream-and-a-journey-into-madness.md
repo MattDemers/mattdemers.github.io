@@ -8,6 +8,14 @@ tags:
   - "pc-games"
   - "twitch"
 coverImage: "artourbanner-1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 So, I want you to picture something for a second.

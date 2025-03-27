@@ -8,6 +8,14 @@ tags:
   - "gundam"
   - "gundam-0079"
 coverImage: "gundam_0079_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 #### Spoiler warning

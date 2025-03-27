@@ -7,6 +7,14 @@ tags:
   - "creating"
   - "writing"
 coverImage: "Pitch_Banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 A major part of finding success and growth as a creator is being able to pitch your product to someone who's willing to pay for it. This means not only having a good way to communicate what you do, but also knowing what information is the most relevant.

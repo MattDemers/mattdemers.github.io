@@ -9,6 +9,14 @@ tags:
   - "resources"
   - "video"
 coverImage: "vlcsnap-2020-02-07-14h00m54s9041.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I've done my fair share of speaking about esports, but never in a class setting before. When I found out that my alma matter had an esports class (not just like, one week of study), I jumped at the chance to email the prof and see if they could put my experience to use.

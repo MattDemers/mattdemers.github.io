@@ -9,6 +9,14 @@ tags:
   - "esports"
   - "travel"
   - "work"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Two weeks ago I got some pretty good news; I would be travelling to Los Angeles to do social media for an esports company called Beyond the Summit. BTS does an assortment of Dota and Smash Bros events, and would be hosting a four-day-long coverage hub for the upcoming Manila Major Qualifiers.

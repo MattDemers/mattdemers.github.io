@@ -7,6 +7,14 @@ tags:
   - "marketing"
   - "social-media"
 coverImage: "zhuge_EX_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 My go-to advice when it comes to growing your following and creating shareable content has always been "create value." It's simple, easy to convey, and in most cases you can ask yourself "what are people getting out of this when I publish it?"

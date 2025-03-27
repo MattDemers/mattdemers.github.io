@@ -7,6 +7,14 @@ tags:
   - "artifact"
   - "valve-software"
 coverImage: "20181121200331_1-1170x660-1.jpg"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 It feels like forever since I wrote about Artifact, the Valve-produced card game set in the world of Dota 2. Since then, the game was kind of this specter that hung over Dota fans, since they didn’t really know what to expect from it. We saw personalities and people we looked up to rumbling behind-the-scenes about it, but we knew that they wouldn’t really be leaking anything.

@@ -9,6 +9,14 @@ tags:
   - "manga"
   - "music"
 coverImage: "beck_guitar_pick1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 One of my favorite manga, _Haikyuu!!_, is ending soon. The chapter that was published this week let us know that the next would be the "final chapter", which gives me a lot of emotions. While I'm waiting for that (so I can write something properly) I thought I'd write about another series that's similarly influenced my life: Harold Sakuichi's _BECK_.

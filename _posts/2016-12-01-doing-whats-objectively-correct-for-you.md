@@ -7,6 +7,14 @@ tags:
   - "depression"
   - "mental-health"
 coverImage: "galleria_2016.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 So today I had a pretty good day of therapy, and it contextualized a couple things for me.

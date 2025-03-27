@@ -9,6 +9,14 @@ tags:
   - "streaming"
   - "street-fighter-v"
 coverImage: "making_goals_banner-1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 This week I had the idea of planning out and sticking to a content schedule; mostly, I wanted to start becoming more organized with my time, and also wanted to lessen the mental load. Projects can seem pretty big until you take the time to get what exact steps you need to do them out on paper, which is kind of what happened here.

@@ -6,6 +6,14 @@ categories:
 tags: 
   - "twitch"
 coverImage: "bots_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 So if you've been on Twitch Twitter™ today you'll probably have heard about seebotschat, a channel that has two voice-activated assistants (Google Home models) that are programmed to talk to each other.

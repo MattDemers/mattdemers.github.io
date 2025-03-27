@@ -7,6 +7,14 @@ tags:
   - "blogging"
   - "creating"
 coverImage: "e5h1YfQ1.jpg"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Friends, I think it's time we had a serious talk. This might be a bit of a controversial topic, but I think we're at the point where revisiting something might save us a bit of a headache in the long run.

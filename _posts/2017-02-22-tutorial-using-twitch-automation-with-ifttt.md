@@ -8,6 +8,14 @@ tags:
   - "ifttt"
   - "twitch"
 coverImage: "twitch_automation_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I've written about automation earlier with social media, but I got some great news today when IFTTT ("If This, Then That") added Twitch integration to its list of supported apps. Like Zapier, the service I used for Discord automation, IFTTT follows a simple formula:

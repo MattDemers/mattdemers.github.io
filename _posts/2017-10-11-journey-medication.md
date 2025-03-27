@@ -7,6 +7,14 @@ tags:
   - "mental-health"
   - "physical-health"
 coverImage: "meds_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I've been on medication for anxiety and depression for two years. It's a day too late to talk about it on World Mental Health Day, but I figured, hey, why not.

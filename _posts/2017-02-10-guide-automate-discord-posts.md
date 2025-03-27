@@ -10,6 +10,14 @@ tags:
   - "ifttt"
   - "tools"
 coverImage: "discord_automation_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Discord has become a great hub for a lot of creators to center their communities. However, it adds one more place that people need to publish content when it comes out.

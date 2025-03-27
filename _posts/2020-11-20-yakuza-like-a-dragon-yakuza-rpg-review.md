@@ -11,6 +11,14 @@ tags:
   - "video-games"
   - "yakuza"
 coverImage: "yakuza_LAD_Banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 #### Spoiler warning and housekeeping

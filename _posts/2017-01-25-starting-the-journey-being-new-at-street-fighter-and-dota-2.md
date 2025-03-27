@@ -9,6 +9,14 @@ tags:
   - "street-fighter-v"
   - "twitch"
 coverImage: "ryu_main_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 The last couple days have been an exercise in patience.

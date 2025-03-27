@@ -9,6 +9,14 @@ tags:
   - "league-of-legends"
   - "video-games"
 coverImage: "8858680876_695a64452c_o-scaled.jpg"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Hell is being trapped in a window seat on a fifteen hour flight to Korea with a full bladder and the Canadian need to be polite. My legs crumple into the seat in front of me, two sleeping Korean men prevents me from the freedom of the aisle.

@@ -9,6 +9,14 @@ tags:
   - "pc-games"
   - "world-of-warcraft"
 coverImage: "mulgore.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I have this problem, and it began with _World of Warcraft_. Burning out on it killed my ability to be immersed in a game full time, or at least long sessions.

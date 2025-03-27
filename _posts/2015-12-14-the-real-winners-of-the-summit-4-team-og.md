@@ -9,6 +9,14 @@ tags:
   - "esports"
   - "og"
 coverImage: "OG_DOTA_BANNER.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Like many Dota fans, I had the chance to watch The Summit 4 this past week. The Summit, produced by studio Beyond the Summit, tends to be a bit of a gift to the community in the sense that it's a casual environment for pros to compete with eachother while interacting with the audience through commentary. Whether they take that chance, though, depends on them.

@@ -8,6 +8,14 @@ tags:
   - "league-of-legends"
   - "video-games"
 coverImage: "iqRsR691.jpg"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 This is going to be the start of a new series called "Who Benefits." At its core, the series looks at marketing and PR decisions in eSports in a critical way in order to attempt to decipher choices and why they're made.

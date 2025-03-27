@@ -9,6 +9,14 @@ tags:
   - "twitch"
   - "video-games"
 coverImage: "ironmon.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I've fallen down a hole in watching a particular streamer, and most of why is what he's running. Iateyourpie is a variety streamer that seems to have figured out _why_ certain formats of Twitch streams are entertaining, and the more I hear him talk about it, the more his choices make sense.

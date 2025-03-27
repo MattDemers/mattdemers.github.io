@@ -9,6 +9,14 @@ tags:
   - "video-games"
   - "xenoblade"
 coverImage: "XBCX_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 _Note: the gfys in this post are bugged due to something on the end of Gfycat. They should display at the proper crop after a loop or two._

@@ -7,6 +7,14 @@ tags:
   - "mental-health"
   - "year-end-blogs"
 coverImage: "osaka_castle1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 It's hard to start this kind of post without the usual cliches; 2019 was a bit of a year of growth and getting to know myself, and I'll say that I probably ended up in the positive when it comes to me as a person, even though I don't feel it at the moment.

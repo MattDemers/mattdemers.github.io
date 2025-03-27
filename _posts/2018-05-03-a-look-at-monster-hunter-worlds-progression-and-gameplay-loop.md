@@ -8,6 +8,14 @@ tags:
   - "monster-hunter"
   - "review"
 coverImage: "MHW_rich_rump.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 _RPGs are my favorite genre, and I wanted to write about them from a more zoomed-out perspective than just dealing with their stories. Also, I wanted an excuse to post the "Rich Rump" picture._

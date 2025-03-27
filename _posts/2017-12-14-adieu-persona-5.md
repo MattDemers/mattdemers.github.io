@@ -8,6 +8,14 @@ tags:
   - "persona-5"
   - "rpgs"
 coverImage: "adieu_banner_persona5.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 _**Warning: there's some heavy spoilers of the mid-to-end game of Persona 5 here. If you don't want to be spoiled, don't read.**_

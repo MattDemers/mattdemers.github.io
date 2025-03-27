@@ -8,6 +8,14 @@ date: 2025-01-06
 layout: single
 author: "Matt Demers"
 author_profile: true
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 It’s 2025, and my biggest goal for the next year is to not think as much.

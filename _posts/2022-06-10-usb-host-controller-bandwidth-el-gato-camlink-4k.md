@@ -9,6 +9,14 @@ tags:
   - "hardware"
   - "streaming"
 coverImage: "pexels-mart-production-8450475.jpg"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Today I had to talk to someone about streaming and Open Broadcaster Software. In the process I kind of came up with a metaphor on the spot about USB bandwidth when it comes to using devices like the El Gato Cam Link.

@@ -7,6 +7,14 @@ tags:
   - "tea"
   - "twitch"
 coverImage: "tea_on_twitch_ep1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 https://www.youtube.com/watch?v=T7TIz8iXCKc

@@ -8,6 +8,14 @@ tags:
   - "mmorpgs"
   - "world-of-warcraft"
 coverImage: "Suramar_Blog_Banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 When I first picked up _World of Warcraft_ in 2005, I had a grandiose idea of how it would be; the concept of an MMORPG was always appealing to me because of everyone playing in the same world, and I expected it to be vibrant, active, and thriving.

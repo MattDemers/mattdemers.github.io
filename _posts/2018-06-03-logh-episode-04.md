@@ -8,6 +8,14 @@ tags:
   - "legend-of-the-galactic-heroes"
   - "review"
 coverImage: "LOGH_S01E04_Title_Card.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 After a nice jaunt back to the FPA in the last episode, _Legend of the Galactic Heroes_ pulls the opposite and brings us into the Empire's neo-classical clutches.

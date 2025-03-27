@@ -7,6 +7,14 @@ tags:
   - "automation"
   - "homeassistant"
 coverImage: "homeassistant_automation_sunrise_sunset_tutorial.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Hey all; this one's going to be a little bit of a departure from a lot of my content, but I couldn't exactly find a resource for this problem online and I figured I should fix that.

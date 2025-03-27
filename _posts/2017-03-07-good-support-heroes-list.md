@@ -6,6 +6,14 @@ categories:
 tags: 
   - "dota-2"
 coverImage: "ogre_banner_1.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 The last little bit of my Dota career has been frustrating; I seem to be hovering around the same MMR without any improvement, and no real consistent growth that moves me forward. I've come to the conclusion that this is my own fault, as I haven't been setting concrete goals.

@@ -9,6 +9,14 @@ tags:
   - "street-fighter-v"
   - "twitch"
 coverImage: "panic_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I think the thing that frustrates me most about learning video games are the panic moments where you know what you should have done, but lack the mental clarity to put them into practice. In a high-pressure situation, I sometimes can't connect the dots to what I'm seeing and what I need to do to successfully react to the situation.

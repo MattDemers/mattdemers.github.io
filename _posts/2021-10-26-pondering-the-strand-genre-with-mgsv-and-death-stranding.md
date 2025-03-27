@@ -11,6 +11,14 @@ tags:
   - "rpgs"
   - "video-games"
 coverImage: "mgsv_ds_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Last week I uninstalled Hideo Kojima's last entry into the _Metal Gear_ franchise, _Metal Gear Solid V: The Phantom Pain_. In it, you play as mercenary Venom Snake, who, in the pursuit of revenge, builds up a private military contractor company, Diamond Dogs.

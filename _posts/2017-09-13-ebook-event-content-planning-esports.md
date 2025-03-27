@@ -8,6 +8,14 @@ tags:
   - "ebook"
   - "esports"
 coverImage: "content-planning-thumbnail.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 A couple years ago, I was frustrated at people making mistakes. I turned this frustration into three ebooks about Twitter. Now, four years later, I've written a fourth ebook, but not about social media — this one looks to help you get better at planning content.

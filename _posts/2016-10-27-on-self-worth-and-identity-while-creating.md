@@ -8,6 +8,14 @@ tags:
   - "depression"
   - "mental-health"
 coverImage: "Rain_Banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 Today I want to talk to you about identity — well, that's a pretty broad topic, so maybe just your identity when when you create.

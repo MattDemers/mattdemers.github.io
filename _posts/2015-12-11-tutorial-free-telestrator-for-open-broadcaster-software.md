@@ -8,6 +8,14 @@ tags:
   - "obs"
   - "twitch"
 coverImage: "pexels-magda-ehlers-1054713.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 One system I've definitely wanted to use in analysis is the telestrator, or video marker. For those not familiar with the term, it's what sportscasters will use to take a free-frame of an instant replay and draw own it. We've seen it used by Riot Games and other eSports companies as part of a smart TV, but that can be expensive: I wanted to try to find something free and usable in a home/casual environment.

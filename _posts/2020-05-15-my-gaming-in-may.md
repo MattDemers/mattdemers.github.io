@@ -9,6 +9,14 @@ tags:
   - "the-way"
   - "valve-software"
 coverImage: "photo-of-person-typing-on-computer-keyboard-7359111.jpg"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I've been finding that I've been oddly focused with my gaming time lately, and have knocked a few things off my backlog. This is pretty uncharacteristic for me, because I feel like I'm pretty resistant to just closing the door on things; I'll usually pick up new RPGs impulsively, and with each one of them being several dozen hours long, it's not like I'm sticking with them until completion.

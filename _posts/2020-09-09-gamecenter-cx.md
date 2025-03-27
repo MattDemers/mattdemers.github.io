@@ -7,6 +7,14 @@ tags:
   - "gamecenter-cx"
   - "japan"
 coverImage: "gccx_banner.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 I've been sad, lately. Not the "crushing despair" kind of sad, but it's consistent enough that I've been looking for the things that I'd usually find comfort in to help.

@@ -8,6 +8,14 @@ tags:
   - "streaming"
   - "twitch"
 coverImage: "twitchmarathons11.png"
+
+layout: single
+author: "Matt Demers"
+author_profile: true
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 While Twitch has made huge strides in terms of user engagements, the past two years have seen the rise of a form of entertainment that deserves special mention: the marathon.
