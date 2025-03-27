@@ -1,0 +1,79 @@
+---
+title: "Me at 33"
+date: 2022-07-04
+categories: 
+  - "personal"
+tags: 
+  - "birthday"
+  - "mental-health"
+  - "reflection"
+coverImage: "bridge_33_blog.png"
+---
+
+The other day, I turned 33. I usually do a blog post around my birthday as a way of acknowledging where I am currently in my life, and while it’s a couple days late this year, I’m still going to do it.
+
+I’m sitting here thinking “what’s _really_ changed from last year?”, and I’m not sure if that’s a good or bad thing. While reading last year’s entry, I couldn’t help but feel that I wanted to write something with a similar tone: hopeful, optimistic, and something that portrayed the grit in which I’m keeping on a journey to “better”. It almost feels a bit pretentious to just… write something like that for the sake of writing it, so I’m going to try to veer off from what feels comfortable.
+
+This year I’ve learned a lot. I learned I liked coffee. I’ve learned that D&D is a great way to meet friends in person. I’ve learned what I want my boundaries to be with people, and I’ve learned about the discomfort of “not feeling like enough.” I’ve given myself more room to forgive myself for feeling imperfect, and I’ve constantly fought against the idea that I need to have feelings intellectualized, rationalized, or “figured out” before I’m allowed to have them.
+
+I feel like a pendulum has swung back around. At an earlier point in my life, I would’ve been fine “just feeling feelings”, and eventually reached the point where I thought I was annoying people by venting without having a solution in mind.
+
+The pendulum swung, and the arc was a big one: I receded inward, and was uncomfortable even expressing mild annoyance of “general bullshit”, because there was this fear that I would become “that friend everyone finds annoying that complains, but doesn’t try to fix themselves.”
+
+<figure>
+
+![](images/RIP_Lorros_33_Blog.png)
+
+<figcaption>
+
+RIP Lorros, my first D&D character. You had a hard life.
+
+</figcaption>
+
+</figure>
+
+I learned that that fear and “toxic self-awareness” is not work. It _feels_ like work, because you’re punishing yourself, but it isn’t actually building a better you. Sometimes — probably most of the time — feeling your feelings without judging yourself is the healthier option. If you’re the type of person to overthink about the level or efficacy of your self-awareness, you’re probably doing alright to begin with.
+
+I’ve learned that it’s okay to be _self-serving_, and that it’s hard to separate that from actions that would make you feel _selfish_. It feels overly adversarial, and like you’re provoking conflict that you might not be able to handle, but it’s better than the alternative of never advocating for your needs.
+
+This kind of extends to the ability to say “you hurt me” to someone. It’s tempting to go into that conversation either thinking that it entitles you to something drastic, or it doesn’t entitle you to anything at all. It doesn’t have to demand that the other party prostrate themselves in forgiveness (which I mean, is going to make you feel guilty for bringing it up in the first place). It also doesn’t mean that you have to have it completely processed before you bring it up, because that kind of takes responsibility away from them entirely: it’s saying “you don’t have to care, because I’m fine with it.”
+
+<figure>
+
+![](images/cherryblossoms_33_Blog.png)
+
+<figcaption>
+
+I even got outside.
+
+</figcaption>
+
+</figure>
+
+Again, it’s about the pendulum swinging, but making it swing in smaller arcs, and having it make more sense in the process. If anything, it’s starting to make more sense, and that’s all I can ask for.
+
+I’ve also realized there’s certain things I want that I’m not willing to give up on. This extends to things like making income with content, streaming, whatever; previously I’d wondered if this kind of thing was just toxic for my health, and after almost all year of writing PlusHeart bi-weekly and streaming weekly, I can say that it feels easy, achieveable, and it’s something I look forward to.
+
+Oddly enough, despite years of attempts to do this kind of thing, I’d always been worried I was doing it for the wrong reasons. Now that I know I can successfully balance it with a non-esports or non-gaming job, it’s a bit freeing: I can acknowledge I’ll probably never be a top-tier creator (my tastes are too weird), but I know that I want to do what I do **well**.
+
+I’ve also found more people that share this similar vibe, and I’m taking a lot of inspiration from them. I don’t remember how I found Default Friend, but getting to know her and reading her work has helped me be more introspective about my insecurity at being “not academic enough” for my writing. The lectures I’ve been doing for Metro Toronto University (formerly Ryerson University) are also helping to build this confidence.
+
+It’s been… interesting (?) to explore previous parts of my life when I was a more courageous and headstrong creator. It’s less of a “I’ve matured and wisened myself” thing that’s changed me, and more that the fear of the burnout and rejection led me to the lowest points in my life. It’s been encouraging to come to the conclusion that creating **itself** isn’t leading me there, but more the mindset and expectations.
+
+That hunger’s never died; the poor mental health periods that accompanied burnout have just been louder and scarier. They represented a bunch of danger that I didn’t want to revisit. That fear doesn’t feel unfounded, but I feel like I’m finally starting to get to the point where it’s not overriding curiosity anymore. That’s a good thing.
+
+<figure>
+
+![](images/portrait_33_blog.png)
+
+<figcaption>
+
+This is me. Forever a work in progress. But that's not a bad thing.
+
+</figcaption>
+
+</figure>
+
+Anyways.
+
+Like I’ve said before, my birthday is exactly six months into the year. Since January, I’ve gained a job and got laid off, and I’ve grown tremendously. I’ll see you for the next post like this in 2023, and we’ll see where I end up. Bye for now!
