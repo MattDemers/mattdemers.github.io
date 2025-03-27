@@ -68,6 +68,27 @@ ul, ol {
   color: var(--wp--preset--color--accent-4);
 }
 
+// Visited Link
+
+a:visited {
+    color:#CBCBCB;
+}
+
+// Title Font
+.greedy-nav a.site-title {
+    color: gold;
+    font-family: Manrope;
+    font-style: normal;
+    text-wrap: pretty;
+    box-sizing: border-box;
+    font-weight: 700;
+    letter-spacing: -.5px;
+    margin: 0;
+    font-size: clamp(39.963px, 2.498rem + ((1vw - 3.2px) * 3.435), 75px);
+    line-height: 1.2;
+
+}
+
 // Import the fonts you were using
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
