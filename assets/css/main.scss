@@ -7,6 +7,71 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Custom styles to match WordPress look
+
+// Dark background with light text (like your WordPress site)
+body {
+  background-color: #1B1B1B;
+  color: #CBCBCB;
+}
+
+// Featured image positioning below title
+.page__featured-image {
+  margin-bottom: 2em;
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+// Link styling similar to your WordPress site
+a {
+  text-decoration-thickness: 1px !important;
+  text-underline-offset: 0.1em;
+  color: #f2ff00;
+  
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+// Typography adjustments
+h1, h2, h3, h4, h5, h6, blockquote, caption, figcaption, p {
+  text-wrap: pretty;
+}
+
+// Make strong text bolder like in your WordPress site
+strong {
+  font-weight: 800;
+}
+
+// Fix image borders and spacing
+.wp-block-image img {
+  vertical-align: middle;
+}
+
+// Add some space after lists
+ul, ol {
+  margin-bottom: 1.5em;
+}
+
+// Adjust layout width to match your WordPress site
+.page__inner-wrap {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+// Post meta styling
+.page__meta {
+  font-size: 0.875rem;
+  color: var(--wp--preset--color--accent-4);
+}
+
+// Import the fonts you were using
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
 // Custom styles
 .page__featured-image {
   margin-bottom: 2em;
