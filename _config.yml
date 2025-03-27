@@ -17,22 +17,6 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-
 # Minimal Mistakes
 
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-locale: "en-CA"
-
-# Post Defaults
-
-#defaults:
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: true
-#      share: true
-#      related: true
