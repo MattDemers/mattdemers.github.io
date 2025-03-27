@@ -1,8 +1,11 @@
 Matt Demers:
   name: "Matt Demers"
-  bio: "The man witht he plan"
+  bio: "The man with a slight plan. Writing in esports, gaming and other places since 2006. Solving brain poison, one day at a time."
   avatar: "/assets/images/rin avatar.png"
   links:
     - label: "Substack"
       icon: "fa-solid fa-newspaper"
       url: https://mattd.substack.com
+    - label: "Twitch"
+      icon: "fa-brands fa-twitch"
+      url: https://twitch.tv/mattdemers
