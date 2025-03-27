@@ -19,4 +19,5 @@ plugins:
 
 # Minimal Mistakes
 
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+locale: "en-CA"
