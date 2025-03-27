@@ -86,7 +86,10 @@ a:visited {
     margin: 0;
     font-size: clamp(39.963px, 2.498rem + ((1vw - 3.2px) * 3.435), 75px);
     line-height: 1.2;
+}
 
+.greedy-nav {
+    background-color: none;
 }
 
 // Import the fonts you were using
