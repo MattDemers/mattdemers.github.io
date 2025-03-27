@@ -6,7 +6,8 @@ categories:
 tags: 
   - "birthday"
   - "mental-health"
-coverImage: "roof-banner1.png"
+header:
+  image: "/assets/images/roof-banner1.png"
 
 layout: single
 author: "Matt Demers"

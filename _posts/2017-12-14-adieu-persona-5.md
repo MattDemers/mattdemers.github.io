@@ -7,7 +7,8 @@ tags:
   - "jrpgs"
   - "persona-5"
   - "rpgs"
-coverImage: "adieu_banner_persona5.png"
+header:
+  image: "/assets/images/adieu_banner_persona5.png"
 
 layout: single
 author: "Matt Demers"

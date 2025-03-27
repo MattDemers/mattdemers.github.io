@@ -8,7 +8,8 @@ tags:
   - "kero-blaster"
   - "review"
   - "video-games"
-coverImage: "z8lyu6K.jpg"
+header:
+  image: "/assets/images/z8lyu6K.jpg"
 
 layout: single
 author: "Matt Demers"

@@ -6,7 +6,8 @@ categories:
 tags: 
   - "event-planning"
   - "journalism"
-coverImage: "pexels-matheus-bertelli-2608517.png"
+header:
+  image: "/assets/images/pexels-matheus-bertelli-2608517.png"
 
 layout: single
 author: "Matt Demers"

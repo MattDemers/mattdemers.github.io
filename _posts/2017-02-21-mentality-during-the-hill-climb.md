@@ -8,7 +8,8 @@ tags:
   - "dota-2"
   - "fighting-games"
   - "street-fighter-v"
-coverImage: "making_goals_banner.png"
+header:
+  image: "/assets/images/making_goals_banner.png"
 
 layout: single
 author: "Matt Demers"

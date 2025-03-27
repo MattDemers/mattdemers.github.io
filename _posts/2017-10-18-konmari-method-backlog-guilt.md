@@ -7,7 +7,8 @@ tags:
   - "gaming"
   - "streaming"
   - "twitch"
-coverImage: "konmari_title_banner_Gratisography.png"
+header:
+  image: "/assets/images/konmari_title_banner_Gratisography.png"
 
 layout: single
 author: "Matt Demers"

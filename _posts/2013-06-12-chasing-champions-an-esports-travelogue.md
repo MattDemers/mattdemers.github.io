@@ -8,7 +8,8 @@ tags:
   - "korea"
   - "league-of-legends"
   - "video-games"
-coverImage: "8858680876_695a64452c_o-scaled.jpg"
+header:
+  image: "/assets/images/8858680876_695a64452c_o-scaled.jpg"
 
 layout: single
 author: "Matt Demers"

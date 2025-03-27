@@ -6,7 +6,8 @@ categories:
 tags: 
   - "esports"
   - "wrestling"
-coverImage: "esports_entrances_FI.png"
+header:
+  image: "/assets/images/esports_entrances_FI.png"
 
 layout: single
 author: "Matt Demers"

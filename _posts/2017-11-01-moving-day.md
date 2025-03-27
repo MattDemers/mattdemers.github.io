@@ -7,7 +7,8 @@ tags:
   - "esports"
   - "journalism"
   - "mental-health"
-coverImage: "moving_day_banner.png"
+header:
+  image: "/assets/images/moving_day_banner.png"
 
 layout: single
 author: "Matt Demers"

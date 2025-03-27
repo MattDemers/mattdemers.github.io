@@ -5,7 +5,8 @@ categories:
   - "opinion"
 tags: 
   - "esports"
-coverImage: "pexels-soumil-kumar-735911.png"
+header:
+  image: "/assets/images/pexels-soumil-kumar-735911.png"
 
 layout: single
 author: "Matt Demers"

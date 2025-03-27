@@ -7,7 +7,8 @@ tags:
   - "apex-legends"
   - "pc-games"
   - "review"
-coverImage: "apex_banner1.png"
+header:
+  image: "/assets/images/apex_banner1.png"
 
 layout: single
 author: "Matt Demers"

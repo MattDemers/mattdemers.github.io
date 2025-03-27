@@ -6,7 +6,8 @@ categories:
 tags: 
   - "mental-health"
   - "physical-health"
-coverImage: "callouses.png"
+header:
+  image: "/assets/images/callouses.png"
 
 layout: single
 author: "Matt Demers"

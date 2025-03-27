@@ -7,7 +7,8 @@ tags:
   - "creating"
   - "dota-2"
   - "streaming"
-coverImage: "ogre_panic_banner.png"
+header:
+  image: "/assets/images/ogre_panic_banner.png"
 
 layout: single
 author: "Matt Demers"

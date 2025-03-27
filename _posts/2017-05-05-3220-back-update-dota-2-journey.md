@@ -6,7 +6,8 @@ categories:
 tags: 
   - "dota-2"
   - "streaming"
-coverImage: "Dota-2-chart.png"
+header:
+  image: "/assets/images/Dota-2-chart.png"
 
 layout: single
 author: "Matt Demers"

@@ -6,7 +6,8 @@ categories:
 tags: 
   - "tea"
   - "twitch"
-coverImage: "tea_on_twitch_ep1.png"
+header:
+  image: "/assets/images/tea_on_twitch_ep1.png"
 
 layout: single
 author: "Matt Demers"

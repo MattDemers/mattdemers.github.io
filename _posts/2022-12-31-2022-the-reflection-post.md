@@ -6,7 +6,8 @@ categories:
 tags: 
   - "mental-health"
   - "year-end-blogs"
-coverImage: "2022-Reflection-Banner.png"
+header:
+  image: "/assets/images/2022-Reflection-Banner.png"
 
 layout: single
 author: "Matt Demers"

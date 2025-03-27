@@ -7,7 +7,8 @@ tags:
   - "esports"
   - "psyonix"
   - "rocket-league"
-coverImage: "rL_banner.png"
+header:
+  image: "/assets/images/rL_banner.png"
 
 layout: single
 author: "Matt Demers"

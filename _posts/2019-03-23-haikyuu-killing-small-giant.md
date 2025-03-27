@@ -7,7 +7,8 @@ tags:
   - "haikyuu"
   - "manga"
   - "storytelling"
-coverImage: "haikyuu_the_small_giant_banner1.png"
+header:
+  image: "/assets/images/haikyuu_the_small_giant_banner1.png"
 
 layout: single
 author: "Matt Demers"

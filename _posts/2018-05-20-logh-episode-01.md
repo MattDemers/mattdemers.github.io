@@ -8,7 +8,8 @@ tags:
   - "legend-of-the-galactic-heroes"
   - "review"
   - "science-fiction"
-coverImage: "LOGH_S01E01_Title.png"
+header:
+  image: "/assets/images/LOGH_S01E01_Title.png"
 
 layout: single
 author: "Matt Demers"

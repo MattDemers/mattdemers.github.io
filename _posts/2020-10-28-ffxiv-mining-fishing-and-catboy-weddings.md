@@ -11,7 +11,8 @@ tags:
   - "mmorpgs"
   - "square-enix"
   - "video-games"
-coverImage: "Final-Fantasy-XIV-A-Realm-Reborn-Screenshot-2020.10.26-19.31.02.45.png"
+header:
+  image: "/assets/images/Final-Fantasy-XIV-A-Realm-Reborn-Screenshot-2020.10.26-19.31.02.45.png"
 
 layout: single
 author: "Matt Demers"

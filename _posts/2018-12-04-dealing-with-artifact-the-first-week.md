@@ -6,7 +6,8 @@ categories:
 tags: 
   - "artifact"
   - "valve-software"
-coverImage: "20181121200331_1-1170x660-1.jpg"
+header:
+  image: "/assets/images/20181121200331_1-1170x660-1.jpg"
 
 layout: single
 author: "Matt Demers"

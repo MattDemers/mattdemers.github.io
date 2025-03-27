@@ -6,7 +6,8 @@ categories:
 tags: 
   - "gamecenter-cx"
   - "japan"
-coverImage: "gccx_banner.png"
+header:
+  image: "/assets/images/gccx_banner.png"
 
 layout: single
 author: "Matt Demers"

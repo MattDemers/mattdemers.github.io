@@ -7,7 +7,8 @@ tags:
   - "anime"
   - "gundam"
   - "gundam-0079"
-coverImage: "gundam_0079_banner.png"
+header:
+  image: "/assets/images/gundam_0079_banner.png"
 
 layout: single
 author: "Matt Demers"

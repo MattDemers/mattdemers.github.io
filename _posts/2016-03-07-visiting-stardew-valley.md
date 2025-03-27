@@ -8,7 +8,8 @@ tags:
   - "review"
   - "stardew-valley"
   - "video-games"
-coverImage: "SDV_banner.png"
+header:
+  image: "/assets/images/SDV_banner.png"
 
 layout: single
 author: "Matt Demers"

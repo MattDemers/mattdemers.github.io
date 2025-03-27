@@ -9,7 +9,8 @@ tags:
   - "rpgs"
   - "sekiro-shadows-die-twice"
   - "yakuza"
-coverImage: "sekiro_banner_concept_art1.png"
+header:
+  image: "/assets/images/sekiro_banner_concept_art1.png"
 
 layout: single
 author: "Matt Demers"

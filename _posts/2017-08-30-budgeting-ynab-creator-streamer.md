@@ -7,7 +7,8 @@ tags:
   - "budgeting"
   - "money"
   - "ynab"
-coverImage: "ynab_banner.png"
+header:
+  image: "/assets/images/ynab_banner.png"
 
 layout: single
 author: "Matt Demers"

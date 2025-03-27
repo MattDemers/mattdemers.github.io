@@ -10,7 +10,8 @@ tags:
   - "ryu-ga-gotoku"
   - "video-games"
   - "yakuza"
-coverImage: "yakuza_LAD_Banner.png"
+header:
+  image: "/assets/images/yakuza_LAD_Banner.png"
 
 layout: single
 author: "Matt Demers"

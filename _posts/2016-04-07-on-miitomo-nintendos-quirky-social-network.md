@@ -8,7 +8,8 @@ tags:
   - "mobile"
   - "nintendo"
   - "review"
-coverImage: "miitomo_banner.png"
+header:
+  image: "/assets/images/miitomo_banner.png"
 
 layout: single
 author: "Matt Demers"

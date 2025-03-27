@@ -7,7 +7,8 @@ tags:
   - "anime"
   - "legend-of-the-galactic-heroes"
   - "review"
-coverImage: "LOGH_S01E04_Title_Card.png"
+header:
+  image: "/assets/images/LOGH_S01E04_Title_Card.png"
 
 layout: single
 author: "Matt Demers"

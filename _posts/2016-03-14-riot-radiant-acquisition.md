@@ -8,7 +8,8 @@ tags:
   - "radiant-entertainment"
   - "riot-games"
   - "video-games"
-coverImage: "rising_thunder.png"
+header:
+  image: "/assets/images/rising_thunder.png"
 
 layout: single
 author: "Matt Demers"

@@ -7,7 +7,8 @@ tags:
   - "doom"
   - "pc-games"
   - "review"
-coverImage: "doom_banner-1.png"
+header:
+  image: "/assets/images/doom_banner-1.png"
 
 layout: single
 author: "Matt Demers"

@@ -7,7 +7,8 @@ tags:
   - "absolute-drift"
   - "pc-games"
   - "review"
-coverImage: "Absolute_Drift_Banner.png"
+header:
+  image: "/assets/images/Absolute_Drift_Banner.png"
 
 layout: single
 author: "Matt Demers"

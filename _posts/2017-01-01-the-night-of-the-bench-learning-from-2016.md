@@ -7,7 +7,8 @@ tags:
   - "depression"
   - "mental-health"
   - "year-end-blogs"
-coverImage: "thebench_2016.png"
+header:
+  image: "/assets/images/thebench_2016.png"
 
 layout: single
 author: "Matt Demers"

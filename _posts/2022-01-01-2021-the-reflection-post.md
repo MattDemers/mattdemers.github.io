@@ -6,7 +6,8 @@ categories:
 tags: 
   - "mental-health"
   - "year-end-blogs"
-coverImage: "spruce_patreon.png"
+header:
+  image: "/assets/images/spruce_patreon.png"
 
 layout: single
 author: "Matt Demers"

@@ -5,7 +5,8 @@ categories:
   - "personal"
 tags: 
   - "wrestling"
-coverImage: "tanahashi_banner_wrestling.png"
+header:
+  image: "/assets/images/tanahashi_banner_wrestling.png"
 
 layout: single
 author: "Matt Demers"

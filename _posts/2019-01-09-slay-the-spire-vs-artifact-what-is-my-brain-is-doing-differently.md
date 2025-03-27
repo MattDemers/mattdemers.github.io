@@ -8,7 +8,8 @@ tags:
   - "competing"
   - "mental-health"
   - "slay-the-spire"
-coverImage: "sts_banner1.png"
+header:
+  image: "/assets/images/sts_banner1.png"
 
 layout: single
 author: "Matt Demers"

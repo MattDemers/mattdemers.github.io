@@ -7,7 +7,8 @@ tags:
   - "dota-2"
   - "pc-games"
   - "twitch"
-coverImage: "artourbanner-1.png"
+header:
+  image: "/assets/images/artourbanner-1.png"
 
 layout: single
 author: "Matt Demers"

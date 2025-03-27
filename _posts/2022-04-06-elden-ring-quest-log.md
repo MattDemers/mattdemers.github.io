@@ -7,7 +7,8 @@ tags:
   - "elden-ring"
   - "video-games"
   - "xenoblade-chronicles"
-coverImage: "Elden_Ring_Cover_Banner.png"
+header:
+  image: "/assets/images/Elden_Ring_Cover_Banner.png"
 
 layout: single
 author: "Matt Demers"

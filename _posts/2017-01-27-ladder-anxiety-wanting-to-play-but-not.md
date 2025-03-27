@@ -7,7 +7,8 @@ tags:
   - "competing"
   - "street-fighter-v"
   - "twitch"
-coverImage: "ladder_anxiety_banner.png"
+header:
+  image: "/assets/images/ladder_anxiety_banner.png"
 
 layout: single
 author: "Matt Demers"

@@ -5,7 +5,8 @@ categories:
   - "gaming-writing"
 tags: 
   - "dota-2"
-coverImage: "ogre_banner_1.png"
+header:
+  image: "/assets/images/ogre_banner_1.png"
 
 layout: single
 author: "Matt Demers"

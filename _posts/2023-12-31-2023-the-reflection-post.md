@@ -6,7 +6,8 @@ categories:
 tags: 
   - "mental-health"
   - "year-end-blogs"
-coverImage: "wordpress-zaku.png"
+header:
+  image: "/assets/images/wordpress-zaku.png"
 
 layout: single
 author: "Matt Demers"

@@ -7,7 +7,8 @@ tags:
   - "aoashi"
   - "manga"
   - "sports"
-coverImage: "aoashi_blog_banner.png"
+header:
+  image: "/assets/images/aoashi_blog_banner.png"
 
 layout: single
 author: "Matt Demers"

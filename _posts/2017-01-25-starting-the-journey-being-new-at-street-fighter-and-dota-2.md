@@ -8,7 +8,8 @@ tags:
   - "dota-2"
   - "street-fighter-v"
   - "twitch"
-coverImage: "ryu_main_banner.png"
+header:
+  image: "/assets/images/ryu_main_banner.png"
 
 layout: single
 author: "Matt Demers"

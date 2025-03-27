@@ -7,7 +7,8 @@ tags:
   - "content"
   - "creating"
   - "giantbomb"
-coverImage: "content_planner.png"
+header:
+  image: "/assets/images/content_planner.png"
 
 layout: single
 author: "Matt Demers"

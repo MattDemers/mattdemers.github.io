@@ -7,7 +7,8 @@ tags:
   - "pc-games"
   - "review"
   - "the-witcher"
-coverImage: "witcher3-FA.png"
+header:
+  image: "/assets/images/witcher3-FA.png"
 
 layout: single
 author: "Matt Demers"

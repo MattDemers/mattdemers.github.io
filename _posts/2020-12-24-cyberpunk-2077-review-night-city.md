@@ -7,7 +7,8 @@ tags:
   - "cd-projekt-red"
   - "cyberpunk-2077"
   - "rpgs"
-coverImage: "cyberpunk_banner.png"
+header:
+  image: "/assets/images/cyberpunk_banner.png"
 
 layout: single
 author: "Matt Demers"

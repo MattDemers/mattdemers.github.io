@@ -7,7 +7,8 @@ tags:
   - "persona-5"
   - "streaming"
   - "yakuza"
-coverImage: "persona_banner.png"
+header:
+  image: "/assets/images/persona_banner.png"
 
 layout: single
 author: "Matt Demers"

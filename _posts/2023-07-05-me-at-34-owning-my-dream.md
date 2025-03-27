@@ -7,7 +7,8 @@ tags:
   - "birthday"
   - "creating"
   - "mental-health"
-coverImage: "blue_giant_top_banner.png"
+header:
+  image: "/assets/images/blue_giant_top_banner.png"
 
 layout: single
 author: "Matt Demers"

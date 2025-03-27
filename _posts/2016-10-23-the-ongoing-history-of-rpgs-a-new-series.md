@@ -7,7 +7,8 @@ tags:
   - "dragon-quest"
   - "jrpgs"
   - "rpgs"
-coverImage: "Social-Banner-WP-Banner2.png"
+header:
+  image: "/assets/images/Social-Banner-WP-Banner2.png"
 
 layout: single
 author: "Matt Demers"

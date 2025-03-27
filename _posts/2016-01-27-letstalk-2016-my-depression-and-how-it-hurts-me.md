@@ -9,7 +9,8 @@ tags:
   - "canada"
   - "depression"
   - "mental-health"
-coverImage: "pexels-photo-3064079.png"
+header:
+  image: "/assets/images/pexels-photo-3064079.png"
 
 layout: single
 author: "Matt Demers"

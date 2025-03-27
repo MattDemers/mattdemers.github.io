@@ -8,7 +8,8 @@ tags:
   - "lecture"
   - "resources"
   - "video"
-coverImage: "vlcsnap-2020-02-07-14h00m54s9041.png"
+header:
+  image: "/assets/images/vlcsnap-2020-02-07-14h00m54s9041.png"
 
 layout: single
 author: "Matt Demers"

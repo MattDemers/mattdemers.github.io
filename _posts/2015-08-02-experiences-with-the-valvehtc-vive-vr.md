@@ -8,7 +8,8 @@ tags:
   - "steam"
   - "valve-software"
   - "vr"
-coverImage: "HTC_vive_banner.png"
+header:
+  image: "/assets/images/HTC_vive_banner.png"
 
 layout: single
 author: "Matt Demers"

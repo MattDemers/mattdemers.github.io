@@ -6,7 +6,8 @@ categories:
 tags: 
   - "dragon-quest"
   - "rpgs"
-coverImage: "dq1.png"
+header:
+  image: "/assets/images/dq1.png"
 
 layout: single
 author: "Matt Demers"

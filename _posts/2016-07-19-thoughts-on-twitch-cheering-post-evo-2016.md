@@ -8,7 +8,8 @@ tags:
   - "fighting-games"
   - "smash-bros"
   - "twitch"
-coverImage: "Cheering_At_EVO_Banner.png"
+header:
+  image: "/assets/images/Cheering_At_EVO_Banner.png"
 
 layout: single
 author: "Matt Demers"

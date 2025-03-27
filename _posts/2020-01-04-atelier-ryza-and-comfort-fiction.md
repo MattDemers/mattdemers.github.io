@@ -11,7 +11,8 @@ tags:
   - "isekai"
   - "manga"
   - "rpgs"
-coverImage: "ryza_banner1.png"
+header:
+  image: "/assets/images/ryza_banner1.png"
 
 layout: single
 author: "Matt Demers"

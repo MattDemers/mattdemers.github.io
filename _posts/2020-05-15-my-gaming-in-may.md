@@ -8,7 +8,8 @@ tags:
   - "streets-of-rage-4"
   - "the-way"
   - "valve-software"
-coverImage: "photo-of-person-typing-on-computer-keyboard-7359111.jpg"
+header:
+  image: "/assets/images/photo-of-person-typing-on-computer-keyboard-7359111.jpg"
 
 layout: single
 author: "Matt Demers"

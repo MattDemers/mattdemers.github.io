@@ -6,7 +6,8 @@ categories:
 tags: 
   - "automation"
   - "homeassistant"
-coverImage: "homeassistant_automation_sunrise_sunset_tutorial.png"
+header:
+  image: "/assets/images/homeassistant_automation_sunrise_sunset_tutorial.png"
 
 layout: single
 author: "Matt Demers"

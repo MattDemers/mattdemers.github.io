@@ -7,7 +7,8 @@ tags:
   - "podcasting"
   - "podcasts"
   - "voicemeeter"
-coverImage: "podcast_tutorial_voicemeeter_recording_tracks.png"
+header:
+  image: "/assets/images/podcast_tutorial_voicemeeter_recording_tracks.png"
 
 layout: single
 author: "Matt Demers"

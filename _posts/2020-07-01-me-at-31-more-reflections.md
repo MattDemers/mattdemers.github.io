@@ -7,7 +7,8 @@ tags:
   - "birthday"
   - "mental-health"
   - "physical-health"
-coverImage: "DSC048941.png"
+header:
+  image: "/assets/images/DSC048941.png"
 
 layout: single
 author: "Matt Demers"

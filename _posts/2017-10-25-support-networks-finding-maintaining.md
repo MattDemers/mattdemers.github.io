@@ -5,7 +5,8 @@ categories:
   - "personal"
 tags: 
   - "mental-health"
-coverImage: "support_networks_banner_Pixabay.png"
+header:
+  image: "/assets/images/support_networks_banner_Pixabay.png"
 
 layout: single
 author: "Matt Demers"

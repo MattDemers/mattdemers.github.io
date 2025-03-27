@@ -10,7 +10,8 @@ tags:
   - "multiplayer"
   - "rpgs"
   - "video-games"
-coverImage: "mgsv_ds_banner.png"
+header:
+  image: "/assets/images/mgsv_ds_banner.png"
 
 layout: single
 author: "Matt Demers"

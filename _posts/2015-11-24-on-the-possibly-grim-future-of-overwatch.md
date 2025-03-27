@@ -8,7 +8,8 @@ tags:
   - "esports"
   - "overwatch"
   - "video-games"
-coverImage: "cI2kA4l1.png"
+header:
+  image: "/assets/images/cI2kA4l1.png"
 
 layout: single
 author: "Matt Demers"

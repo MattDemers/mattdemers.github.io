@@ -7,7 +7,8 @@ tags:
   - "death-stranding"
   - "hideo-kojima"
   - "pc-games"
-coverImage: "DeathStranding_Snow_banner.png"
+header:
+  image: "/assets/images/DeathStranding_Snow_banner.png"
 
 layout: single
 author: "Matt Demers"

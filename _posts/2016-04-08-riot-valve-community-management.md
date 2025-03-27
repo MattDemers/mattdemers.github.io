@@ -8,7 +8,8 @@ tags:
   - "marketing"
   - "riot-games"
   - "valve-software"
-coverImage: "Valve_Riot.png"
+header:
+  image: "/assets/images/Valve_Riot.png"
 
 layout: single
 author: "Matt Demers"

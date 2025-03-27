@@ -6,7 +6,8 @@ categories:
 tags: 
   - "creating"
   - "twitch"
-coverImage: "S9v2Gr2.png"
+header:
+  image: "/assets/images/S9v2Gr2.png"
 
 layout: single
 author: "Matt Demers"

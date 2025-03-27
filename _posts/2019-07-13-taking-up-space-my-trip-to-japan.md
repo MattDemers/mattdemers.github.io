@@ -9,7 +9,8 @@ tags:
   - "physical-health"
   - "travel"
   - "wrestling"
-coverImage: "DSC02398-21.png"
+header:
+  image: "/assets/images/DSC02398-21.png"
 
 layout: single
 author: "Matt Demers"

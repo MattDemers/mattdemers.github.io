@@ -7,7 +7,8 @@ tags:
   - "creating"
   - "ebook"
   - "esports"
-coverImage: "content-planning-thumbnail.png"
+header:
+  image: "/assets/images/content-planning-thumbnail.png"
 
 layout: single
 author: "Matt Demers"

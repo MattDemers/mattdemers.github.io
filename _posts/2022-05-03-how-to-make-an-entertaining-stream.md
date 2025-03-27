@@ -8,7 +8,8 @@ tags:
   - "pokemon"
   - "twitch"
   - "video-games"
-coverImage: "ironmon.png"
+header:
+  image: "/assets/images/ironmon.png"
 
 layout: single
 author: "Matt Demers"

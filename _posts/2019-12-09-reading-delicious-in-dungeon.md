@@ -6,7 +6,8 @@ categories:
 tags: 
   - "delicious-in-dungeon"
   - "manga"
-coverImage: "dungeon_meshi_banner1.png"
+header:
+  image: "/assets/images/dungeon_meshi_banner1.png"
 
 layout: single
 author: "Matt Demers"

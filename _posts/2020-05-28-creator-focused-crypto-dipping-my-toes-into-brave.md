@@ -9,7 +9,8 @@ tags:
   - "cryptocurrency"
   - "money"
   - "privacy"
-coverImage: "brave_banner1.png"
+header:
+  image: "/assets/images/brave_banner1.png"
 
 layout: single
 author: "Matt Demers"

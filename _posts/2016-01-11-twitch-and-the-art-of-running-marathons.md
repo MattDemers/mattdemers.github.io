@@ -7,7 +7,8 @@ tags:
   - "creating"
   - "streaming"
   - "twitch"
-coverImage: "twitchmarathons11.png"
+header:
+  image: "/assets/images/twitchmarathons11.png"
 
 layout: single
 author: "Matt Demers"

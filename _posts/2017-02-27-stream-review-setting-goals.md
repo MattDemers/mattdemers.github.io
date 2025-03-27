@@ -8,7 +8,8 @@ tags:
   - "dota-2"
   - "streaming"
   - "street-fighter-v"
-coverImage: "making_goals_banner-1.png"
+header:
+  image: "/assets/images/making_goals_banner-1.png"
 
 layout: single
 author: "Matt Demers"

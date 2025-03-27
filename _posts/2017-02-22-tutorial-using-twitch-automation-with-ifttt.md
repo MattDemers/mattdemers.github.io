@@ -7,7 +7,8 @@ tags:
   - "automation"
   - "ifttt"
   - "twitch"
-coverImage: "twitch_automation_banner.png"
+header:
+  image: "/assets/images/twitch_automation_banner.png"
 
 layout: single
 author: "Matt Demers"

@@ -8,7 +8,8 @@ tags:
   - "dota-2"
   - "esports"
   - "og"
-coverImage: "OG_DOTA_BANNER.png"
+header:
+  image: "/assets/images/OG_DOTA_BANNER.png"
 
 layout: single
 author: "Matt Demers"

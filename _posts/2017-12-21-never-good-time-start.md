@@ -6,7 +6,8 @@ categories:
 tags: 
   - "mental-health"
   - "physical-health"
-coverImage: "winter_banner.jpg"
+header:
+  image: "/assets/images/winter_banner.jpg"
 
 layout: single
 author: "Matt Demers"

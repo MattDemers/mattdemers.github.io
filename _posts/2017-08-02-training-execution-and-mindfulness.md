@@ -7,7 +7,8 @@ tags:
   - "competing"
   - "mental-health"
   - "street-fighter-v"
-coverImage: "presense_banner.png"
+header:
+  image: "/assets/images/presense_banner.png"
 
 layout: single
 author: "Matt Demers"

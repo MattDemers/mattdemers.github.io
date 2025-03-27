@@ -8,7 +8,8 @@ tags:
   - "manga"
   - "soccer"
   - "sports"
-coverImage: "giantkilling_banner31.png"
+header:
+  image: "/assets/images/giantkilling_banner31.png"
 
 layout: single
 author: "Matt Demers"

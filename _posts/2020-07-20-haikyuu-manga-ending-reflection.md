@@ -8,7 +8,8 @@ tags:
   - "japan"
   - "manga"
   - "volleyball"
-coverImage: "haikyuu_banner_connect1.png"
+header:
+  image: "/assets/images/haikyuu_banner_connect1.png"
 
 layout: single
 author: "Matt Demers"

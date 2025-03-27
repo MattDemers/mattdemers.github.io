@@ -9,7 +9,8 @@ tags:
   - "journalism"
   - "league-of-legends"
   - "tsm"
-coverImage: "pexels-photo-320617.png"
+header:
+  image: "/assets/images/pexels-photo-320617.png"
 
 layout: single
 author: "Matt Demers"

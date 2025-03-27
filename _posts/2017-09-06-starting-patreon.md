@@ -8,7 +8,8 @@ tags:
   - "crowdfunding"
   - "money"
   - "patreon"
-coverImage: "patreon_banner.png"
+header:
+  image: "/assets/images/patreon_banner.png"
 
 layout: single
 author: "Matt Demers"

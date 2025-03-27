@@ -8,7 +8,8 @@ tags:
   - "journalism"
   - "product"
   - "rss"
-coverImage: "Esports-RSS-Bundle-Banner.png"
+header:
+  image: "/assets/images/Esports-RSS-Bundle-Banner.png"
 
 layout: single
 author: "Matt Demers"

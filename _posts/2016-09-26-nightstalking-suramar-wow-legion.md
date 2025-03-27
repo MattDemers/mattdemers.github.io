@@ -7,7 +7,8 @@ tags:
   - "activision-blizzard"
   - "mmorpgs"
   - "world-of-warcraft"
-coverImage: "Suramar_Blog_Banner.png"
+header:
+  image: "/assets/images/Suramar_Blog_Banner.png"
 
 layout: single
 author: "Matt Demers"

@@ -8,7 +8,8 @@ tags:
   - "dota-2"
   - "street-fighter-v"
   - "twitch"
-coverImage: "akuma_banner.png"
+header:
+  image: "/assets/images/akuma_banner.png"
 
 layout: single
 author: "Matt Demers"

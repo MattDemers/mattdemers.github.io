@@ -7,7 +7,8 @@ tags:
   - "artifact"
   - "dota-2"
   - "valve-software"
-coverImage: "valve_artifact_banner.png"
+header:
+  image: "/assets/images/valve_artifact_banner.png"
 
 layout: single
 author: "Matt Demers"

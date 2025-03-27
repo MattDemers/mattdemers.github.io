@@ -9,7 +9,8 @@ tags:
   - "fighting-games"
   - "review"
   - "video-games"
-coverImage: "Daigo_Umehara_Book_Review.png"
+header:
+  image: "/assets/images/Daigo_Umehara_Book_Review.png"
 
 layout: single
 author: "Matt Demers"

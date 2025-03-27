@@ -7,7 +7,8 @@ tags:
   - "broadcasting"
   - "obs"
   - "twitch"
-coverImage: "pexels-magda-ehlers-1054713.png"
+header:
+  image: "/assets/images/pexels-magda-ehlers-1054713.png"
 
 layout: single
 author: "Matt Demers"

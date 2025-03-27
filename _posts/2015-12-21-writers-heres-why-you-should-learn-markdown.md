@@ -8,7 +8,8 @@ tags:
   - "coding"
   - "markdown"
   - "writing"
-coverImage: "pexels-burst-374720.png"
+header:
+  image: "/assets/images/pexels-burst-374720.png"
 
 layout: single
 author: "Matt Demers"

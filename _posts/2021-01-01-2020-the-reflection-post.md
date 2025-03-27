@@ -6,7 +6,8 @@ categories:
 tags: 
   - "mental-health"
   - "year-end-blogs"
-coverImage: "2020-banner.png"
+header:
+  image: "/assets/images/2020-banner.png"
 
 layout: single
 author: "Matt Demers"

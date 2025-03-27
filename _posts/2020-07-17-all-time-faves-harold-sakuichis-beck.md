@@ -8,7 +8,8 @@ tags:
   - "japan"
   - "manga"
   - "music"
-coverImage: "beck_guitar_pick1.png"
+header:
+  image: "/assets/images/beck_guitar_pick1.png"
 
 layout: single
 author: "Matt Demers"

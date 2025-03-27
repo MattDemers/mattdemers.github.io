@@ -8,7 +8,8 @@ tags:
   - "esports"
   - "nba"
   - "sports"
-coverImage: "GSW_Banner.png"
+header:
+  image: "/assets/images/GSW_Banner.png"
 
 layout: single
 author: "Matt Demers"

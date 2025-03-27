@@ -6,7 +6,8 @@ categories:
 tags: 
   - "mental-health"
   - "year-end-blogs"
-coverImage: "osaka_castle1.png"
+header:
+  image: "/assets/images/osaka_castle1.png"
 
 layout: single
 author: "Matt Demers"

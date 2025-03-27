@@ -7,7 +7,8 @@ tags:
   - "content"
   - "creating"
   - "writing"
-coverImage: "narrative_pexels_aleskrivec.png"
+header:
+  image: "/assets/images/narrative_pexels_aleskrivec.png"
 
 layout: single
 author: "Matt Demers"

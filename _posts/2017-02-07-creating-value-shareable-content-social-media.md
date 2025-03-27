@@ -6,7 +6,8 @@ categories:
 tags: 
   - "marketing"
   - "social-media"
-coverImage: "zhuge_EX_banner.png"
+header:
+  image: "/assets/images/zhuge_EX_banner.png"
 
 layout: single
 author: "Matt Demers"

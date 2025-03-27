@@ -6,7 +6,8 @@ categories:
 tags: 
   - "esports"
   - "league-of-legends"
-coverImage: "dyrus_Banner_unsplash.png"
+header:
+  image: "/assets/images/dyrus_Banner_unsplash.png"
 
 layout: single
 author: "Matt Demers"

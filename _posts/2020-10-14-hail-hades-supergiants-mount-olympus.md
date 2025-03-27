@@ -9,7 +9,8 @@ tags:
   - "pyre"
   - "supergiant-games"
   - "transistor"
-coverImage: "hades_cover_banner.png"
+header:
+  image: "/assets/images/hades_cover_banner.png"
 
 layout: single
 author: "Matt Demers"

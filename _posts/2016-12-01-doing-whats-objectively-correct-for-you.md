@@ -6,7 +6,8 @@ categories:
 tags: 
   - "depression"
   - "mental-health"
-coverImage: "galleria_2016.png"
+header:
+  image: "/assets/images/galleria_2016.png"
 
 layout: single
 author: "Matt Demers"

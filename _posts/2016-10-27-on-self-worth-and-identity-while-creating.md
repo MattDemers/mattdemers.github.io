@@ -7,7 +7,8 @@ tags:
   - "creating"
   - "depression"
   - "mental-health"
-coverImage: "Rain_Banner.png"
+header:
+  image: "/assets/images/Rain_Banner.png"
 
 layout: single
 author: "Matt Demers"

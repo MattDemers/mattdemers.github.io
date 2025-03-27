@@ -7,7 +7,8 @@ tags:
   - "home-automation"
   - "homeassistant"
   - "tutorial"
-coverImage: "pexels-sinileunen-5661241-crop-laundry.jpg"
+header:
+  image: "/assets/images/pexels-sinileunen-5661241-crop-laundry.jpg"
 
 layout: single
 author: "Matt Demers"

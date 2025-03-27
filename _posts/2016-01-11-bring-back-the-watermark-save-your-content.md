@@ -6,7 +6,8 @@ categories:
 tags: 
   - "blogging"
   - "creating"
-coverImage: "e5h1YfQ1.jpg"
+header:
+  image: "/assets/images/e5h1YfQ1.jpg"
 
 layout: single
 author: "Matt Demers"

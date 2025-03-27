@@ -7,7 +7,8 @@ tags:
   - "animal-crossing"
   - "nintendo"
   - "pokemon"
-coverImage: "RECentral_4_gWuLndyUlW1.jpg"
+header:
+  image: "/assets/images/RECentral_4_gWuLndyUlW1.jpg"
 
 layout: single
 author: "Matt Demers"

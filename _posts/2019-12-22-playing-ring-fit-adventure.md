@@ -8,7 +8,8 @@ tags:
   - "nintendo-switch"
   - "physical-health"
   - "ring-fit-adventure"
-coverImage: "2019120619143000-638E7E1EEC4CD8A239243633C0345A071.jpg"
+header:
+  image: "/assets/images/2019120619143000-638E7E1EEC4CD8A239243633C0345A071.jpg"
 
 layout: single
 author: "Matt Demers"

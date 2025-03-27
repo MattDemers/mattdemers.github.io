@@ -3,7 +3,8 @@ title: "2024: The Reflection Post"
 tags: 
   - "mental-health"
   - "year-end-blogs"
-coverImage: "kite_banner.png"
+header:
+  image: "/assets/images/kite_banner.png"
 date: 2025-01-06
 layout: single
 author: "Matt Demers"

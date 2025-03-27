@@ -8,7 +8,8 @@ tags:
   - "review"
   - "video-games"
   - "xenoblade"
-coverImage: "XBCX_banner.png"
+header:
+  image: "/assets/images/XBCX_banner.png"
 
 layout: single
 author: "Matt Demers"

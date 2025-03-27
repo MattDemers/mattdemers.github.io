@@ -8,7 +8,8 @@ tags:
   - "dota-2"
   - "street-fighter-v"
   - "twitch"
-coverImage: "panic_banner.png"
+header:
+  image: "/assets/images/panic_banner.png"
 
 layout: single
 author: "Matt Demers"

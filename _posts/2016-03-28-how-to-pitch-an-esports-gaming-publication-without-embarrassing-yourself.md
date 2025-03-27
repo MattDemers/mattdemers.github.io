@@ -6,7 +6,8 @@ categories:
 tags: 
   - "creating"
   - "writing"
-coverImage: "Pitch_Banner.png"
+header:
+  image: "/assets/images/Pitch_Banner.png"
 
 layout: single
 author: "Matt Demers"

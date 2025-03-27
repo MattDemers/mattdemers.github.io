@@ -5,7 +5,8 @@ categories:
   - "personal"
 tags: 
   - "mental-health"
-coverImage: "fiveyearslater_banner.png"
+header:
+  image: "/assets/images/fiveyearslater_banner.png"
 
 layout: single
 author: "Matt Demers"

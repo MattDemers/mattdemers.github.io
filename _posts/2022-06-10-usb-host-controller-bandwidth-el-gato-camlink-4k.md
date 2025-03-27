@@ -8,7 +8,8 @@ tags:
   - "el-gato"
   - "hardware"
   - "streaming"
-coverImage: "pexels-mart-production-8450475.jpg"
+header:
+  image: "/assets/images/pexels-mart-production-8450475.jpg"
 
 layout: single
 author: "Matt Demers"

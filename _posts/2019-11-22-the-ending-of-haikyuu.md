@@ -6,7 +6,8 @@ categories:
 tags: 
   - "haikyuu"
   - "manga"
-coverImage: "vlcsnap-2019-11-22-19h43m21s6431.png"
+header:
+  image: "/assets/images/vlcsnap-2019-11-22-19h43m21s6431.png"
 
 layout: single
 author: "Matt Demers"

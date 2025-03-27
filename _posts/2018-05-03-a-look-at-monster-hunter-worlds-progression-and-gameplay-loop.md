@@ -7,7 +7,8 @@ tags:
   - "capcom"
   - "monster-hunter"
   - "review"
-coverImage: "MHW_rich_rump.png"
+header:
+  image: "/assets/images/MHW_rich_rump.png"
 
 layout: single
 author: "Matt Demers"

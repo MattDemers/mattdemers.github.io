@@ -6,7 +6,8 @@ categories:
 tags: 
   - "mental-health"
   - "physical-health"
-coverImage: "meds_banner.png"
+header:
+  image: "/assets/images/meds_banner.png"
 
 layout: single
 author: "Matt Demers"

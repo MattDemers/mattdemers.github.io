@@ -6,7 +6,8 @@ categories:
 tags: 
   - "review"
   - "yakuza"
-coverImage: "yazkua6_kiryu1.png"
+header:
+  image: "/assets/images/yazkua6_kiryu1.png"
 
 layout: single
 author: "Matt Demers"

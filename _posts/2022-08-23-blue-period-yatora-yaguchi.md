@@ -10,7 +10,8 @@ tags:
   - "manga"
   - "mental-health"
   - "space-brothers"
-coverImage: "blue_period_cover_banner_ch7.png"
+header:
+  image: "/assets/images/blue_period_cover_banner_ch7.png"
 
 layout: single
 author: "Matt Demers"

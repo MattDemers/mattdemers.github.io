@@ -8,7 +8,8 @@ tags:
   - "mmorpgs"
   - "pc-games"
   - "world-of-warcraft"
-coverImage: "mulgore.png"
+header:
+  image: "/assets/images/mulgore.png"
 
 layout: single
 author: "Matt Demers"

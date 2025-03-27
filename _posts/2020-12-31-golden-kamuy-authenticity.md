@@ -8,7 +8,8 @@ tags:
   - "golden-kamuy"
   - "japan"
   - "manga"
-coverImage: "Golden_Kamuy_banner.png"
+header:
+  image: "/assets/images/Golden_Kamuy_banner.png"
 
 layout: single
 author: "Matt Demers"

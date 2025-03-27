@@ -7,7 +7,8 @@ tags:
   - "esports"
   - "league-of-legends"
   - "video-games"
-coverImage: "iqRsR691.jpg"
+header:
+  image: "/assets/images/iqRsR691.jpg"
 
 layout: single
 author: "Matt Demers"

@@ -9,7 +9,8 @@ tags:
   - "discord"
   - "ifttt"
   - "tools"
-coverImage: "discord_automation_banner.png"
+header:
+  image: "/assets/images/discord_automation_banner.png"
 
 layout: single
 author: "Matt Demers"
